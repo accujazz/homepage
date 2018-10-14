@@ -1,0 +1,14 @@
+baseURL = "https://alexgornostaev.com/"
+title = "Alexey Gornostaev"
+languageCode = "en-us"
+theme = "Accujazz"
+googleAnalytics = "UA-6982082-7"
+summaryLength = 7
+paginate = 5
+
+[params]
+  author = "Alexey Gornostaev"
+  description = "Alexey Gornostaev's personal website."
+
+[permalinks]
+	post = "/:year/:month/:title/"	

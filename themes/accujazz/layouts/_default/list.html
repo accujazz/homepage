@@ -1,0 +1,14 @@
+{{ define "main" }}
+	<div class="bg-wrapper">
+		<h1>{{ .Title }}</h1>
+		{{ range .Paginator.Pages }}
+			<article>
+				<span class="date-published">{{ dateFormat "January 2, 2006" .Date }}</span>
+				<h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+				<article>{{ .Content }}</article>
+			</article>
+			<hr>
+		{{ end }}
+  		{{ template "_internal/pagination.html" . }}
+  	</div>
+{{ end }}
