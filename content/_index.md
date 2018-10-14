@@ -11,9 +11,9 @@ I'am interested in technology, product management, inspiring new products and pe
 
 ---
 
-I co-founded ![RAWG logo](img/rawg_logo.png)[RAWG](https://rawg.io") - a video game discovery site (that started as a simple [list of played video games](/video-game-library.txt)!). We are building the most comprehensive database that is powered by personal player experiences.
+I co-founded ![RAWG logo](/img/rawg_logo.png)[RAWG](https://rawg.io") - a video game discovery site (that started as a simple [list of played video games](/video-game-library.txt)!). We are building the most comprehensive database that is powered by personal player experiences.
 
-Previously i worked as a product manager at ![Kanobu Logo](img/kanobu_logo.png)[Kanobu](https://kanobu.ru), ![Game Insight Logo](img/game-insight_logo.svg)[Game Insight](https://game-insight.com) and Rambler games.
+Previously i worked as a product manager at ![Kanobu Logo](/img/kanobu_logo.png)[Kanobu](https://kanobu.ru), ![Game Insight Logo](/img/game-insight_logo.svg)[Game Insight](https://game-insight.com) and Rambler games.
 
 ---
 
@@ -27,6 +27,6 @@ I worked on a few personal projects over the years:
 
 ---
 
-Wonderful ![Trudi photo](img/trudi.png)[trudi.dog](http://trudi.dog) is part of our family.
+Wonderful ![Trudi photo](/img/trudi.png)[trudi.dog](http://trudi.dog) is part of our family.
 
 Cheers!
