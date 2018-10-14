@@ -5,7 +5,7 @@ date: 2018-10-03T12:41:20+03:00
 
 __Hello__,
 
-My name is ![Profile photo](/img/profile-photo.jpg)Alexey Gornostaev and currently i work in video game space and help create media and recommendation products. 
+My name is ![Profile photo](/img/profile-photo-small.jpg)Alexey Gornostaev and currently i work in video game space and help create media and recommendation products. 
 
 I'am interested in technology, product management, inspiring new products and people behind them. You can follow me on [Twitter](https://twitter.com/#!/accujazz), read at [Medium](https://medium.com/@accujazz) or direct message me via Twitter.
 
