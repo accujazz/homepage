@@ -9,9 +9,11 @@ My name is ![Profile photo](/img/profile-photo-small.jpg)Alexey Gornostaev and c
 
 I'am interested in technology, product management, inspiring new products and people behind them. You can follow me on [Twitter](https://twitter.com/#!/accujazz), read at [Medium](https://medium.com/@accujazz) or direct message me via Twitter.
 
+My first computer was a [Macintosh SE/30](https://en.wikipedia.org/wiki/Macintosh_SE/30). I’am still a Mac user ✊. My love for video games started with [Prince of Persia](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game)) by Jordan Mechner which i first saw at my parents work. I was amazed and lost playing for hours.
+
 ---
 
-I co-founded ![RAWG logo](/img/rawg_logo.png)[RAWG](https://rawg.io") - a video game discovery site (that started as a simple [list of played video games](/video-game-library.txt)!). We are building the most comprehensive database that is powered by personal player experiences.
+I co-founded ![RAWG logo](/img/rawg_logo.png)[RAWG](https://rawg.io") - a video game discovery site (that started as a simple [list of played video games](/video-game-library.txt)!). We are building the most comprehensive database that is powered by personal player experiences. Think the movie diary Letterboxd meets IMDb.
 
 Previously i worked as a product manager at ![Kanobu Logo](/img/kanobu_logo.png)[Kanobu](https://kanobu.ru), ![Game Insight Logo](/img/game-insight_logo.svg)[Game Insight](https://game-insight.com) and Rambler games.
 
