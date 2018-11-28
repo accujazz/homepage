@@ -10,11 +10,11 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 42em;
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: 400;
 	font-style: normal;
-	line-height: 1.6em;
-	color: #333;
+	line-height: 1.8em;
+	color: #000;
 }
 
 strong {
@@ -26,7 +26,7 @@ p, ul li, ol li {
 }
 
 a {
-	color: blue;
+	color: #000;
 	text-decoration: underline;
 }
 
@@ -45,19 +45,19 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-	font-size: 2em;	
+	font-size: 1.8em;	
 	font-weight: 700;
 	padding: 0.5em 0 0.5em 0;
 
 }
 
 h2 {
-	font-size: 1.8em;
+	font-size: 1.6em;
 	font-weight: 700;
 }
 
 h3 {
-	font-size: 1.6em;
+	font-size: 1.4em;
 	font-weight: 700;
 }
 
