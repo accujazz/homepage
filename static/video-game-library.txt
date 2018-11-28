@@ -4,7 +4,7 @@ title: "Video game library"
 
  Wishlist
 
-- Return Of The Obra Dinn (mac)
+- Dicey Dungeons (web)
 - Donkey Kong Country Tropical Freez (switch)
 - In The Valley of Gods (ps4)
 - Overland (mac)
@@ -13,10 +13,13 @@ title: "Video game library"
 
  Playing
 
+- Golf Peaks (ios)
+- Fidel: Dungeon Rescue (ios)
+- see/saw (ios)
+- Return Of The Obra Dinn (mac)
 - FIFA 19 (switch)
-- Bad North (switch)
-- The Legend of Zelda Breath of the Wild (switch)
 - Flipflop Solitaire (ios)
+- F1 Mobile Racing (ios)
 
 
  Beaten
@@ -97,6 +100,10 @@ title: "Video game library"
 
  Unfinished
 
+- Bad North (switch)
+- The Legend of Zelda Breath of the Wild (switch)
+- Donut County (ios)
+- Dead Cells (switch)
 - Mario Tennis Aces (switch)
 - Oddmar (ios) 
 - Getting Over It with Bennett Foddy (ios)
