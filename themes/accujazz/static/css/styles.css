@@ -91,12 +91,6 @@ hr {
 
 }
 
-.bg-wrapper {
-	padding: 1.5rem 2rem;
-	background: #F9F4EC;
-	box-shadow: 1pt 2pt 4pt rgba(0, 0, 0, 0.2);
-}
-
 /* Biography */
 
 section.bio {
@@ -204,4 +198,33 @@ ul.pagination li.active a {
 		text-align: center;
 	}
 
+}
+
+/* Dark theme */
+
+@media (prefers-color-scheme: dark) {
+	body {
+		color: #d7d7d7;
+		background: #222;
+	}
+
+	header {
+		background: #222;
+	}
+
+	section.bio {
+		background: #333;
+	}
+
+	h1, h2, h3, h3 a, h4 { 
+		color: #d7d7d7;
+	}
+
+	a {
+		color: #fff;
+	}
+
+	hr {
+		background: #222;
+	}
 }

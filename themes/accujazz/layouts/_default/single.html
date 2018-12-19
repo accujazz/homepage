@@ -1,9 +1,7 @@
 {{ define "main" }}
-	<div class="bg-wrapper">
-		<article>
-			<h1>{{ .Title }}</h1>
-			<span class="date-published">{{ dateFormat "January 2, 2006" .Date }}</span>
-			<p>{{ .Content }}</p>
-		</article>
-	</div>
+	<article>
+		<h1>{{ .Title }}</h1>
+		<span class="date-published">{{ dateFormat "January 2, 2006" .Date }}</span>
+		<p>{{ .Content }}</p>
+	</article>
 {{ end }}
