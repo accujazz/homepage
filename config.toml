@@ -4,6 +4,7 @@ languageCode = "en-us"
 theme = "Accujazz"
 summaryLength = 7
 paginate = 5
+rssLimit = 10
 
 [params]
   author = "Alexey Gornostaev"
