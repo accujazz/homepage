@@ -4,26 +4,29 @@ title: "Video game library"
 
  Wishlist
 
+- Heaven's Vault
+- Hades
+- In The Valley of Gods
+- Sayonara Wild Hearts
 - Dicey Dungeons (web)
-- Donkey Kong Country Tropical Freez (switch)
-- In The Valley of Gods (ps4)
+- Ape Out (switch)
 - Overland (mac)
-- 868-HACK (ios)
 - Red Dead Redemption 2 (ps4)
+- What Never Was
 
  Playing
 
-- Golf Peaks (ios)
-- Fidel: Dungeon Rescue (ios)
-- see/saw (ios)
 - Return Of The Obra Dinn (mac)
 - FIFA 19 (switch)
 - Flipflop Solitaire (ios)
-- F1 Mobile Racing (ios)
-
+- Twinfold (ios)
+- Dr.Meep (ios)
+- Sid Meier's Civilization VI (switch)
 
  Beaten
 
+- Uncharted 4: A Thief's End (ps4)
+- Golf Peaks (ios)
 - Into The Breach (switch)
 - holedown (ios)
 - Mario Kart 8 Deluxe (switch)
@@ -100,6 +103,8 @@ title: "Video game library"
 
  Unfinished
 
+- see/saw (ios)
+- Fidel: Dungeon Rescue (ios)
 - Bad North (switch)
 - The Legend of Zelda Breath of the Wild (switch)
 - Donut County (ios)
@@ -114,7 +119,6 @@ title: "Video game library"
 - Pyre (ps4)
 - Prey (ps4)
 - Horizon Zero Dawn (ps4)
-- Uncharted 4 (ps4)
 - No Man's Sky (ps4)
 - The Witness (ps4), (ios)
 - Ori and The Blind Forest (xbox one)
