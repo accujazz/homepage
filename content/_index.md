@@ -13,7 +13,7 @@ My first computer was a [Macintosh SE/30](https://en.wikipedia.org/wiki/Macintos
 
 ---
 
-I co-founded ![RAWG logo](/img/rawg.jpg)[RAWG](https://rawg.io") - a video game discovery site (that started as a simple [list of played video games](/video-game-library.txt)!). We are building the most comprehensive database that is powered by personal player experiences. Think the movie diary Letterboxd meets IMDb.
+I co-founded ![RAWG logo](/img/rawg.jpg)[RAWG](https://rawg.io") - a video game discovery site (that started as a simple [list of played video games](/vglibrary)!). We are building the most comprehensive database that is powered by personal player experiences. Think the movie diary Letterboxd meets IMDb.
 
 Previously i worked as a product manager at ![Kanobu Logo](/img/kanobu_logo.png)[Kanobu](https://kanobu.ru), ![Game Insight Logo](/img/game-insight_logo.svg)[Game Insight](https://game-insight.com) and Rambler games.
 

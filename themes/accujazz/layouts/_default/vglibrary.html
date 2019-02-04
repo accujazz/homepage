@@ -1,0 +1,67 @@
+{{ define "main"}}
+
+	<h1>{{ .Title }}</h1>
+
+	<div class="tab">
+		<button class="tablinks" onclick="openList(event, 'to-play')" id="defaultOpen">To play</button>
+		<button class="tablinks" onclick="openList(event, 'playing')">Playing</button>
+		<button class="tablinks" onclick="openList(event, 'beaten')">Beaten</button>
+		<button class="tablinks" onclick="openList(event, 'unfinished')">Unfinished</button>
+	</div>
+
+	<div id="to-play" class="tabcontent">
+		{{ range $.Site.Data.toplay }}
+		   {{ partial "games.html" . }}
+		{{ end }}
+	</div>
+
+	<div id="playing" class="tabcontent">
+		{{ range $.Site.Data.playing }}
+		   {{ partial "games.html" . }}
+		{{ end }}
+	</div>
+
+
+	<div id="beaten" class="tabcontent">
+		{{ range $.Site.Data.beaten }}
+		   {{ partial "games.html" . }}
+		{{ end }}
+	</div>
+
+
+	<div id="unfinished" class="tabcontent">
+		{{ range $.Site.Data.unfinished }}
+		   {{ partial "games.html" . }}
+		{{ end }}
+	</div>
+
+
+	<p style="font-size: 12px;">via <a href="http://shauninman.com/unplayed/">"Unplayed"</a>.</p>
+
+	<script>
+		function openList(evt, listName) {
+		  // Declare all variables
+		  var i, tabcontent, tablinks;
+
+		  // Get all elements with class="tabcontent" and hide them
+		  tabcontent = document.getElementsByClassName("tabcontent");
+		  for (i = 0; i < tabcontent.length; i++) {
+		    tabcontent[i].style.display = "none";
+		  }
+
+		  // Get all elements with class="tablinks" and remove the class "active"
+		  tablinks = document.getElementsByClassName("tablinks");
+		  for (i = 0; i < tablinks.length; i++) {
+		    tablinks[i].className = tablinks[i].className.replace(" active", "");
+		  }
+
+		  // Show the current tab, and add an "active" class to the button that opened the tab
+		  document.getElementById(listName).style.display = "block";
+		  evt.currentTarget.className += " active";
+		}
+
+		// Get the element with id="defaultOpen" and click on it
+		document.getElementById("defaultOpen").click();
+	</script>
+
+{{ end }}
