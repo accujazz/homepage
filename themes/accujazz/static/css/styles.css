@@ -289,4 +289,16 @@ ul.pagination li.active a {
 	hr {
 		background: #222;
 	}
+
+	.tabcontent ul li:nth-child(even) {
+		background: #333;
+	}
+
+	.tabcontent ul li:nth-child(odd) {
+		background: #444;	
+	}
+
+	.tab button {
+		color: #d7d7d7;
+	}	
 }
