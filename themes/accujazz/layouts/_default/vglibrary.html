@@ -7,6 +7,7 @@
 		<button class="tablinks" onclick="openList(event, 'playing')">Playing</button>
 		<button class="tablinks" onclick="openList(event, 'beaten')">Beaten</button>
 		<button class="tablinks" onclick="openList(event, 'unfinished')">Played</button>
+		<button class="tablinks" onclick="openList(event, 'favourites')">All-Time Favourites</button>
 	</div>
 
 	<div id="to-play" class="tabcontent">
@@ -31,6 +32,12 @@
 
 	<div id="unfinished" class="tabcontent">
 		{{ range $.Site.Data.unfinished }}
+		   {{ partial "games.html" . }}
+		{{ end }}
+	</div>
+
+	<div id="favourites" class="tabcontent">
+		{{ range $.Site.Data.toplay }}
 		   {{ partial "games.html" . }}
 		{{ end }}
 	</div>
