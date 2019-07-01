@@ -25,7 +25,7 @@ I worked on a few personal projects over the years:
 - __2012 - [Text and Glory](http://txtglory.com)__. A weekend project: plain text file format praise.
 - __2012 - AppCatcher__. A chart of mobile apps most oftenly mentioned in social media by your friends and a selection of handpicked influencers.
 - __2011 - Radarica__. Back in the day Twitter was very bad at displaying conversations. There was no way to view all replies to the original tweet, only the top-level ones were shown, but not the replies to replies. So i build a simple tool that did just that - displayed the whole conversation for a selected tweet in a simple one-page feed.
-- __2009 - Igromatika__. A video games price aggregator build when transition to digital was still in progress and video games were sold an all kinds of media: boxed and jewel retails versions, collector's editions and digital versions in a bunch of different stores. 
+- __2009 - Igromatika__. A video games price aggregator build when transition to digital was still in progress and video games were sold on all kinds of media: boxed and jewel retails versions, collector's editions and digital versions in a bunch of different stores. 
 
 ---
 
