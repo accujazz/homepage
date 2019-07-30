@@ -31,4 +31,7 @@ HUGO_ENABLEGITINFO = "true"
 
 # Redirect default Netlify subdomain to primary domain
 [[redirects]]
-http://accujazz.netlify.com/* https://alexey.is/:splat 301!
+from = "http://accujazz.netlify.com/*"
+to = "https://alexey.is/:splat"
+status = 301
+force = true
