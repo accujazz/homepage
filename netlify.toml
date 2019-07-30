@@ -28,3 +28,7 @@ HUGO_VERSION = "0.56.0"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+# Redirect default Netlify subdomain to primary domain
+[[redirects]]
+http://accujazz.netlify.com/* https://alexey.is/:splat 301!
