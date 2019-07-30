@@ -1,7 +1,7 @@
 baseURL = "https://alexey.is/"
 title = "Alexey Gornostaev"
 languageCode = "en-us"
-theme = "Accujazz"
+theme = "accujazz"
 summaryLength = 7
 paginate = 5
 rssLimit = 10
