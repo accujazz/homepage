@@ -7,7 +7,7 @@ __Hello__,
 
 My name is ![Profile photo](/img/profile-photo-small.jpg)Alexey Gornostaev and currently i work in video game space and help create media and recommendation products. 
 
-I'am interested in technology, product management, inspiring new products and people behind them. You can follow me on [Twitter](https://twitter.com/#!/accujazz), read at [Medium](https://medium.com/@accujazz) and here in the [posts archive](/posts) (in Russian) or direct message me via Twitter.
+I'am interested in technology, product management, inspiring new products and people behind them. You can follow me on [Twitter](https://twitter.com/#!/accujazz), read at [Medium](https://medium.com/@accujazz) and here in the [posts archive](/posts) (in Russian), [send me an email](mailto:me@alexey.is) or direct message via Twitter.
 
 <!-- My first computer was a [Macintosh SE/30](https://en.wikipedia.org/wiki/Macintosh_SE/30). I’am still a Mac user ✊. My love for video games started with [Prince of Persia](https://en.wikipedia.org/wiki/Prince_of_Persia_(1989_video_game)) by Jordan Mechner which i first saw at my parents work. I was amazed and lost playing for hours. -->
 
