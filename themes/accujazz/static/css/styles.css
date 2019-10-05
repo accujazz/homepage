@@ -14,8 +14,8 @@ body {
 	font-weight: 400;
 	font-style: normal;
 	line-height: 1.8em;
-	color: #000;
-	background: #F8F7F5;
+	color: #333;
+	background: #f4f2f0;
 }
 
 strong {
@@ -27,12 +27,17 @@ p, ul li, ol li {
 }
 
 a {
-	color: #03a87c;
-	text-decoration: underline;
+	color: #333;
+	text-decoration: none;
+	background-image: linear-gradient(to bottom,#03a87c 50%,#029C74 50%);
+	background-repeat: repeat-x;
+	background-size: 1px 1px;
+	background-position: 0 100%;
+	transition: color .2s ease;
 }
 
 a:hover {
-	color: #018f69;
+	color: #03a87c;
 }
 
 img {
@@ -63,8 +68,7 @@ h3 {
 }
 
 h3 a {
-	color: #000;
-	text-decoration: none;
+	background-image: none;
 }
 
 blockquote  {
@@ -98,30 +102,11 @@ hr {
 
 /* Biography */
 
-section.bio {
-	/*padding: 1.5rem 2rem;*/
-	/*background: #F9F4EC;*/
-	/*box-shadow: 1pt 2pt 4pt rgba(0, 0, 0, 0.2);*/
-	font-size: 18px;
-}
-
-section.bio h1 {
-	text-align: center;
-	text-transform: uppercase;
-}
-
 section.bio img {
 	height: 24px;
 	margin: 0 4px;
 	vertical-align: text-bottom;
 	border-radius: 50px;
-}
-
-section.bio ul {
-	list-style: disc;
-	text-align: left;
-	font-size: 14px;
-
 }
 
 /* Header */
@@ -283,7 +268,7 @@ ul.pagination li.active a {
 	}
 
 	a {
-		color: #fff;
+		color: #d7d7d7;
 	}
 
 	hr {
