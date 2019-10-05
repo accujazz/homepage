@@ -3,7 +3,7 @@
 	{{ range .Paginator.Pages }}
 		<article>
 			<span class="date-published">{{ dateFormat "January 2, 2006" .Date }}</span>
-			<h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+			<h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
 			<article>{{ .Content }}</article>
 		</article>
 		<hr>

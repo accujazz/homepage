@@ -9,7 +9,7 @@ body {
 	text-rendering: optimizeLegibility;
 	margin-left: auto;
 	margin-right: auto;
-	max-width: 42em;
+	max-width: 34em;
 	font-size: 18px;
 	font-weight: 400;
 	font-style: normal;
@@ -58,17 +58,13 @@ h1 {
 }
 
 h2 {
-	font-size: 1.6em;
-	font-weight: 700;
-}
-
-h3 {
 	font-size: 1.4em;
 	font-weight: 700;
 }
 
-h3 a {
-	background-image: none;
+h3 {
+	font-size: 1.2em;
+	font-weight: 700;
 }
 
 blockquote  {
