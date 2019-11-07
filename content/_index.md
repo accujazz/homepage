@@ -3,7 +3,7 @@ title: "Alexey Gornostaev"
 date: 2018-10-03T12:41:20+03:00
 ---
 
-__Hello__,
+# Hello,
 
 My name is ![Profile photo](/img/profile-photo-small.jpg)Alexey Gornostaev and currently i work in video game space and help create media and recommendation products. 
 
