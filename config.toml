@@ -1,4 +1,4 @@
-baseURL = "https://alexey.is/"
+baseURL = "http://alexey.is/"
 title = "Alexey Gornostaev"
 languageCode = "en-us"
 theme = "accujazz"
