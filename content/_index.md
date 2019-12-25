@@ -9,7 +9,7 @@ Over the past 10 years i was responsible for creating and developing a video gam
 
 ---
 
-I’am interested in technology, product management, inspiring new products and people behind them. You can follow me on [Twitter](https://twitter.com/#!/accujazz), read at [Medium](https://medium.com/@accujazz) and here in the [posts archive](/posts) (in Russian), [send me an email](mailto:me@alexey.is) or direct message via Twitter.
+I am interested in technology, product management, inspiring new products and people behind them. You can follow me on [Twitter](https://twitter.com/#!/accujazz), read at [Medium](https://medium.com/@accujazz) and here in the [posts archive](/posts) (in Russian), [send me an email](mailto:me@alexey.is) or direct message via Twitter.
 
 ---
 
