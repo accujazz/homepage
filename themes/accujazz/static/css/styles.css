@@ -10,12 +10,12 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	max-width: 34em;
-	font-size: 18px;
+	font-size: 22px;
 	font-weight: 400;
 	font-style: normal;
 	line-height: 1.8em;
-	color: #484848;
-	background: #f4f2f0;
+	color: #000;
+	background: #fff;
 }
 
 strong {
@@ -31,7 +31,7 @@ a {
 	text-decoration: none;
 	background-image: linear-gradient(to bottom,#03a87c 50%,#029C74 50%);
 	background-repeat: repeat-x;
-	background-size: 1px 1px;
+	background-size: 2px 2px;
 	background-position: 0 100%;
 	transition: color .2s ease;
 }
@@ -97,6 +97,21 @@ hr {
 }
 
 /* Biography */
+
+section.bio {
+	padding: 1em 2em 1em 2em;
+	background: #f4f2f0;
+	border-radius: 8px;
+}
+
+section.bio p:first-child {
+	font-size: 30px;
+	line-height: 1.5em;
+}
+
+section.bio p:first-child img {
+	height: 40px;
+}
 
 section.bio img {
 	height: 24px;
@@ -221,12 +236,12 @@ ul.pagination li.active a {
 @media all and (max-width: 768px) {
 
 	html {
-		font-size: 16px;
 	}
 
 	body {
 		width: 96%;
 		padding: 0 2% 0 2%;
+		font-size: 18px;
 	}
 
 	iframe {
@@ -239,6 +254,19 @@ ul.pagination li.active a {
 
 	.content {
 		padding: 0 2% 0 2%;
+	}
+
+	section.bio {
+		padding: 1em;
+	}
+
+
+	section.bio p:first-child {
+		font-size: 24px;
+	}
+
+	section.bio p:first-child img {
+		height: 32px;
 	}
 
 }
@@ -256,7 +284,6 @@ ul.pagination li.active a {
 	}
 
 	section.bio {
-		padding: 1.5rem 2rem;
 		background: #333;
 	}
 
