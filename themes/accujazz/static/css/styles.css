@@ -1,6 +1,3 @@
-html {
-}
-
 body {
 	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
@@ -90,10 +87,6 @@ hr {
 	text-align: center;
 	height: 1px;
 	width: 100%;
-}
-
-.content {
-
 }
 
 /* Biography */
@@ -230,13 +223,9 @@ ul.pagination li.active a {
 	color: #000;
 }
 
-
 /* Mobile */
 
 @media all and (max-width: 768px) {
-
-	html {
-	}
 
 	body {
 		width: 96%;
