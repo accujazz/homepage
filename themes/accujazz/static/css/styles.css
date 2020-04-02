@@ -19,6 +19,10 @@ strong {
 	font-weight: 700;
 }
 
+em {
+	font-style: italic;
+}
+
 p, ul li, ol li {
 	margin: 1em 0 1em 0;
 }
