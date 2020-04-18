@@ -1,5 +1,5 @@
 ---
-title: "Alexey Gornostaev"
+title: "Alexey Gornostaev (Алексей Горностаев)"
 date: 2018-10-03T12:41:20+03:00
 ---
 
