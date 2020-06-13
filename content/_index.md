@@ -9,7 +9,7 @@ Over the past 10 years i was responsible for creating and developing a video gam
 
 ---
 
-I am interested in the processes that help understand customers needs,  build the right things for them and skip unnecessary. You can follow me on [Twitter](https://twitter.com/#!/accujazz), read the [blog](/posts) (in Russian), [send me an email](mailto:me@alexey.is) or direct message via Twitter.
+I am interested in the processes that help understand customers needs,  build the right things for them and skip unnecessary. You can follow me on [Twitter](https://twitter.com/#!/accujazz), read the [blog](/posts) (mostly in Russian), [send me an email](mailto:me@alexey.is) or direct message via Twitter.
 
 ---
 
