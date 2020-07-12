@@ -25,7 +25,7 @@ We started with the basics and have been continuously improving the service. At 
 
 There are lots of new features in this release but i’ll focus on the two most important ones.
 
-## The game page
+### The game page
 
 ![RAWG Game page](/img/posts/rawg-gamepage.png)
 
@@ -43,7 +43,7 @@ On the [Bioshock Infinite](https://rawg.io/games/bioshock-infinite) page, aside 
 
 Furthermore, RAWG gives its users tools not just to watch the content but to create it and engage with the game: mark it if you have finished it, add it to your wish list or suggest to other users’ collections. Plus on the game page you can find its rating based on RAWG funny 1-click emoji review system and more RAWGish community-related discussion section for Q’and’A type of posts that will show up in the feeds of people that have this game.
 
-## Highlighting game creators
+### Highlighting game creators
 
 ![RAWG Creator's page](/img/posts/rawg-creatorpage.png)
 
@@ -53,7 +53,7 @@ But you also might be surprised that Terry Pratchett’s daughter Rhianna [was a
 
 We used Wikipedia public API to populate the site with the initial data and combined it with our game database. You can find the game credits on sites like MobyGames, but RAWG treats the data in a different way that allows us, for example, to display the game stats for each creator, most known games, and their average scores.
 
-## What’s next?
+### What’s next?
 
 In short, a lot. There are some rough edges here and there (that’s why it’s called a beta!), we are aware that not every game’s data is 100% accurate and it is a high-priority for us to fix this. We are aiming to make the database fully user editable and with the help of our growing community make it bigger and more accurate.
 

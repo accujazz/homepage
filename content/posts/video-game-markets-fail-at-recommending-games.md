@@ -5,7 +5,7 @@ date: 2017-06-28T13:27:48+02:00
 
 ![John Travolta does't know what to do](/img/posts/travolta-hard-to-choose.jpg)
 
-## It’s hard to choose the right game to play
+### It’s hard to choose the right game to play
 
 There are around 15 big AAA games with huge marketing budgets every year that everyone knows about and are somewhat a safe bet to invest your time in, but if you are interested in more niche genres or want to play something different things are getting confusing very quickly.
 
@@ -13,7 +13,7 @@ Not everyone is satisfied with watching only Marvel and action movies, right? Tr
 
 Things are way more complex than they need to be.
 
-## Here is why (or the current state of video game stores)
+### Here is why (or the current state of video game stores)
 
 Discoverability is a major problem that each platform tries to solve in it’s own way. There are basically three different approaches in use:
 
@@ -33,7 +33,7 @@ Obviously, because they do not have enough trust in a store recommendations. Any
 
 The above-mentioned process is time consuming and requires domain knowledge. Maybe there is a way to simplify and get rid of discovery routine? To find out let’s look at other entertainment industries.
 
-## What could be borrowed from other entertainment industries
+### What could be borrowed from other entertainment industries
 
 In the movies space there is a bunch of services that are used for recommendation purposes. IMDB acts as yellow pages of the movies and tv series, providing a comprehensive knowledge base where one can lose themselves in surfing and finding new movies connected through actors, directors and lists. Trakt and TMDb provide access to their databases via the API and [a lot of](https://trakt.tv/apps) great [apps and websites](https://www.themoviedb.org/apps) make good use of it. Letterboxd and iShows are notable examples. A diverse ecosystem of services exists and this is awesome for the end user.
 
@@ -41,7 +41,7 @@ Goodreads is a huge and very popular book sharing and recommendation website tha
 
 And all this activity happens absolutely independent of the companies that sell things. If some unlucky store goes down the ecosystem for finding information and recommendations will still be in place.
 
-## So what needs to be done
+### So what needs to be done
 
 Let’s take all the good parts and sum them up:
 
