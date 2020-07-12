@@ -1,11 +1,9 @@
 <header>
-	<ul>
-		<li>
-			{{if .IsHome}}
-				
-			{{else}} 
-				<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> / {{ .Title }}
-			{{end}}
-		</li>
-	</ul>
+	<p>
+		{{if .IsHome}}
+			
+		{{else}} 
+			<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> / {{ .Title }}
+		{{end}}
+	</p>
 </header>

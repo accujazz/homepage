@@ -7,7 +7,7 @@ body {
 	font-weight: 400;
 	font-style: normal;
 	line-height: 1.6em;
-	color: #333;
+	color: #000;
 	background: #fff;
 }
 
@@ -24,7 +24,7 @@ p, ul li, ol li {
 }
 
 a {
-	color: #333;
+	color: #000;
 	text-decoration: none;
 	background-image: linear-gradient(to bottom,#03a87c 50%,#029C74 50%);
 	background-repeat: repeat-x;
@@ -43,20 +43,18 @@ img {
 
 h1, h2, h3, h4 {
 	color: #000;
-	padding: 0 0 0.2em 0;
 	line-height: 1.2em;
+	font-weight: 800;
 }
 
 h1 {
-	font-size: 1.8em;	
-	font-weight: 700;
-	padding: 0 0 0.5em 0;
-
+	font-size: 2.8em;
+	text-align: center;
 }
 
 h2 {
-	font-size: 1.4em;
-	font-weight: 700;
+	font-size: 2.4em;
+	text-align: center;
 }
 
 h2 a {
@@ -65,8 +63,7 @@ h2 a {
 }
 
 h3 {
-	font-size: 1.2em;
-	font-weight: 700;
+	font-size: 2em;
 }
 
 blockquote  {
@@ -122,14 +119,14 @@ section.bio img {
 /* Header */
 
 header {
-	padding: 1em 0 1em 0;
-	text-align: left;
 	font-size: 14px;
+	line-height: 1.4em;
 }
 
-header ul li {
-	list-style-type: none;
-	margin: 0;
+header a {
+	color: #000;
+	text-decoration: underline;
+	background-image: none;
 }
 
 /* Footer */
@@ -140,18 +137,32 @@ footer {
 	font-size: 14px;
 }
 
+footer a {
+	color: #000;
+	text-decoration: underline;
+	background-image: none;
+}
+
 /* Article list */
 
 article {
-	margin: 0 0 2em 0;
+	margin: 2em 0;
 }
 
 article .date-published {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
 	font-size: 14px;
-	color: #999;
-	font-weight: bold;
+	color: #6d6d6d;
+	font-weight: 500;
 	text-transform: uppercase;
 	letter-spacing: 1px;
+}
+
+article img {
+	display: block;
+	margin: 0 auto;
 }
 
 /* Video games list */
@@ -159,6 +170,7 @@ article .date-published {
 /* Style the tab */
 .tab {
   overflow: hidden;
+  margin: 1em 0;
 }
 
 /* Style the buttons that are used to open the tab content */
@@ -220,12 +232,19 @@ ul.pagination li {
 	margin: 0 0.2em 0 0.2em;
 }
 
-ul.pagination li a {
+a.page-link {
+	color: #000;
 	text-decoration: none;
+	background-image: none;
+}
+
+a.page-link:hover {
+	color: #03a87c;
+	text-decoration: underline;
 }
 
 ul.pagination li.active a {
-	color: #000;
+	color: #6d6d6d;
 }
 
 /* Mobile */
@@ -248,6 +267,18 @@ ul.pagination li.active a {
 
 	.content {
 		padding: 0 2% 0 2%;
+	}
+
+	h1 {
+		font-size: 2.2em;
+	}
+
+	h2 {
+		font-size: 1.8em;
+	}
+
+	h3 {
+		font-size: 1.4em;
 	}
 
 	section.bio {
@@ -273,8 +304,8 @@ ul.pagination li.active a {
 		background: #222;
 	}
 
-	header {
-		background: #222;
+	header a, footer a {
+		color: #d7d7d7;
 	}
 
 	section.bio {
@@ -286,6 +317,10 @@ ul.pagination li.active a {
 	}
 
 	a {
+		color: #d7d7d7;
+	}
+
+	a.page-link {
 		color: #d7d7d7;
 	}
 
