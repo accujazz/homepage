@@ -3,7 +3,7 @@ title: "Alexey Gornostaev (Алексей Горностаев)"
 date: 2018-10-03T12:41:20+03:00
 ---
 
-__Hi__, my name is ![Profile photo](/img/profile-photo.jpg)Alexey Gornostaev. I help build video game-related software products. 
+👋 __Hi__, my name is ![Profile photo](/img/profile-photo.jpg)Alexey Gornostaev. I help build video game-related software products. 
 
 Over the past 10 years i was responsible for creating and developing a video games digital distribution service, mobile in-game social and support platform for [Game Insight](https://www.game-insight.com/en), [video games media](https://kanobu.ru/) with a monthly audience of more than 5 million people and co-founded a [video game discovery site](https://rawg.io/) (think the movie diary Letterboxd meets IMDb).
 
