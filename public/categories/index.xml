@@ -5,10 +5,6 @@
     <link>http://alexey.is/categories/</link>
     <description>Recent content in Categories on Alexey Gornostaev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://alexey.is/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://alexey.is/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
