@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alexey Gornostaev</title>
+    <link>accujazz.github.io/posts/</link>
+    <description>Recent content in Posts on Alexey Gornostaev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Sep 2020 19:35:22 +0300</lastBuildDate>
+    
+	<atom:link href="accujazz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Игровая индустрия круче всех</title>
+      <link>accujazz.github.io/posts/video-games-business-models/</link>
+      <pubDate>Sun, 13 Sep 2020 19:35:22 +0300</pubDate>
+      
+      <guid>accujazz.github.io/posts/video-games-business-models/</guid>
+      <description>Игры - единственная большая индустрия развлечений, где несколько разных бизнес-моделей успешно существуют вместе.
+Музыкальный бизнес казалось умирает, но в итоге первым целиком существует в будущем.</description>
+    </item>
+    
+    <item>
+      <title>Books via RSS</title>
+      <link>accujazz.github.io/posts/2020-07-22-books-via-rss/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>accujazz.github.io/posts/2020-07-22-books-via-rss/</guid>
+      <description>I read a lot of articles but often struggle with books. In attempt to analyze why i came to a simple realization.</description>
+    </item>
+    
+    <item>
+      <title>Media companies should stop aiming for more reach</title>
+      <link>accujazz.github.io/posts/2020-06-13-strategy-and-challenges-media-business/</link>
+      <pubDate>Sat, 13 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>accujazz.github.io/posts/2020-06-13-strategy-and-challenges-media-business/</guid>
+      <description>As usual a great essay by @benthompson on the big picture of strategy and challenges media business face on the internet.</description>
+    </item>
+    
+    <item>
+      <title>О форме, функции и вреде паттерн-мышления</title>
+      <link>accujazz.github.io/posts/2020-03-31-form-function-and-pattern-based-thinking/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>accujazz.github.io/posts/2020-03-31-form-function-and-pattern-based-thinking/</guid>
+      <description>Можно самому себе сильно усложнить задачу при создании нового продукта. Для этого достаточно не с того начать - нарисовать в уме картину и начать натягивать ее на требования.</description>
+    </item>
+    
+    <item>
+      <title>О скраме и зацикленности на скорости</title>
+      <link>accujazz.github.io/posts/2020-03-20-scrum-and-fixation-on-speed/</link>
+      <pubDate>Fri, 20 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>accujazz.github.io/posts/2020-03-20-scrum-and-fixation-on-speed/</guid>
+      <description>В некоторых методологиях разработки ПО есть инструменты для измерения скорости: burndown chart, velocity, story points и т.п. Цель благая - научится правильно оценивать задачи и делать их с прогнозируемой скоростью.</description>
+    </item>
+    
+    <item>
+      <title>Как должны работать колонки в таск-трекерах</title>
+      <link>accujazz.github.io/posts/2020-03-18-columns-in-task-trackers/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>accujazz.github.io/posts/2020-03-18-columns-in-task-trackers/</guid>
+      <description>Часто в таск-трекерах делают колонки по специализациям и двигают задачи между ними. Так фича постепенно двигается по своему жизненному циклу, например: Specs/Research -&amp;gt; Design -&amp;gt; Backend -&amp;gt; Frontend -&amp;gt; Testing -&amp;gt; Done.</description>
+    </item>
+    
+    <item>
+      <title>Если не получается ремоут, то и в офисе у вас что-то не так</title>
+      <link>accujazz.github.io/posts/2020-03-17-remote-work-struggles/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>accujazz.github.io/posts/2020-03-17-remote-work-struggles/</guid>
+      <description>Компании, у которых трудности с удаленной работой сейчас, скорее всего имели их и в офисе. Не замечали, потому что в офисе много способов получить видимость, что все ок.</description>
+    </item>
+    
+    <item>
+      <title>Re: «Чума на оба ваших стора»</title>
+      <link>accujazz.github.io/posts/re-plague-on-games-markets/</link>
+      <pubDate>Mon, 07 Jan 2019 12:26:57 +0200</pubDate>
+      
+      <guid>accujazz.github.io/posts/re-plague-on-games-markets/</guid>
+      <description>Мне есть что сказать про статью Кости Говоруна «&lt;a href=&#34;https://dtf.ru/gameindustry/35441-chuma-na-oba-vashih-stora&#34;&gt;Чума на оба ваши стора&lt;/a&gt;».
+Костя рассуждает, что в будущем игровые магазины не будут брать комиссию в 30% с разработчиков. И что запуск конкурентов, если они используют ту же модель монетизации — тупиковая ветвь развития. Конкретный пример — Epic Games Store. Давайте разберёмся, действительно ли в прекрасном завтра комиссия станет 0% и нужны ли нам три лончера для игр.</description>
+    </item>
+    
+    <item>
+      <title>You Have Nothing to Play</title>
+      <link>accujazz.github.io/posts/you-have-nothing-to-play/</link>
+      <pubDate>Tue, 06 Feb 2018 12:03:38 +0200</pubDate>
+      
+      <guid>accujazz.github.io/posts/you-have-nothing-to-play/</guid>
+      <description>Yes, despite the growing number of games released each year for every current platform, it is getting harder and harder to find the next game to play.</description>
+    </item>
+    
+    <item>
+      <title>Video Game Markets Fail at Recommending Games</title>
+      <link>accujazz.github.io/posts/video-game-markets-fail-at-recommending-games/</link>
+      <pubDate>Wed, 28 Jun 2017 13:27:48 +0200</pubDate>
+      
+      <guid>accujazz.github.io/posts/video-game-markets-fail-at-recommending-games/</guid>
+      <description>It’s hard to choose the right game to play There are around 15 big AAA games with huge marketing budgets every year that everyone knows about and are somewhat a safe bet to invest your time in, but if you are interested in more niche genres or want to play something different things are getting confusing very quickly.</description>
+    </item>
+    
+  </channel>
+</rss>

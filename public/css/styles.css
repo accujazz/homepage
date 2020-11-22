@@ -1,0 +1,343 @@
+body {
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 34em;
+	font-size: 22px;
+	font-weight: 400;
+	font-style: normal;
+	line-height: 1.6em;
+	color: #000;
+	background: #fff;
+}
+
+strong {
+	font-weight: 700;
+}
+
+
+em {
+	font-style: italic;
+}
+
+p, ul li, ol li {
+	margin: 1em 0 1em 0;
+}
+
+a {
+	color: #000;
+	text-decoration: none;
+	background-image: linear-gradient(to bottom,#03a87c 50%,#029C74 50%);
+	background-repeat: repeat-x;
+	background-size: 2px 2px;
+	background-position: 0 100%;
+	transition: color .2s ease;
+}
+
+a:hover {
+	color: #03a87c;
+}
+
+img {
+	max-width: 100%;
+}
+
+h1, h2, h3, h4 {
+	color: #000;
+	line-height: 1.2em;
+	font-weight: 800;
+}
+
+h1 {
+	font-size: 2.8em;
+	text-align: center;
+}
+
+h2 {
+	font-size: 2.4em;
+	text-align: center;
+}
+
+h2 a {
+	background-image: none;
+	background-size: 0;
+}
+
+h3 {
+	font-size: 2em;
+}
+
+blockquote  {
+	font-size: 1.1em;
+	font-style: italic;
+	margin: 1.5em 0 1.5em 0;
+	padding-left: 1em;
+	max-width: 100%;
+}
+
+ul li {
+	list-style-type: disc;
+	margin-left: 2em;
+}
+
+ol li {
+	margin-left: 2em;
+}
+
+hr {
+	border: none;
+	background: #DBDAD6;
+	text-align: center;
+	height: 1px;
+	width: 100%;
+}
+
+/* Biography */
+
+section.bio {
+	line-height: 1.8em;
+	padding: 1em 2em 1em 2em;
+	background: #f4f2f0;
+	border-radius: 8px;
+}
+
+section.bio p:first-child {
+	font-size: 30px;
+	line-height: 1.5em;
+}
+
+section.bio p:first-child img {
+	height: 40px;
+}
+
+section.bio img {
+	height: 24px;
+	margin: 0 4px;
+	vertical-align: text-bottom;
+	border-radius: 50px;
+}
+
+/* Header */
+
+header {
+	font-size: 14px;
+	line-height: 1.4em;
+}
+
+header a {
+	color: #000;
+	text-decoration: underline;
+	background-image: none;
+}
+
+/* Footer */
+
+footer {
+	margin-top: 2em;
+	text-align: center;
+	font-size: 14px;
+}
+
+footer a {
+	color: #000;
+	text-decoration: underline;
+	background-image: none;
+}
+
+/* Article list */
+
+article {
+	margin: 2em 0;
+}
+
+article .date-published {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	font-size: 14px;
+	color: #6d6d6d;
+	font-weight: 500;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+article img {
+	display: block;
+	margin: 0 auto;
+}
+
+/* Video games list */
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  margin: 1em 0;
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+	font-size: 1em;
+	color: #000;
+	background-color: inherit;
+	float: left;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	padding: 8px 0 8px 0;
+	margin: 0 1em 0 0;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+	border-bottom: 4px solid #03a87c;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+	font-weight: bold;
+	border-bottom: 4px solid #03a87c;
+}
+
+/* Style the tab content */
+.tabcontent {
+	display: none;
+	padding: 6px 0;
+	border-top: none;
+}
+
+.tabcontent ul li {
+	list-style-type: none;
+	font-size: 12px;
+	margin: 0;
+	padding: 1em;
+	line-height: 1.8em;
+}
+
+.tabcontent ul li:nth-child(even) {
+	background: #fff;
+}
+
+.tabcontent ul li:nth-child(odd) {
+	background: #D6D6D3;	
+}
+
+
+/* Pagination */
+
+ul.pagination {
+	text-align: center;
+}
+
+ul.pagination li {
+	display: inline;
+	margin: 0 0.2em 0 0.2em;
+}
+
+a.page-link {
+	color: #000;
+	text-decoration: none;
+	background-image: none;
+}
+
+a.page-link:hover {
+	color: #03a87c;
+	text-decoration: underline;
+}
+
+ul.pagination li.active a {
+	color: #6d6d6d;
+}
+
+/* Mobile */
+
+@media all and (max-width: 768px) {
+
+	body {
+		width: 96%;
+		padding: 0 2% 0 2%;
+		font-size: 18px;
+	}
+
+	iframe {
+		width: 100%;
+	}
+
+	header {
+		text-align: center;
+	}
+
+	.content {
+		padding: 0 2% 0 2%;
+	}
+
+	h1 {
+		font-size: 2.2em;
+	}
+
+	h2 {
+		font-size: 1.8em;
+	}
+
+	h3 {
+		font-size: 1.4em;
+	}
+
+	section.bio {
+		padding: 1em;
+	}
+
+
+	section.bio p:first-child {
+		font-size: 24px;
+	}
+
+	section.bio p:first-child img {
+		height: 32px;
+	}
+
+}
+
+/* Dark theme */
+
+@media (prefers-color-scheme: dark) {
+	body {
+		color: #d7d7d7;
+		background: #222;
+	}
+
+	header a, footer a {
+		color: #d7d7d7;
+	}
+
+	section.bio {
+		background: #333;
+	}
+
+	h1, h2, h3, h3 a, h4 { 
+		color: #d7d7d7;
+	}
+
+	a {
+		color: #d7d7d7;
+	}
+
+	a.page-link {
+		color: #d7d7d7;
+	}
+
+	hr {
+		background: #222;
+	}
+
+	.tabcontent ul li:nth-child(even) {
+		background: #333;
+	}
+
+	.tabcontent ul li:nth-child(odd) {
+		background: #444;	
+	}
+
+	.tab button {
+		color: #d7d7d7;
+	}	
+}
