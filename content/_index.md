@@ -14,9 +14,9 @@ You can [send me an email](mailto:me@alexey.is) or direct message me on [Twitter
 __Work__
 
 - I consult on product development and strategy a [US-based startup](https://gather.gg) that is building a platform for creating tournaments and competitions for online video games.
-- Co-founded a Lithuania-based [video game discovery site](https://rawg.io/) (think the movie diary Letterboxd meets IMDb). You can read a couple of essays from that era: [Video Game Markets Fail at Recommending Games](/posts/video-game-markets-fail-at-recommending-games/) and [You Have Nothing to Play](/posts/you-have-nothing-to-play/).
+- Co-founded a Lithuania-based [video game discovery site](https://rawg.io/) (think the movie diary Letterboxd meets IMDb). You can read a couple of essays from that time: [Video Game Markets Fail at Recommending Games](/posts/video-game-markets-fail-at-recommending-games/) and [You Have Nothing to Play](/posts/you-have-nothing-to-play/).
 - Lead product at a Russian [video games media](https://kanobu.ru/) with a monthly audience of more than 5 million people.
-- Worked on mobile in-game social and support platform for [Game Insight](https://www.game-insight.com/en).
+- Worked on mobile in-game marketing and support platform for [Game Insight](https://www.game-insight.com/en).
 - Was responsible for creating and developing a video games digital distribution service.
 
 ---
