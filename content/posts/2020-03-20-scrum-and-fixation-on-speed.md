@@ -1,22 +1,20 @@
 ---
 date: "2020-03-20T00:00:00Z"
-title: О скраме и зацикленности на скорости
+title: Scrum and fixation on the speed
 ---
 
-В некоторых методологиях разработки ПО есть инструменты для измерения скорости: burndown chart, velocity, story points и т.п. Цель благая - научится правильно оценивать задачи и делать их с прогнозируемой скоростью.
+Many software development methodologies have tools to measure speed: burndown chart, velocity tracking, story points, etc. The goal is admirable - to improve tasks estimation accuracy and to be consistent in resource allocation and planning.
 
-Сделать это сложно. На практике это становится основным вниманием команды - считать очки, трекать график и закрывать таски как на конвейере.
+Not an easy thing to achieve. And practice shows that despite all effort most teams still struggle with estimates. In reality this rpg-like game in measuring efficiency takes all the team focus (like most games do): calculate story points, track the burnout chart, move tasks on board from left to right.
 
-Запрещено изменять задачи в ходе итерации. То есть если вы узнали что-то новое и задачу нужно сильно изменить, то пожалуйста, но в следующей итерации, через неделю-две.
+It is not encouraged to change tasks during a sprint. Basically meaning that if you learned something new and the task needs to be changed accordingly you must wait a week or two till the current iteration ends.
 
-И это булшит. Если самое важное событие на итерации - узнали новое и поняли как продукт сделать лучше - должно ждать и уходить на потом. Где здесь гибкость?
+This is bullshit. If one of the most important accomplishments during product development, learning something valuable and understanding how to make the product better, needs to wait for the process to catch up then where is agile and flexibility here?
 
-Методология работает со скоростью как главной проблемой. Она не спрашивает какую и чью проблему эти user stories решают. Ее не волнует как успешность будет измеряться. Все с чем она работает - это сделаны требования в срок или нет.
+Methodology works with speed as the main problem. It doesn't ask for whom and what problem these user stories solve. It doesn't track if the feature is successful in benefiting the user. All what it cares about is if the requirements are done in correct estimates. 
 
-Методология разделяет тех, кто реализует и тех, кто требования определяет. В такой конструкции невозможно прогрессировать продукту в процессе разработки. Потому что команда выключена из процесса анализа и разработки решений. Она запиливает.
+That kind of methodologies divide those who write the requirements and those who make solutions for them. In such circumstances it is impossible for product to improve during the sprints because the highly skilled and smart team doesn't take part in analysis and improving solutions for user problems.
 
-В процессе разработки появляется много полезных и новых знаний. Они должны менять продукт. Нельзя из этого процесса выключать умнейших людей в компании и направлять все их внимание на сроки.
+In my experience one the most valuable insights and improvements happen during actual feature/product development. I believe that is because this is the rare time when the whole team is working on a problem. We shouldn't exclude them from the product improvement process and focus just on the speed. Or you could accomplish what you aim for - complete the project quickly but make not what was needed or desired by the customers.   
 
-Получается, что растет вероятность сделать очень быстро, но НЕ ТО. Что обесценивает любые другие усилия.
-
-_Этот пост изначально был [серией твитов](https://twitter.com/accujazz/status/1240911040877154305)._
+_This post started as a [series of tweets](https://twitter.com/accujazz/status/1240911040877154305) (In Russian)._
