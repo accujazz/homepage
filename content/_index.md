@@ -15,7 +15,7 @@ __Work__
 
 - I consult on product development and strategy a US-based startup that is building a platform for creating tournaments and competitions for online video games.
 	- You can read [Making Group Competition Flow x100 More Simple and Efficient](/posts/making-group-competition-flow-x100-more-simple-and-efficient/) to get an idea of the problems that we were solving.
-- Co-founded a Lithuania-based [video game discovery site](https://rawg.io/) (think the movie diary Letterboxd meets IMDb). In 2019 we launched an open API that is serving more than 50 million requests monthly and is used by Yandex, [Unity](https://unity.com), [Blur](http://www.blur.com) and other fine companies. You can read a couple of essays from that time: 
+- Co-founded a Lithuania-based [video game discovery site](https://rawg.io/) (think the movie diary Letterboxd meets IMDb). In 2019 we launched an open API that is serving more than 50 million requests monthly and is used by people from Yandex, [Unity](https://unity.com), [Blur](http://www.blur.com) and other fine companies. You can read a couple of essays from that time: 
 	- [Video Game Markets Fail at Recommending Games](/posts/video-game-markets-fail-at-recommending-games/)
 	- [You Have Nothing to Play](/posts/you-have-nothing-to-play/)
 - Lead product at a Russian [video games media](https://kanobu.ru/) with a monthly audience of more than 5 million people.
