@@ -1,30 +1,28 @@
 ---
-title: "Игровая индустрия круче всех"
+title: "Video games industry is the best"
 date: 2020-09-13T19:35:22+03:00
 ---
 
-Игры - единственная большая индустрия развлечений, где несколько разных бизнес-моделей успешно существуют вместе.
+Video games is the only entertainment industry where several business models are successfully used at the same time.
 
-Музыкальный бизнес казалось умирает, но в итоге первым целиком существует в будущем. Стриминг - это 85% рынка, против 80% всего год назад. Ретейл еще продает на 5 млрд в год, но уже ни на что не влияет.
+For a long time it seemed like the music industry was struggling the most but in the end it is first to live completely in the future. Streaming takes 85% off the market growing from 80% only a year ago. The retail sales are around $5 billion per year but they do not affect or relevant to the market anymore.
 
-Эпоха рейтела была временем очень больших звезд. Продавалось то, что выходило на радио, а потом на MTV. Место в телеке и на радио не резиновое. Поэтому звезды были оч. большими, а все остальные оч.маленькими.
+The period of retail sales dominance was an era of huge worldwide stars. If you wanted to sell big you needed to be on the radio and later on MTV. The number of broadcast placements was finite, so those who were able to take a prime spot would become mega popular. Everyone else could aim for local popularity but not much else.
 
-Сегодня каждый имеет доступ ко всем трекам в мире. Выяснилось, что музыка очень разная и каждый слушает немного свое. Поэтому больших звезд нет, зато сотни тысяч музыкантов могут зарабатывать, а не только те, кого благословили лейблы.
+Today everyone has access to all the songs in the world. Turns out music is very different and there are listeners for pretty much every niche genre that could come to your mind. Hundreds of thousands of artists can find an audience and earn money not just the ones that got a blessing from major labels.
 
-Тем временем кино еще даже не в настоящем. Новых релизов нет. Tenet собрал меньше, чем ожидалось, все испугались и сдвинули релизы на потом. Это не пройдет вместе с ковидом.
+In the meantime the movie industry has not even been able to come to peace with the reality. The pandemic of 2020 killed all new releases. Tenet, one of the most promising titles of the year, didn't sell enough tickets. Everybody freaked out and moved all the releases to 2021 and beyond. And they want to believe it is Covid related and soon will pass. But it will not.
 
-Кино производит 10 блокбастеров в год, надеясь, что их посмотрят все-все-все, иначе не окупится. То есть смотреть-то особо и нечего. А еще нужно куда-то ехать по пробкам, тратить 3-4 часа, а потом месяцы ждать цифрового релиза.
+The movie industry produces around 10 blockbusters per year. The production costs are so high that these titles need to be mega popular worldwide or they are bust. So they need to appeal to everybody. This leads to safe and uninspiring content. And don't get me started on the whole "cinema watching experience" in a time of huge OLED TV's at home.
 
-Netflix делает 3000 разного контента в год. Для тебя, меня, и для любителя Адама Сэндлера тоже. Поэтому сериалы снимают о самом разном, расширяют тематические границы, они релевантны времени, влияют на людей и обсуждаются на кухнях.
+Netflix is releasing 3000 items of content per year. For you, me and for Adam Sandler fans also. TV series cover a vast range of themes and stories. They move into the topics that could never succeed as a cinema release. But streaming makes it possible to find enough of even a very niche audience. As long as you're a Netflix subscriber everybody is happy. TV series are relevant and part of the public discourse.  
 
-Все это благодаря стримингу. То, что нравится всем - чаще всего посредственность. Зато, если нет KPI по количеству показов, можно снимать совершенно разное. Пока вы подписаны Нетфликс доволен.
+The books industry is a great example that progress should not be stopped. Everything was great until a couple of bad legislations haven't messed with pricing. And now ebooks often cost more at Amazon than softcovers.
 
-Книжная индустрия - отличный пример, что прогрессу лучше не мешать. Там все было замечательно, пока пара дурацких законов не повлияла не ценообразование. И теперь эл.книга часто стоит на Амазоне дороже бумажной.
+Only in video games you can find successful subscription model (GamesPass, Apple Arcade), online distribution (Steam), micro-transactions (F2P), ad-based (free with ads). And all these models are growing.
 
-Только в играх отлично существуют вместе подписка (GamePass, Apple Arcade), online distribution (Steam), micro-transactions (F2P), ad-based (free with ads). И при этом все модели растут.
+Currently not a single reason is visible that could hinder this diversity. Games are so different from each other that there is a healthy market for all these models. Free2Play for casual games, online distribution for pc indie and AAA console games, subscription for AA console.
 
-Не видно ни одной причины, которая могла бы помешать этому многообразию. Игры на столько отличаются друг от друга, что разным типам подходит своя модель. Казуальным - f2p, пк-инди - онлайн дистрибуция, консольным примерно АА уровня - стриминг.
+The future in games turned out to be better and more flexible than anywhere else.🎂
 
-Будущее в играх оказалось лучше и гибче, чем где-то бы то ни было еще.🎂
-
-_Этот пост был изначально [серией твитов](https://twitter.com/accujazz/status/1305045835269496833?s=20)._
+_This post started as a [series of tweets](https://twitter.com/accujazz/status/1305045835269496833?s=20) (In Russian)._
