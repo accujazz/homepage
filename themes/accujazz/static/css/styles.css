@@ -1,14 +1,11 @@
 body {
 	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-	margin-left: auto;
-	margin-right: auto;
-	max-width: 34em;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 400;
 	font-style: normal;
 	line-height: 1.4em;
-	color: #333;
-	background: #fff;
+	color: #000;
+	background: #F8F7F5;
 }
 
 strong {
@@ -27,15 +24,11 @@ p, ul li, ol li {
 a {
 	color: #000;
 	text-decoration: none;
-	background-image: linear-gradient(to bottom,#03a87c 50%,#029C74 50%);
-	background-repeat: repeat-x;
-	background-size: 2px 2px;
-	background-position: 0 100%;
-	transition: color .2s ease;
+	border-bottom: 2px solid rgba(0,0,0,0.3);
 }
 
 a:hover {
-	color: #03a87c;
+	border-bottom: 2px solid rgba(0,0,0,1);
 }
 
 img {
@@ -71,6 +64,7 @@ blockquote  {
 	margin: 1.5em 0 1.5em 0;
 	padding-left: 1em;
 	max-width: 100%;
+	border-left: 6px solid #DBDAD6;
 }
 
 ul li {
@@ -90,21 +84,26 @@ hr {
 	width: 100%;
 }
 
-/* Biography */
-
-section.bio {
-	padding: 1em 2em 1em 2em;
-	background: #f4f2f0;
-	border-radius: 8px;
+time {
+	font-size: 14px;
+	color: #6d6d6d;
 }
 
+.content {
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Biography */
+
 section.bio p:first-child {
-	font-size: 26px;
+	font-size: 24px;
 	line-height: 1.4em;
 }
 
 section.bio p:first-child img {
-	height: 40px;
+	height: 28px;
 }
 
 section.bio img {
@@ -119,42 +118,35 @@ section.bio img {
 header {
 	font-size: 14px;
 	line-height: 1.4em;
-}
-
-header a {
-	color: #000;
-	text-decoration: underline;
-	background-image: none;
+	margin: 0 0 2em 0;
 }
 
 /* Footer */
 
 footer {
-	margin-top: 2em;
+	margin-top: 4em;
 	text-align: center;
 	font-size: 14px;
 }
 
-footer a {
-	color: #000;
-	text-decoration: underline;
-	background-image: none;
+/* Articles */
+
+.posts-list {
+	margin: 2em 0 0 0;
 }
 
-/* Article list */
+.posts-list li {
+	list-style-type: none;
+	margin: 0 0 1em 0;
+}
 
 article {
-	margin: 2em 0;
+	margin: 0 0 2em 0;
 }
 
-article .date-published {
+.date-published {
 	display: inline-block;
 	width: 100%;
-	font-size: 14px;
-	color: #6d6d6d;
-	font-weight: 500;
-	text-transform: uppercase;
-	letter-spacing: 1px;
 }
 
 article img {
@@ -217,8 +209,26 @@ article img {
 	background: #D6D6D3;	
 }
 
+/* Mobile */
 
-/* Pagination */
+@media all and (max-width: 768px) {
+
+	iframe {
+		width: 100%;
+	}
+
+	header {
+		text-align: center;
+	}
+
+	.content {
+		padding: 0 2% 0 2%;
+	}
+
+}
+
+
+/* Pagination - !Currently not used! */
 
 ul.pagination {
 	text-align: center;
@@ -242,98 +252,4 @@ a.page-link:hover {
 
 ul.pagination li.active a {
 	color: #6d6d6d;
-}
-
-/* Mobile */
-
-@media all and (max-width: 768px) {
-
-	body {
-		width: 96%;
-		padding: 0 2% 0 2%;
-		font-size: 18px;
-	}
-
-	iframe {
-		width: 100%;
-	}
-
-	header {
-		text-align: center;
-	}
-
-	.content {
-		padding: 0 2% 0 2%;
-	}
-
-	h1 {
-		font-size: 2.2em;
-	}
-
-	h2 {
-		font-size: 1.8em;
-	}
-
-	h3 {
-		font-size: 1.4em;
-	}
-
-	section.bio {
-		padding: 1em;
-	}
-
-
-	section.bio p:first-child {
-		font-size: 24px;
-	}
-
-	section.bio p:first-child img {
-		height: 32px;
-	}
-
-}
-
-/* Dark theme */
-
-@media (prefers-color-scheme: dark) {
-	body {
-		color: #d7d7d7;
-		background: #222;
-	}
-
-	header a, footer a {
-		color: #d7d7d7;
-	}
-
-	section.bio {
-		background: #333;
-	}
-
-	h1, h2, h3, h3 a, h4 { 
-		color: #d7d7d7;
-	}
-
-	a {
-		color: #d7d7d7;
-	}
-
-	a.page-link {
-		color: #d7d7d7;
-	}
-
-	hr {
-		background: #222;
-	}
-
-	.tabcontent ul li:nth-child(even) {
-		background: #333;
-	}
-
-	.tabcontent ul li:nth-child(odd) {
-		background: #444;	
-	}
-
-	.tab button {
-		color: #d7d7d7;
-	}	
 }
