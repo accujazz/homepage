@@ -1,18 +1,20 @@
 ---
 date: "2013-09-19T00:00:00Z"
-title: О роли обложек видеоигр 80-х
+title: The role video game covers played in the 80s
 ---
 
-Обложки игр от Atari выглядели совсем не так, как игры которые они рекламировали. Игры 70-х - 80-х графически выглядели крайне примитивно. Посмотрите на скриншот ниже и попытайтесь угадать, что здесь происходит.
+Video game covers from Atari looked not like the games they were selling. Games from 70s and 80s were visually very limited. Look at the screenshot below and try to guess what is happening here:
 
 ![Haunted House screenshot](/img/posts/hauntedhouse.png)
 
-Это Haunted House 1982 года выпуска, в которой игрок (изображенный в виде пары глаз) оказывается в заброшенном особняке, где должен отыскать три части магической урны. Чтобы жизнь не казалась медом количество жизней ограничено девятью, а сам особняк полон пауков, летучих мышей, призраков и другой нечести. 
+This game is called Haunted House and was released in 1982. In the game you as a player (presented as a pair of eyes on the screenshot) find yourself in the abandoned mansion and need to find three parts of the magical urn. For more fun you have a limited number of lives and the mansion is full of spiders, flying bats, ghosts and other gross stuff.
 
-А вот обложка Haunted House:
+And this is the cover art for the Haunted House:
 
 ![Haunted House cover](/img/posts/hauntedhouse.jpg)
 
-Обложка восполняет графическую примитивность игры и включает воображение игрока. The Verge в специальном материале [рассказывает о том, как создавались обложки видеоигр 80-х](http://www.theverge.com/2013/9/19/4716444/how-atari-box-art-turned-8-bit-games-into-virtual-wonderlands).
+The cover makes up for primitive graphics of the game. It plays with the player's imagination and gives a him a vibe of what the game is about.
+
+The Verge published an article that tells the story of [how the amazing video game covers of the industry's youth were made](http://www.theverge.com/2013/9/19/4716444/how-atari-box-art-turned-8-bit-games-into-virtual-wonderlands).
 
 ![Atari arts](/img/posts/atari-arts.jpg)
