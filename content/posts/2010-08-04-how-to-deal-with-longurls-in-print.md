@@ -1,9 +1,9 @@
 ---
 date: "2010-08-04T00:00:00Z"
-title: Как быть с длинными ссылками при печати
+title: How to deal with long urls in print
 ---
 
 ![HTML5 For Web Designers](/img/posts/abookapart-link.jpg)
 [HTML5 For Web Designers](http://books.alistapart.com/)
 
-Обратите внимание на короткую ссылку в тексте и сноску с полноценным линком. Smart!
+Notice a short link in the text and a footnote used to provide a full url.
