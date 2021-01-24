@@ -5,7 +5,7 @@ date: 2018-10-03T12:41:20+03:00
 
 👋 __Hi__, my name is ![Profile photo](/img/profile-photo.jpg)Alexey Gornostaev. I'm a product manager with over 10 years experience in building video game-related software products. 
 
-You can [send me an email](mailto:me@alexey.is) or direct message me on [Twitter](ttps://twitter.com/#!/accujazz).
+You can [send me an email](mailto:me@alexey.is) or direct message me on [Twitter](https://twitter.com/#!/accujazz).
 
 ---
 
