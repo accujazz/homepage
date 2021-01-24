@@ -1,20 +1,20 @@
 ---
 date: "2020-03-17T00:00:00Z"
-title: Если не получается ремоут, то и в офисе у вас что-то не так
+title: Remote work is a chance to fix your broken office work processes
 ---
 
-Компании, у которых трудности с удаленной работой сейчас, скорее всего имели их и в офисе. Не замечали, потому что в офисе много способов получить видимость, что все ок.
+Companies that struggle with remote work likely have had these issues in the office but overlook them because in the office it's very easy to trick yourself in thinking that everything is fine.
 
-В распределенной команде сразу видно где процессы работают, а где нет. Меньше голосового общения → в любой работе есть четкие стадии, зафиксированные письменно.
+Working in a remote team shows which processes work and which doesn't. Less voice communication leads to more formal processes that have written status available to everyone.
 
-Митинг - фоллоуап. Старт итерации - послание от PM’а что делаем, зачем и когда смотрим. Посмотрели - зафиксировали результаты. Делали ресерч какой-то? Написали в команду эссе о том, что узнали нового.
+Have a meeting? There needs to be a follow up. Start of the new dev iteration? An essay from a product manager on the goals and the work that needs to be done to achieve them. Had a demo? Write down the feedback. Completed a research? Post the findings in a message to the team. 
 
-Если работа - это черный ящик между стартом и финишем, то значит что-то не так. В процессе должно быть много письменных артефактов, по которым видно прогресс в понимании задачи.
+In an office a lot of the communication happens only verbally and is not available to the people that were not part of initial discussion. Thus you can assume that these chats are productive and happening but you never know if they happened without you.
 
-В офисе это все часто уходит в вербальную коммуникацию которая не всем доступна. Можно выйти в комнату, увидеть головы за компами и успокоить себя, что все нормально.
+If the work is a black box from start to finish then something is not right. A lot of artifacts are produced during a healthy work process. These artifacts show the progress that has been made in understanding of the problem and its solution.
 
-Ну и доверие, конечно. Если его нет, то все плохо. Доверие не может исчезнуть от того, что коллега дома работает. Значит его и не было.
+And if after switching to remote you suddenly experience trust issues with the team. Well, bad news, but there was not any trust to begin with. Trust can't disappear if your colleague changed the desk and now is working from home.
 
-Ремоут - это отличный тест процессов в компании и командах. Хорошие будут работать вне зависимости от внешней среды. Просто сменятся инструменты на более подходящие условиям.
+Remote is a great stress test for the work and team processes in a company. Great teams will work ok in any environment. They'll just tune up their processes and switch tools to more suitable for the current environment. 
 
-_Этот пост изначально был [серией твитов](https://twitter.com/accujazz/status/1239889028763312128)._
+_This post started as a [series of tweets](https://twitter.com/accujazz/status/1239889028763312128) (In Russian)._
