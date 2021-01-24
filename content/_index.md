@@ -5,19 +5,19 @@ date: 2018-10-03T12:41:20+03:00
 
 👋 __Hi__, my name is ![Profile photo](/img/profile-photo.jpg)Alexey Gornostaev. I'm a product manager with over 10 years experience in building video game-related software products. 
 
-I work remotely and live in Moscow, Russia. I am interested in the processes that help understand customer needs,  build the right things for them and skip unnecessary.
-
 You can [send me an email](mailto:me@alexey.is) or direct message me on [Twitter](ttps://twitter.com/#!/accujazz).
 
 ---
 
 __Work__
 
+I work remotely and live in Moscow, Russia. I am interested in the processes that help understand customer needs,  build the right things and skip unnecessary.
+
 - I consult on product development and strategy a US-based startup that is building a platform for creating tournaments and competitions for online video games.
 	- You can read [Making Group Competition Flow x100 More Simple and Efficient](/posts/making-group-competition-flow-x100-more-simple-and-efficient/) to get an idea of the problems that we were solving.
 - Co-founded a Lithuania-based [video game discovery site](https://rawg.io/) (think the movie diary Letterboxd meets IMDb). In 2019 we launched an open API that is serving more than 50 million requests monthly and is used by people from Yandex, [Unity](https://unity.com), [Blur](http://www.blur.com) and other fine companies. You can read a couple of essays from that time: 
-	- [Video Game Markets Fail at Recommending Games](/posts/video-game-markets-fail-at-recommending-games/)
-	- [You Have Nothing to Play](/posts/you-have-nothing-to-play/)
+	- An introduction essay into the discoverability problem: [Video Game Markets Fail at Recommending Games](/posts/video-game-markets-fail-at-recommending-games/).
+	- Announcement post: [You Have Nothing to Play](/posts/you-have-nothing-to-play/).
 - Lead product at a Russian [video games media](https://kanobu.ru/) with a monthly audience of more than 5 million people.
 - Worked on mobile in-game marketing and support platform for [Game Insight](https://www.game-insight.com/en).
 - Was responsible for creating and developing a video games digital distribution service.
