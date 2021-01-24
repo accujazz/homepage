@@ -1,14 +1,14 @@
 ---
 date: "2020-03-18T00:00:00Z"
-title: Как должны работать колонки в таск-трекерах
+title: How task trackers should deal with columns
 ---
 
-Часто в таск-трекерах делают колонки по специализациям и двигают задачи между ними. Так фича постепенно двигается по своему жизненному циклу, например: Specs/Research -> Design -> Backend -> Frontend -> Testing -> Done.
+Using project management software often means creating role-based columns and moving tasks between them from left to right. As a result a feature can be tracked during its life cycle:  Specs/Research -> Design -> Backend -> Frontend -> Testing -> Done.
 
-Еще обычно одновременно в разработке несколько фичей. Каждая колонка - это чей-то персональный список to-do из не связанных между собой историй. Нормально видно кому что предстоит сделать. Но плохо как обстоят дела с задачами в целом.
+Also usually you have multiple features developed at once. Every column is someone's personal to do list that is populated with not related to each other tasks. Great to see who needs to do what. But not very obvious to understand the status of the general story which these tasks are part of.
 
-Логичнее не так. Каждая колонка - это отдельная фича или история. Внутри колонки можно группировать по специализациям, направлениям или иначе. Отметить как done задачу можно здесь же. Двигать плохо, потому что таск выносится из своего контекста.
+The better flow is to devote each column to a product story. Inside the column the tasks can be grouped by role, complete mini user flows or any other suitable way. The task can be marked as in progress or done without moving to not separate it from the context.
 
-В Trello так невозможно сделать, хотя в остальном он самый практичный. В GitHub тоже не выйдет. В Basecamp можно, но там нет колонок. Колонки - это удобно. Вот в [ColumnsApp](https://twitter.com/ColumnsApp) идеологически все классно.
+You can't do this in Trello or Github. Basecamp will do but it has checklists and not columns. [ColumnsApp](https://twitter.com/ColumnsApp) deals with columns the right way.
 
-_Этот пост изначально был [серией твитов](https://twitter.com/accujazz/status/1240274806039166976)._
+_This post was started as a [series of tweets](https://twitter.com/accujazz/status/1240274806039166976) (In Russian)._
