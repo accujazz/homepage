@@ -4,7 +4,7 @@ body {
 	font-weight: 400;
 	font-style: normal;
 	line-height: 1.4em;
-	color: #000;
+	color: #333;
 	background: #F8F7F5;
 }
 
@@ -17,8 +17,8 @@ em {
 	font-style: italic;
 }
 
-p, ul li, ol li {
-	margin: 1em 0 1em 0;
+p {
+	margin: 20px 0;
 }
 
 a {
@@ -37,12 +37,14 @@ img {
 
 h1, h2, h3, h4 {
 	color: #000;
-	line-height: 1.2em;
+	line-height: 1em;
 	font-weight: 800;
+	margin: 20px 0;
 }
 
 h1 {
 	font-size: 2.6em;
+	text-align: center;
 }
 
 h2 {
@@ -61,19 +63,19 @@ h3 {
 blockquote  {
 	font-size: 1.1em;
 	font-style: italic;
-	margin: 1.5em 0 1.5em 0;
-	padding-left: 1em;
+	margin: 20px 0;
+	padding-left: 20px;
 	max-width: 100%;
 	border-left: 6px solid #DBDAD6;
 }
 
 ul li {
 	list-style-type: disc;
-	margin-left: 2em;
+	margin: 0 0 10px 20px;
 }
 
 ol li {
-	margin-left: 2em;
+	margin: 0 0 10px 20px;
 }
 
 hr {
@@ -85,12 +87,12 @@ hr {
 }
 
 time {
-	font-size: 14px;
+	font-size: 16px;
 	color: #6d6d6d;
 }
 
 .content {
-	max-width: 600px;
+	max-width: 640px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -98,12 +100,12 @@ time {
 /* Biography */
 
 section.bio p:first-child {
-	font-size: 24px;
+	font-size: 28px;
 	line-height: 1.4em;
 }
 
 section.bio p:first-child img {
-	height: 28px;
+	height: 30px;
 }
 
 section.bio img {
@@ -117,14 +119,15 @@ section.bio img {
 
 header {
 	font-size: 14px;
+	text-align: center;
 	line-height: 1.4em;
-	margin: 0 0 2em 0;
+	margin: 0 0 40px 0;
 }
 
 /* Footer */
 
 footer {
-	margin-top: 4em;
+	margin-top: 60px;
 	text-align: center;
 	font-size: 14px;
 }
@@ -132,21 +135,24 @@ footer {
 /* Articles */
 
 .posts-list {
-	margin: 2em 0 0 0;
+	margin: 40px 0 0 0;
+	font-size: 18px;
 }
 
 .posts-list li {
+	margin: 0 0 10px 0;
 	list-style-type: none;
-	margin: 0 0 1em 0;
 }
 
 article {
-	margin: 0 0 2em 0;
+	margin: 0 0 40px 0;
 }
 
 .date-published {
 	display: inline-block;
 	width: 100%;
+	text-align: center;
+	margin: 0 0 20px 0;
 }
 
 article img {
@@ -215,10 +221,6 @@ article img {
 
 	iframe {
 		width: 100%;
-	}
-
-	header {
-		text-align: center;
 	}
 
 	.content {
