@@ -1,6 +1,6 @@
 ---
 date: "2020-03-20T00:00:00Z"
-title: Scrum and fixation on the speed
+title: Scrum and fixation on speed
 ---
 
 Many software development methodologies have tools to measure speed: burndown chart, velocity tracking, story points, etc. The goal is admirable - to improve tasks estimation accuracy and to be consistent in resource allocation and planning.
