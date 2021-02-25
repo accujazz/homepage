@@ -6,4 +6,4 @@ title: This is a webpage
 > We've become obsessed with fancy designs, responsive layouts, and scripts that do magical things.
 > But the most powerful tool on the web is still words.
 
-[This is a webpage](http://justinjackson.ca/words.html)
+[This is a webpage](http://justinjackson.ca/words.html).
