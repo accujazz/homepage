@@ -1,6 +1,6 @@
 ---
 date: "2020-03-31T00:00:00Z"
-title: About form, function and harm of pattern-thinking
+title: About form, function and the harm of pattern-based thinking
 ---
 
 You can pretty easily over complicate product development for yourself. Just begin the creation process from the wrong starting point. Draw a picture of a future product in your mind, stretch and adjust the requirements so they fit it and you're lost. Try starting with product function not the form.
