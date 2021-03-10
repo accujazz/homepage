@@ -3,6 +3,7 @@
 		{{if .IsHome}}
 			
 		{{else}} 
+			<div class="profile-pic"><a href="{{ .Site.BaseURL }}" title="Go back to homepage"><img src="/img/profile-photo.jpg" alt="Profile photo"/></a></div>
 			<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> / <a href="{{ .Site.BaseURL }}{{ .Section }}">{{ .Section }}</a>
 		{{end}}
 	</p>
