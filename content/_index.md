@@ -13,7 +13,7 @@ __Work__
 
 I work remotely and live in Moscow, Russia. I am interested in the processes that help understand customer needs,  build the right things and skip unnecessary.
 
-- I consult on product development and strategy a US-based startup that is building a platform for creating tournaments and competitions for online video games.
+- I consulted on product development and strategy a US-based startup that is building a platform for creating tournaments and competitions for online video games.
 	- You can read [Making Group Competition Flow x100 More Simple and Efficient](/posts/making-group-competition-flow-x100-more-simple-and-efficient/) to get an idea of the problems that we were solving.
 - Co-founded a Lithuania-based [video game discovery site](https://rawg.io/) (think the movie diary Letterboxd meets IMDb). In 2019 we launched an open API that is serving more than 50 million requests monthly and is used by people from Yandex, [Unity](https://unity.com), [Blur](http://www.blur.com) and other fine companies. You can read a couple of essays from that time: 
 	- An introductory essay into the discoverability problem: [Video Game Markets Fail at Recommending Games](/posts/video-game-markets-fail-at-recommending-games/).
@@ -21,6 +21,11 @@ I work remotely and live in Moscow, Russia. I am interested in the processes tha
 - Lead product at a Russian [video games media](https://kanobu.ru/) with a monthly audience of more than 5 million people.
 - Worked on mobile in-game marketing and support platform for [Game Insight](https://www.game-insight.com/en).
 - Was responsible for creating and developing a video games digital distribution service.
+
+---
+
+__Notes__
+{{< notes "5 most recent posts" >}}
 
 ---
 
