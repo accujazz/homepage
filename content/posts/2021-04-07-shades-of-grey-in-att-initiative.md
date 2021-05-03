@@ -14,11 +14,11 @@ End consumer apps have a lot of data about customer engagement, but signals that
 
 Ad targeting is possible because of this data. Match-3 game developer can show ads about his game to people who love and play this type of games. Ad networks know these things about the users, your favourite app does not.
 
-After ATT it will be harder for advertisers (ecommerce, games, saas services, online education, etc.) to get new clients for the same money. Because there will be less data, less users and as a result the price for acquiring audience will rise.
+After ATT it will be harder for advertisers (e-commerce, games, saas services, online education, etc.) to get new clients for the same money. Because there will be less data, less users and as a result the price for acquiring audience will rise.
 
-Big tech will need to look for new revenue sources. And if first-party = good and third-party = bad, it will be logical to gather as much data as they could by themselves - to create products that will generate such data: games, ecommerce, education, etc.
+Big tech will need to look for new revenue sources. And if first-party = good and third-party = bad, it will be logical to gather as much data as they could by themselves - to create products that will generate such data: games, e-commerce, education, etc.
 
-It could lead to even more monopolization and competion with small businesses. Which as result will suffer most. First, it could become harder to reach new audience and secondly they will have a new competitor, Facebook or Google.
+It could lead to even more monopolization and competition with small businesses. Which as result will suffer most. First, it could become harder to reach new audience and secondly they will have a new competitor, Facebook or Google.
 
 What Apple needs from all of this? iOS privacy superiority over Android is certainly a factor, but there is another goal: to return control of app discovery.
 

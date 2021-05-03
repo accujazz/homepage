@@ -15,7 +15,7 @@ How many time have you heard about newly formed companies to create ticketmaster
 
 Don't get me wrong, patterns are useful. They are familiar and don't require learning new skills. Existence of a successful pattern means that we have collectively figured out a good solution that works. 
 
-Shopping cart on a ecommerce website, thematic top menu on media website, horizontal lists of cards in video streaming are easy examples. If tomorrow we would need to switch from one online store to the other we will be ok because they all work the same.
+Shopping cart on a e-commerce website, thematic top menu on media website, horizontal lists of cards in video streaming are easy examples. If tomorrow we would need to switch from one online store to the other we will be ok because they all work the same.
 
 But i'll argue that patterns are harmful when figuring out the main product job. Product X looks like it is because it helps achieve its function. If our function differs ever so slightly then the form also changes.
 
