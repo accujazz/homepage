@@ -33,7 +33,7 @@ __Other projects__
 
 I love to experiment and worked on a few personal projects over the years. Most of them are long offline but the experience remains:
 
-- Online tool to create short compilations of your favorite songs. The tracks were auto cut in 11-seconds parts and mixed together with seamless transitions at their beginnings and endings with fades. The end result was sort of a bite-sized mixtape.
+- Online tool to create short compilations of your favourite songs. The tracks were auto cut in 11-seconds parts and mixed together with seamless transitions at their beginnings and endings with fades. The end result was sort of a bite-sized mixtape.
 - Plain text file format praise: different ways to use plain text files.
 - Chart of mobile apps most often mentioned in social media.
 - Tool to view all replies to a single tweet back in the day when it was impossible to do so on Twitter.
