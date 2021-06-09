@@ -7,7 +7,7 @@ I recently got interested in the topic of using game mechanics in consumer softw
 
 - Gamification is the process of using the game thinking and mechanics to engage audiences and solve problems.
 - If Shakespeare lived in the modern world he could say "All the world is a game".
-- There are game about being traffic controller, farming. Fun and theme are not related. Theme is a lure to bring people in. If a job of traffic controller can be fun then anything could be.
+- There are games about being a traffic controller, a farmer. Fun and theme are not related. Theme is a lure to bring people in. If a job of a traffic controller can be fun then anything could be.
 - Carmen vs. Sandiego released in the 80-s is still the last successful educational game. Why? Because parents and teachers became involved in designing games and kids smell that shit instantly. In parallel Civilzation and Sim City almost invisibly taught people basic history lessons.
 - One could say that gamification is non-fiction gaming.
 - Quick loyalty programs history: 
