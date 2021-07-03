@@ -1,5 +1,5 @@
 ---
-date: "2021-07-02T22:00:00Z"
+date: "2021-07-03T00:00:00Z"
 title: A round-up of the recent articles on where things are headed in video game space
 ---
 
