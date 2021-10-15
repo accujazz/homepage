@@ -1,6 +1,15 @@
 {{ define "main" }}
-<section class="bio">
+<section class="intro">
     <!-- Note that the content for index.html will pull from content/_index.md -->
-    {{.Content}}
+    <div class="about">
+        {{.Content}}
+    </div>
+    <div class="profile-pic">
+        <picture>
+            <source media="(max-width: 768px)" srcset="/img/profile-photo-small-devices.jpg">
+            <source media="(min-width: 769px)" srcset="/img/profile-photo-large-devices.jpg">
+            <img src="/img/profile-photo-large-devices.jpg" alt="Alexey Gornostaev photo">
+        </picture>      
+    </div>
 </section>
 {{ end }}
