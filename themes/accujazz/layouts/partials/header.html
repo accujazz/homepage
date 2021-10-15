@@ -1,10 +1,13 @@
+{{if .IsHome}}
+{{else}} 
 <header>
 	<p>
-		{{if .IsHome}}
-			
-		{{else}} 
-			<div class="profile-pic"><a href="{{ .Site.BaseURL }}" title="Go back to homepage"><img src="/img/profile-photo.jpg" alt="Profile photo"/></a></div>
-			<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> / <a href="{{ .Site.BaseURL }}{{ .Section }}">{{ .Section }}</a>
-		{{end}}
+		<div class="header-pic">
+			<a href="{{ .Site.BaseURL }}" title="Back to homepage">
+				<img src="/img/profile-photo.jpg" alt="Alexey Gornostaev photo"/>
+			</a>
+		</div>
+		<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
 	</p>
 </header>
+{{end}}
