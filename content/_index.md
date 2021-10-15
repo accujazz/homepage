@@ -17,4 +17,5 @@ Cheers!
 [Work](/work)
 
 [Notes](/posts)
+
 {{< notes "8 most recent posts" >}}
