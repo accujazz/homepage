@@ -1,7 +1,7 @@
 ---
 title: "Work"
 type: page
-date: 2021-10-15T08:30:00+02:00
+date: 2021-10-14T04:30:00+02:00
 ---
 
 I've been working remotely for the last few years. I am interested in the processes that help understand customer needs,  build the right things and skip unnecessary.
