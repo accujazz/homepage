@@ -2,7 +2,7 @@
 title: "Alexey Gornostaev (Алексей Горностаев)"
 ---
 
-👋 Hi, I'm Alexey. 
+# 👋 Hi, I'm Alexey. 
 
 I'm a product manager with experience in building video game-related software products. 
 

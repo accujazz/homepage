@@ -5,8 +5,8 @@
     {{ range .Pages.ByDate.Reverse }}
         <li>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
-            <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+            <span class="date-list">{{ .Date.Format "Jan 2, 2006" }}</span>
         </li>
     {{ end }}
 </ul>
-{{ end }} 
+{{ end }}

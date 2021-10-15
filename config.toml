@@ -9,6 +9,7 @@ rssLimit = 10
 [params]
   author = "Alexey Gornostaev"
   description = "Alexey Gornostaev's personal website."
+  mainSections = ['posts']
 
 [permalinks]
 	post = "/:year/:month/:title/"	

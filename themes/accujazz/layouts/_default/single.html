@@ -1,7 +1,7 @@
 {{ define "main" }}
 	<article>
 		<h1>{{ .Title }}</h1>
-		<time class="date-published">{{ dateFormat "January 2, 2006" .Date }}</time>
+		<div class="date-published">{{ dateFormat "January 2, 2006" .Date }}</div>
 		{{ .Content }}
 	</article>
 {{ end }}
