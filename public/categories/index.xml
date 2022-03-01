@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Alexey Gornostaev</title>
-    <link>http://alexey.is/categories/</link>
+    <link>https://alexeygornostaev.com/categories/</link>
     <description>Recent content in Categories on Alexey Gornostaev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://alexey.is/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://alexeygornostaev.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
