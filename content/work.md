@@ -7,7 +7,7 @@ date: 2022-03-06
 - 👨‍💻 10+ years experience in managing software development.
 - 🌍 Deep understanding of remote work ethics - have been working remotely for the last 5+ years.
 - 🕵️‍♂️ I am interested in the processes that help understand customer needs,  build the right things and skip unnecessary.
-- 👾 Learning [Godot](https://godotengine.org) video game engine in my spare time.
+- 👾 Learning [Godot](https://godotengine.org) video game engine in my spare time to create simple and accessible web-based puzzle/board games and deliver a toy-like experience, a feeling.
 
 ## Experience
 
