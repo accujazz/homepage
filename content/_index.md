@@ -14,7 +14,7 @@ Cheers!
 
 ---
 
-[Work](/work)
+[CV.pdf](/alexey-gornostaev-cv.pdf)
 
 [Notes](/posts)
 
