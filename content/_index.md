@@ -14,8 +14,6 @@ Cheers!
 
 ---
 
-[CV.pdf](/alexey-gornostaev-cv.pdf)
-
 [Notes](/posts)
 
 {{< notes "8 most recent posts" >}}
