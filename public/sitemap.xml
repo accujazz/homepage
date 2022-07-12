@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alexeygornostaev.com/work/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://alexeygornostaev.com/</loc>
     <lastmod>2021-10-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -10,9 +13,6 @@
   </url><url>
     <loc>https://alexeygornostaev.com/posts/2021-10-24-what-web3-could-mean-for-video-games/</loc>
     <lastmod>2021-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://alexeygornostaev.com/work/</loc>
-    <lastmod>2021-10-14T04:30:00+02:00</lastmod>
   </url><url>
     <loc>https://alexeygornostaev.com/posts/2021-07-27-on-instant-games/</loc>
     <lastmod>2021-07-27T00:00:00+00:00</lastmod>
