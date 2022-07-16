@@ -3,13 +3,13 @@ date: "2022-07-16T00:00:00Z"
 title: Linux is simpler than macOS
 ---
 
-How far we've come that windows management on modern Linux is simpler and more straightforward than in macOS.
+How far we've come that window management on modern Linux is simpler and more straightforward than in macOS.
 
 In GNOME 42 all you need to learn is how to summon the Activities overview mode via hitting a button with a mouse or pressing a single ("super" by default) key. 
 
 ![GNOME 42 Activities overview](/img/posts/gnome-shell.jpg)
 
-From there you can do everything what you generally need to do with apps and windows management: search for apps, see all the installed apps, manage your desktops and opened windows. One unified interface for all your windows-related tasks. Learn one button and interface, and you're good to go.
+From there you can do everything what you generally need to do with apps and window management: search for apps, see all the installed apps, manage your desktops and opened windows. One unified interface for all your window-related tasks. Learn one button and interface, and you're good to go.
 
 On the Mac it's burdensome to even count all the different ways to launch apps and operate windows that Apple invented and then added one more, and more, and more. All have their own distinctive interfaces, modes of operation and shortcuts to learn.
 
