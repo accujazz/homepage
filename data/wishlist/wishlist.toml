@@ -1,7 +1,5 @@
 games = [
 "[Storyteller](https://store.steampowered.com/app/1624540/Storyteller/)",
-"[Mass Effect Legendary Edition](https://en.wikipedia.org/wiki/Mass_Effect_Legendary_Edition)",
-"[In The Valley of Gods](https://inthevalleyofgods.com) (From Firewatch's Camp Santo. Unfortunately, currently the production is frozen.)",
 "[Immortality](https://store.steampowered.com/app/1350200/IMMORTALITY/)",
 "[Songs of Glimmerwick](https://store.steampowered.com/app/1706510/Songs_of_Glimmerwick/)",
 "[Little Orpheus](https://store.steampowered.com/app/1558930/Little_Orpheus/)",
@@ -9,7 +7,9 @@ games = [
 "[Return to Monkey Island](https://store.steampowered.com/app/2060130/Return_to_Monkey_Island/)",
 "[Hero Emblems](https://apps.apple.com/us/app/hero-emblems-ii/id1070462618)",
 "[Braid, Anniversary Edition](http://braid-game.com/)",
-"[Uncharted: The Lost Legacy](https://en.wikipedia.org/wiki/Uncharted:_The_Lost_Legacy)",
 "[COCOON](https://store.steampowered.com/app/1497440/COCOON/)",
 "[The Last Case of Benedict Fox](https://store.steampowered.com/app/2023360/The_Last_Case_of_Benedict_Fox/)",
+"[Mass Effect Legendary Edition](https://en.wikipedia.org/wiki/Mass_Effect_Legendary_Edition)",
+"[Uncharted: The Lost Legacy](https://en.wikipedia.org/wiki/Uncharted:_The_Lost_Legacy)",
+"[In The Valley of Gods](https://inthevalleyofgods.com) (From Firewatch's Camp Santo. Unfortunately, currently the production is frozen.)",
 ]
