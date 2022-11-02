@@ -10,11 +10,11 @@ I started my career with a personal project that was noticed and got me invited 
 
 Over the years, I’ve worked on a bunch of video-game related projects: an infotainment database with personal recommendation tools, media with custom editorial and social features, mobile in-game marketing platform and digital game distribution service.
 
-I wrote html/css, designed UX/UI, researched user needs, developed product concepts and managed dev teams. I guess you could call me a generalist. If you’re interested, [take a look at my CV](/alexey-gornostaev-cv.pdf).
+I wrote html/css, designed UX/UI, worked on market and user needs researches,  developed new product concepts, and helped dev teams ship quality features and be happy at work. For more details contact me and I'll be glad to send you back my cv.
 
 I spend my free time walking my![Trudi photo](/favicon.png)[corgi](http://trudi.dog), playing weird indie games and tinkering with linux.
 
-[Send me an email](mailto:hello@alexeygornostaev.com), I’d be glad to return to you. You can also check out [my twitter](https://twitter.com/accujazz).
+If you'd like to send me an email, [please do](mailto:hello@alexeygornostaev.com). I’d be happy to return to you. You can also check out [my twitter](https://twitter.com/accujazz).
 
 Cheers!
 
