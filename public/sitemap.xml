@@ -2,14 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alexeygornostaev.com/work/</loc>
-    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alexeygornostaev.com/</loc>
-    <lastmod>2021-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexeygornostaev.com/posts/2022-11-02-gig-workers-are-contemporary-factory-workers/</loc>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexeygornostaev.com/posts/</loc>
-    <lastmod>2021-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexeygornostaev.com/posts/2022-07-16-linux-is-simpler-than-macos/</loc>
+    <lastmod>2022-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alexeygornostaev.com/work/</loc>
+    <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alexeygornostaev.com/posts/2021-10-24-what-web3-could-mean-for-video-games/</loc>
     <lastmod>2021-10-24T00:00:00+00:00</lastmod>

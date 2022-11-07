@@ -5,10 +5,51 @@
     <description>Recent content from Alexey Gornostaev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://alexeygornostaev.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gig workers are contemporary XX century factory workers</title>
+      <link>https://alexeygornostaev.com/posts/2022-11-02-gig-workers-are-contemporary-factory-workers/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexeygornostaev.com/posts/2022-11-02-gig-workers-are-contemporary-factory-workers/</guid>
+      <description>&lt;p&gt;My kid studies in a Russian online school. All classes are remote, 2 hours each, with 4 to 6 kids in a single class. The school operates akin to other modern Uber-like businesses. It connects students with teachers: collects the requests from parents, finds them a proper class, deals with payments processing and oversees the whole process to make it easier for both sides. It&amp;rsquo;s a valuable service and we were happy to find it.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve recently been very surprised and uneasy to learn that a math teacher in a school like that earns just $5.5 an hour. I don&amp;rsquo;t know the salaries in rural parts of Russia, but in big cities teachers in schools earn much more than that. It&amp;rsquo;s an embarrassingly low sum of money with no employment protection and no benefits. Just as it is the case with the other gig workers: taxi drivers, on-demand couriers that bring you food, etc.&lt;/p&gt;
+&lt;p&gt;Companies that operate those services are more often than not part of a very profitable big tech sector or venture funded with millions of dollars. You&amp;rsquo;d think they are not in need to squeeze every last penny from their workers. But that&amp;rsquo;s what they do. They want to grow fast and to do that they need to keep prices as low as possible, often much lower than the old way of getting these services.&lt;/p&gt;
+&lt;p&gt;These companies have complete control over business relationship between the worker and the user - they dictate the end user pricing and then decide how much on top of that they will leave for themselves, usually in a form of 30% commission. A teacher can&amp;rsquo;t decide how much to charge her students for the class. A teacher can&amp;rsquo;t cut her expenses by using cheaper payment providers or other backend services. The only way to earn more in such a system is to work more hours. As a result a more than 10 hour work day for a teacher or taxi-driver is a common case.&lt;/p&gt;
+&lt;p&gt;This situation should not be considered normal. I don&amp;rsquo;t have a lot of faith in tech companies finding and implementing a more fair system. They&amp;rsquo;ve already had a lot of time and experience dealing with various types of gig workers, but we are still here, with no improvement. On the contrary, more types of services are being digitized and new workers get the same unhealthy conditions.&lt;/p&gt;
+&lt;p&gt;This should be regulated. I don&amp;rsquo;t know the exact solution, but we could start with a simple rule. If the end user price is set by the platform, then the platform must employ the worker, with all corresponding responsibilities. If the platform doesn&amp;rsquo;t want to employ the worker and is willing to continue to treat them as an independent contractor, then they should be free to charge the user for their services however they want.&lt;/p&gt;
+&lt;p&gt;Thus the workers could choose between maybe lower salary, but with the protection and benefits of an actual employment or a higher paycheck on their own terms, if they believe that the service they are providing is better than the market.&lt;/p&gt;
+&lt;p&gt;I am pretty sure that we will look back at the early days of the gig economy as an unfair and shameful period. The same way we now think about the working conditions of the early XX century factory workers.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Linux is simpler than macOS</title>
+      <link>https://alexeygornostaev.com/posts/2022-07-16-linux-is-simpler-than-macos/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexeygornostaev.com/posts/2022-07-16-linux-is-simpler-than-macos/</guid>
+      <description>&lt;p&gt;How far we&amp;rsquo;ve come that window management on modern Linux is simpler and more straightforward than in macOS.&lt;/p&gt;
+&lt;p&gt;In GNOME 42 all you need to learn is how to summon the Activities overview mode via hitting a button with a mouse or pressing a single (&amp;ldquo;super&amp;rdquo; by default) key.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://alexeygornostaev.com/img/posts/gnome-shell.jpg&#34; alt=&#34;GNOME 42 Activities overview&#34;&gt;&lt;/p&gt;
+&lt;p&gt;From there you can do everything what you generally need to do with apps and window management: search for apps, see all the installed apps, manage your desktops and opened windows. One unified interface for all your window-related tasks. Learn one button and interface, and you&amp;rsquo;re good to go.&lt;/p&gt;
+&lt;p&gt;On the Mac it&amp;rsquo;s burdensome to even count all the different ways to launch apps and operate windows that Apple invented and then added one more, and more, and more. All have their own distinctive interfaces, modes of operation and shortcuts to learn.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dock to launch favourite apps&lt;/li&gt;
+&lt;li&gt;Spotlight to quickly launch any app and search for stuff&lt;/li&gt;
+&lt;li&gt;Launchpad is an app that lists all your apps in an iOS-style modal view&lt;/li&gt;
+&lt;li&gt;Mission control shows all opened windows and manages desktops&lt;/li&gt;
+&lt;li&gt;Full screen and split view modes&lt;/li&gt;
+&lt;li&gt;Stage manager lets you group windows together (I&amp;rsquo;ve thought this is what Spaces is for)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Despite all this available choice, I personally still miss a core functionality and install a third-party app to get window snapping. Which, by the way, is available in GNOME out of the box.&lt;/p&gt;
+&lt;p&gt;A work of a distributed open source community is more coherent than a product of one of the most design oriented corporations in the world. Who would have thought?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What web3 and NFT could mean for video games</title>
@@ -40,16 +81,16 @@
       <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://alexeygornostaev.com/posts/2021-07-27-on-instant-games/</guid>
-      <description>&lt;p&gt;I get to know the best games from my 13-year-old daughter. Personally i mostly prefer uncool niche video games, but i get very excited when i learn about a game, that is played by every second kid in the neighbourhood, because these are the games that sometimes lead to dramatic changes in the industry.&lt;/p&gt;
+      <description>&lt;p&gt;I get to know the best games from my 13-year-old daughter. Personally I mostly prefer uncool niche video games, but I get very excited when I learn about a game, that is played by every second kid in the neighbourhood, because these are the games that sometimes lead to dramatic changes in the industry.&lt;/p&gt;
 &lt;p&gt;From the genre, visual or gameplay perspectives these games are often not mainstream. They&amp;rsquo;re not of the extremely popular MMO or first person shooter type. Visually they are very indie, but nevertheless, or maybe even because of that, capture the minds of kids. Usually, traditional video game press and websites learn about these games much later, only after they&amp;rsquo;ve reached the level of popularity, that can&amp;rsquo;t be ignored any more.&lt;/p&gt;
-&lt;p&gt;Five Nights at Freddy&amp;rsquo;s (or FNAF to be short) was the first such game that i learned about from my kid, then there was Baldi&amp;rsquo;s Basics in Education and Learning (please, google what it looks like, i bet you&amp;rsquo;ll be surprised) and in the past year she played a lot of FRIDAY NIGHT FUNKIN&#39;.&lt;/p&gt;
-&lt;p&gt;The case of FRIDAY NIGHT FUNKIN&#39; (that today is pretty well known in the industry) is so impressive that a new term has been invented to describe and distinguish modern web games from the old ones, that were somewhat similar, but made in Flash, rather than modern web technologies.&lt;/p&gt;
+&lt;p&gt;Five Nights at Freddy&amp;rsquo;s (or FNAF to be short) was the first such game that I learned about from my kid, then there was Baldi&amp;rsquo;s Basics in Education and Learning (please, google what it looks like, I bet you&amp;rsquo;ll be surprised) and in the past year she played a lot of FRIDAY NIGHT FUNKIN&#39;.&lt;/p&gt;
+&lt;p&gt;The case of FRIDAY NIGHT FUNKIN&amp;rsquo; (that today is pretty well known in the industry) is so impressive that a new term has been invented to describe and distinguish modern web games from the old ones, that were somewhat similar, but made in Flash, rather than modern web technologies.&lt;/p&gt;
 &lt;p&gt;An instant game is a game that can be played without a need to first download or install it, accessible on any device through a web browser, basically instantly available and playable via an ordinary web hyperlink. One could say the description more or less covers Flash games, social games of the pre-smartphone era and even has some hypercasual vibes in it.&lt;/p&gt;
-&lt;p&gt;But why now? Well, because of the FRIDAY NIGHT FUNKIN&#39; and it&amp;rsquo;s success story. Plus web technologies have matured enough: WebGL, fast CDN availability, video game engines with export for the Web, and a huge sea of available assets for creators.&lt;/p&gt;
+&lt;p&gt;But why now? Well, because of the FRIDAY NIGHT FUNKIN&amp;rsquo; and it&amp;rsquo;s success story. Plus web technologies have matured enough: WebGL, fast CDN availability, video game engines with export for the Web, and a huge sea of available assets for creators.&lt;/p&gt;
 &lt;p&gt;And what&amp;rsquo;s more important, the world around us is finally ready to value games that are available just via a link. Video game streamers and tiktokers will definitely figure out how to entertain their audience with games that are accessible for everyone with a single click. Messenger apps, Reddit and Discord will help with the distribution and kill the need to deal with app stores.&lt;/p&gt;
 &lt;p&gt;One could imagine that the unique capabilities of indie games will allow not only web ports of current titles, but completely new experiences that will be build on the core values of the web platform: accessibility, multiplayer-first, linkable not only the game itself, but the in-game and player content specifically, so that anyone can share an instantly viewable race replay with a call to action to beat it or a homebase in an open world game, that they&amp;rsquo;ve put dozens of hours into.&lt;/p&gt;
-&lt;p&gt;It very well may be that we&amp;rsquo;ll also see new kinds of web video game showcases, which were numerous and popular back in the days. Though, if i had to guess, i would bet that messenger apps would be a great fit for game discovery and social tools that are always needed for any kind of healthy video game ecosystem.&lt;/p&gt;
-&lt;p&gt;As you may have noticed, i am a believer in this possible future and would like to be part of it. Looking forward to the next game i&amp;rsquo;ll learn about from my kid.&lt;/p&gt;
+&lt;p&gt;It very well may be that we&amp;rsquo;ll also see new kinds of web video game showcases, which were numerous and popular back in the days. Though, if I had to guess, I&amp;rsquo;d bet that messenger apps would be a great fit for game discovery and social tools that are always needed for any kind of healthy video game ecosystem.&lt;/p&gt;
+&lt;p&gt;As you may have noticed, I am a believer in this possible future and would like to be part of it. Looking forward to the next game I&amp;rsquo;ll learn about from my kid.&lt;/p&gt;
 </description>
     </item>
     
@@ -195,64 +236,6 @@ Games in Disguise&lt;/a&gt;. The best apps today use video game mechanics in the
 &lt;p&gt;It&amp;rsquo;s now apparent how much money publications are making from their best authors. And how inefficient the media business model (i am talking about ads of course) is to take advantage of that value.&lt;/p&gt;
 &lt;p&gt;Sure, maybe people are not ready now to pay for all types of journalism. And you must have a starter audience to begin earning something from writing. But it is now obvious how much money in the author -&amp;gt; media -&amp;gt; reader relationship the middleman is getting.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;This post was originally published as a &lt;a href=&#34;https://twitter.com/accujazz/status/1375811123451207683&#34;&gt;series of tweets&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Making group competition flow x100 more simple and efficient</title>
-      <link>https://alexeygornostaev.com/posts/making-group-competition-flow-x100-more-simple-and-efficient/</link>
-      <pubDate>Sat, 16 Jan 2021 16:57:54 +0300</pubDate>
-      
-      <guid>https://alexeygornostaev.com/posts/making-group-competition-flow-x100-more-simple-and-efficient/</guid>
-      <description>&lt;p&gt;Our team was working on a tournament platform for competitive video games. The players could browse tournaments for the games they play, find what they like, register to play and record scores. The app helped to manage tournament participants, score recording, pair competitors against each other and determined which players would advance to the next stages based on a set of tournament rules.&lt;/p&gt;
-&lt;p&gt;The player could join a tournament either as individual competitor or as part of the team. We had a pretty complex flow for team tournaments and quickly saw in the session recordings that it wasn&amp;rsquo;t working. For some users it could take for up to 30(!) minutes to join the tournament.&lt;/p&gt;
-&lt;p&gt;And no surprise why if we list all the steps our imaginary player Mike would need to complete in order to register for a team competition:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mike lands on a tournament page with an intent to join a team tournament&lt;/li&gt;
-&lt;li&gt;First he needs to create an account filling all the required fields&lt;/li&gt;
-&lt;li&gt;Then Mike clicks on &amp;ldquo;Join&amp;rdquo; button again only to find out that he needs to have a team, cause only team owners can join team tournaments&lt;/li&gt;
-&lt;li&gt;This is not a given but let&amp;rsquo;s for a moment assume that Mike regularly plays his favourite game with his friends as part of the same team&lt;/li&gt;
-&lt;li&gt;Thankfully there is a &amp;ldquo;Create new team&amp;rdquo; button in the message.&lt;/li&gt;
-&lt;li&gt;Mike clicks it and is presented with a form that asks Mike to come up with team name, upload a team avatar, write something in the description, select team size. Not all the fields are required. But still a lot of work. Arghhh!&lt;/li&gt;
-&lt;li&gt;After the team is created Mike needs to invite his friends to it. He can send invites via email or just copy an invite link and send it to his friends.&lt;/li&gt;
-&lt;li&gt;Mike tries again to join the tournament but he still can&amp;rsquo;t. Tournament requires the teams of 4 people in size and Mike&amp;rsquo;s friends haven&amp;rsquo;t yet responded to his invitation.&lt;/li&gt;
-&lt;li&gt;Mike pings his mates in chat, waits till they sign up for the site and join his team. He refreshes the team members page to check if all the members are in.&lt;/li&gt;
-&lt;li&gt;Finally Mike returns to the tournament page clicks Join and is able to register for the competition.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Honestly, what an embarrassing experience! This must be fixed.&lt;/p&gt;
-&lt;p&gt;Thankfully we have a group events pattern that after the pandemic experience of 2020 is familiar and used by millions of people. We spend our days in group video calls and not all of them have a built in contact list. This is especially relevant for new products cause your friends are not there. But it is still pretty easy to organize a meeting. You create a new call, copy the invite link and send it the way you like. Everybody who has a link can join. New meeting with another group of people? Simple. New invite link.&lt;/p&gt;
-&lt;p&gt;There is nothing stopping team tournaments to work the same way and Mike&amp;rsquo;s flow would simplify drastically:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Mike sign ups for the service&lt;/li&gt;
-&lt;li&gt;Mike clicks to join the team tournament. It doesn&amp;rsquo;t matter if he already has a team or not.&lt;/li&gt;
-&lt;li&gt;Mike receives an invite-link and sends it to his friends.&lt;/li&gt;
-&lt;li&gt;When enough players sign up and join with this link the team is formed and can play in a competition.&lt;/li&gt;
-&lt;li&gt;Every player has a history of who he played with and can join future tournaments selecting one of the previous groups or by grabbing an invite link.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;https://alexeygornostaev.com/img/posts/tournament-team-flow.png&#34; alt=&#34;Tournament team flow&#34;&gt;&lt;/p&gt;
-&lt;p&gt;We have simplified the user flow increasing the conversion to tournament participations, got rid of unnecessary entities and screens that were needed to support the &amp;ldquo;Team&amp;rdquo; model and reduced the codebase making it easier to support and add new features.&lt;/p&gt;
-&lt;p&gt;In retrospect the solution seems obvious and simple but simplicity is never a given, it takes work to achieve. People tend to overthink and overcomplicate things.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Video games industry is the best</title>
-      <link>https://alexeygornostaev.com/posts/video-games-business-models/</link>
-      <pubDate>Sun, 13 Sep 2020 19:35:22 +0300</pubDate>
-      
-      <guid>https://alexeygornostaev.com/posts/video-games-business-models/</guid>
-      <description>&lt;p&gt;Video games is the only entertainment industry where several business models are successfully used at the same time.&lt;/p&gt;
-&lt;p&gt;For a long time it seemed like the music industry was struggling the most but in the end it is first to live completely in the future. Streaming takes 85% off the market growing from 80% only a year ago. The retail sales are around $5 billion per year but they do not affect or relevant to the market anymore.&lt;/p&gt;
-&lt;p&gt;The period of retail sales dominance was an era of huge worldwide stars. If you wanted to sell big you needed to be on the radio and later on MTV. The number of broadcast placements was finite, so those who were able to take a prime spot would become mega popular. Everyone else could aim for local popularity but not much else.&lt;/p&gt;
-&lt;p&gt;Today everyone has access to all the songs in the world. Turns out music is very different and there are listeners for pretty much every niche genre that could come to your mind. Hundreds of thousands of artists can find an audience and earn money not just the ones that got a blessing from major labels.&lt;/p&gt;
-&lt;p&gt;In the meantime the movie industry has not even been able to come to peace with the reality. The pandemic of 2020 killed all new releases. Tenet, one of the most promising titles of the year, didn&amp;rsquo;t sell enough tickets. Everybody freaked out and moved all the releases to 2021 and beyond. And they want to believe it is Covid related and soon will pass. But it will not.&lt;/p&gt;
-&lt;p&gt;The movie industry produces around 10 blockbusters per year. The production costs are so high that these titles need to be mega popular worldwide or they are bust. So they need to appeal to everybody. This leads to safe and uninspiring content. And don&amp;rsquo;t get me started on the whole &amp;ldquo;cinema watching experience&amp;rdquo; in a time of huge OLED TV&amp;rsquo;s at home.&lt;/p&gt;
-&lt;p&gt;Netflix is releasing 3000 items of content per year. For you, me and for Adam Sandler fans also. TV series cover a vast range of themes and stories. They move into the topics that could never succeed as a cinema release. But streaming makes it possible to find enough of even a very niche audience. As long as you&amp;rsquo;re a Netflix subscriber everybody is happy. TV series are relevant and part of the public discourse.&lt;/p&gt;
-&lt;p&gt;The books industry is a great example that progress should not be stopped. Everything was great until a couple of bad legislations haven&amp;rsquo;t messed with pricing. And now ebooks often cost more at Amazon than softcovers.&lt;/p&gt;
-&lt;p&gt;Only in video games you can find successful subscription model (GamesPass, Apple Arcade), online distribution (Steam), micro-transactions (F2P), ad-based (free with ads). And all these models are growing.&lt;/p&gt;
-&lt;p&gt;Currently not a single reason is visible that could hinder this diversity. Games are so different from each other that there is a healthy market for all these models. Free2Play for casual games, online distribution for pc indie and AAA console games, subscription for AA console.&lt;/p&gt;
-&lt;p&gt;The future in games turned out to be better and more flexible than anywhere else.🎂&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This post started as a &lt;a href=&#34;https://twitter.com/accujazz/status/1305045835269496833?s=20&#34;&gt;series of tweets&lt;/a&gt; (In Russian).&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

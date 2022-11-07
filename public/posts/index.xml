@@ -6,7 +6,26 @@
     <description>Recent content in Notes on Alexey Gornostaev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://alexeygornostaev.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alexeygornostaev.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gig workers are contemporary XX century factory workers</title>
+      <link>https://alexeygornostaev.com/posts/2022-11-02-gig-workers-are-contemporary-factory-workers/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexeygornostaev.com/posts/2022-11-02-gig-workers-are-contemporary-factory-workers/</guid>
+      <description>My kid studies in a Russian online school. All classes are remote, 2 hours each, with 4 to 6 kids in a single class.</description>
+    </item>
+    
+    <item>
+      <title>Linux is simpler than macOS</title>
+      <link>https://alexeygornostaev.com/posts/2022-07-16-linux-is-simpler-than-macos/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexeygornostaev.com/posts/2022-07-16-linux-is-simpler-than-macos/</guid>
+      <description>How far we&amp;rsquo;ve come that window management on modern Linux is simpler and more straightforward than in macOS.
+In GNOME 42 all you need to learn is how to summon the Activities overview mode via hitting a button with a mouse or pressing a single (&amp;ldquo;super&amp;rdquo; by default) key.</description>
+    </item>
+    
     <item>
       <title>What web3 and NFT could mean for video games</title>
       <link>https://alexeygornostaev.com/posts/2021-10-24-what-web3-could-mean-for-video-games/</link>
@@ -22,7 +41,7 @@
       <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://alexeygornostaev.com/posts/2021-07-27-on-instant-games/</guid>
-      <description>I get to know the best games from my 13-year-old daughter. Personally i mostly prefer uncool niche video games, but i get very excited when i learn about a game, that is played by every second kid in the neighbourhood, because these are the games that sometimes lead to dramatic changes in the industry.</description>
+      <description>I get to know the best games from my 13-year-old daughter. Personally I mostly prefer uncool niche video games, but I get very excited when I learn about a game, that is played by every second kid in the neighbourhood, because these are the games that sometimes lead to dramatic changes in the industry.</description>
     </item>
     
     <item>
@@ -77,25 +96,6 @@
       
       <guid>https://alexeygornostaev.com/posts/2021-03-28-how-much-good-journalism-is-worth/</guid>
       <description>Surprising how in 2021 we&amp;rsquo;ve learned that the deal between media companies and authors is absolutely not beneficial to the latter: Sovereign Writers and Substack by Ben Thompson.</description>
-    </item>
-    
-    <item>
-      <title>Making group competition flow x100 more simple and efficient</title>
-      <link>https://alexeygornostaev.com/posts/making-group-competition-flow-x100-more-simple-and-efficient/</link>
-      <pubDate>Sat, 16 Jan 2021 16:57:54 +0300</pubDate>
-      
-      <guid>https://alexeygornostaev.com/posts/making-group-competition-flow-x100-more-simple-and-efficient/</guid>
-      <description>Our team was working on a tournament platform for competitive video games. The players could browse tournaments for the games they play, find what they like, register to play and record scores.</description>
-    </item>
-    
-    <item>
-      <title>Video games industry is the best</title>
-      <link>https://alexeygornostaev.com/posts/video-games-business-models/</link>
-      <pubDate>Sun, 13 Sep 2020 19:35:22 +0300</pubDate>
-      
-      <guid>https://alexeygornostaev.com/posts/video-games-business-models/</guid>
-      <description>Video games is the only entertainment industry where several business models are successfully used at the same time.
-For a long time it seemed like the music industry was struggling the most but in the end it is first to live completely in the future.</description>
     </item>
     
   </channel>
