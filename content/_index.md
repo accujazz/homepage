@@ -14,7 +14,7 @@ I wrote html/css, designed UX/UI, worked on market and user needs researches,  d
 
 I spend my free time walking my![Trudi photo](/favicon.png)[corgi](http://trudi.dog), playing weird indie games and tinkering with linux.
 
-If you'd like to send me an email, [please do](mailto:hello@alexeygornostaev.com). I’d be happy to return to you. You can also check out [my twitter](https://twitter.com/accujazz).
+If you'd like to send me an email, [please do](mailto:hello@alexeygornostaev.com). I’d be happy to return to you. You can also check out <a rel="me" href="https://mastodon.gamedev.place/@accujazz">my mastodon feed</a> and [my twitter](https://twitter.com/accujazz).
 
 Cheers!
 
