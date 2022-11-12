@@ -12,4 +12,9 @@ rssLimit = 10
   mainSections = ['posts']
 
 [permalinks]
-	post = "/:year/:month/:title/"	
+	post = "/:year/:month/:title/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
