@@ -15,7 +15,7 @@ My current build, optimized for compactness, silent operation and light gaming:
 - 1Tb Samsung 870 Evo SATA SSD
 - Corsair SF600 PSU
 
-I also purchased a pair of standard Wi-Fi antennas, that are screwed in the ports. I like them better than a shark fin type one, that came with the motherboard.
+I also purchased a pair of standard Wi-Fi antennas, that need to be screwed in the ports. I like them better than a shark fin type one, that came with the motherboard.
 
 The case is about half of a 27" display in height. The side panels can be removed without a screwdriver.
 ![My new PC](/img/posts/building-pc-1.jpg)
