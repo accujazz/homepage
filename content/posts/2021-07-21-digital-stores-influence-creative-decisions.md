@@ -15,5 +15,3 @@ Consumers prefer those changes, so the current model is here to stay. And niche/
 I obviously don’t know the answers, but in general i feel the market in addition to current stores will find a new model that will be better suited for creators of niche content. Because the demand is real.
 
 If i had to guess, i would say that it will be a patreon/only fans/kickstarter like model where customers don’t pay for specific games but follow/subscribe to favourite developers with monthly payments and developers are creatively free to make whatever they wish.
-
-_This post was originally published as a [series of tweets](https://twitter.com/accujazz/status/1415715734693502980?s=20)_.

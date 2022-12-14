@@ -19,7 +19,4 @@ So as soon as the world became ready (payment processing on the web, subscriptio
 
 It's now apparent how much money publications are making from their best authors. And how inefficient the media business model (i am talking about ads of course) is to take advantage of that value.
 
-Sure, maybe people are not ready now to pay for all types of journalism. And you must have a starter audience to begin earning something from writing. But it is now obvious how much money in the author -> media -> reader relationship the middleman is getting. 
-
-_This post was originally published as a [series of tweets](https://twitter.com/accujazz/status/1375811123451207683)_. 
-
+Sure, maybe people are not ready now to pay for all types of journalism. And you must have a starter audience to begin earning something from writing. But it is now obvious how much money in the author -> media -> reader relationship the middleman is getting.

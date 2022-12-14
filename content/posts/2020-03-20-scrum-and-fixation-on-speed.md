@@ -15,6 +15,4 @@ Methodology works with speed as the main problem. It doesn't ask for whom and wh
 
 That kind of methodologies divide those who write the requirements and those who make solutions for them. In such circumstances it is impossible for product to improve during the sprints because the highly skilled and smart team doesn't take part in analysis and improving solutions for user problems.
 
-In my experience one the most valuable insights and improvements happen during actual feature/product development. I believe that is because this is the rare time when the whole team is working on a problem. We shouldn't exclude them from the product improvement process and focus just on the speed. Or you could accomplish what you aim for - complete the project quickly but make not what was needed or desired by the customers.   
-
-_This post started as a [series of tweets](https://twitter.com/accujazz/status/1240911040877154305) (In Russian)._
+In my experience one the most valuable insights and improvements happen during actual feature/product development. I believe that is because this is the rare time when the whole team is working on a problem. We shouldn't exclude them from the product improvement process and focus just on the speed. Or you could accomplish what you aim for - complete the project quickly but make not what was needed or desired by the customers.

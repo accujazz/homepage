@@ -24,5 +24,3 @@ Only in video games you can find successful subscription model (GamesPass, Apple
 Currently not a single reason is visible that could hinder this diversity. Games are so different from each other that there is a healthy market for all these models. Free2Play for casual games, online distribution for pc indie and AAA console games, subscription for AA console.
 
 The future in games turned out to be better and more flexible than anywhere else.🎂
-
-_This post started as a [series of tweets](https://twitter.com/accujazz/status/1305045835269496833?s=20) (In Russian)._

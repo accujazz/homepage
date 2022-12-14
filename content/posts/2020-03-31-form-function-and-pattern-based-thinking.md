@@ -20,5 +20,3 @@ Shopping cart on a e-commerce website, thematic top menu on media website, horiz
 But i'll argue that patterns are harmful when figuring out the main product job. Product X looks like it is because it helps achieve its function. If our function differs ever so slightly then the form also changes.
 
 Better skip the desire to look for solutions altogether in a time when the project is starting out and the main focus is on the product job, what it needs to do and to whom it will be valuable.
-
-_This post started as a [series of tweets](https://twitter.com/accujazz/status/1244958701947158528)._

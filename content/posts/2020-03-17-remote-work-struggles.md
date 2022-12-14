@@ -15,6 +15,4 @@ If the work is a black box from start to finish then something is not right. A l
 
 And if after switching to remote you suddenly experience trust issues with the team. Well, bad news, but there was not any trust to begin with. Trust can't disappear if your colleague changed the desk and now is working from home.
 
-Remote is a great stress test for the work and team processes in a company. Great teams will work ok in any environment. They'll just tune up their processes and switch tools to more suitable for the current environment. 
-
-_This post started as a [series of tweets](https://twitter.com/accujazz/status/1239889028763312128) (In Russian)._
+Remote is a great stress test for the work and team processes in a company. Great teams will work ok in any environment. They'll just tune up their processes and switch tools to more suitable for the current environment.

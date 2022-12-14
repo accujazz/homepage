@@ -18,5 +18,3 @@ And in some sense current low ad rates reflect the value of that type of audienc
 The only option left is to provide quality. Change KPIs - stop measuring only reach. Yes, the numbers will fall. But the value rise.
 
 Highly concentrated niche audiences will always be valuable and desired to reach.
-
-_This post was originally published as a [series of tweets](https://twitter.com/accujazz/status/1270678614300930050)_.

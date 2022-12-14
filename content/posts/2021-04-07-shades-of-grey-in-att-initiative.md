@@ -27,5 +27,3 @@ Ads are the main source of app installs. So not Apple is affecting which apps wi
 Apple wants it to be like before when App Store was used for discovery of new apps, when featuring was a tool to influence and direct to what is good for the platform in Apple's mind. May be, Apple Arcade would be much more popular and bring more revenue if only the discovery process was still in the Apple's hands?
 
 This post is mostly based on [An Interview with Eric Seufert about Apple, Facebook, and Mobile Advertising](https://stratechery.com/2021/an-interview-with-eric-seufert-about-apple-facebook-and-mobile-advertising/)  and [Surveillance advertising is a myth](https://mobiledevmemo.com/surveillance-advertising-is-a-myth/). I recommend reading them if you're interested in the topic, they are much more comprehensive than my short take on the subject.
-
-_This post was originally published as a [series of tweets](https://twitter.com/accujazz/status/1376563329431388163)_.

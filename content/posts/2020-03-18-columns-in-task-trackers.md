@@ -10,5 +10,3 @@ Also usually you have multiple features developed at once. Every column is someo
 The better flow is to devote each column to a product story. Inside the column the tasks can be grouped by role, complete mini user flows or any other suitable way. The task can be marked as in progress or done without moving to not separate it from the context.
 
 You can't do this in Trello or Github. Basecamp will do but it has checklists and not columns. [ColumnsApp](https://twitter.com/ColumnsApp) deals with columns the right way.
-
-_This post was started as a [series of tweets](https://twitter.com/accujazz/status/1240274806039166976) (In Russian)._

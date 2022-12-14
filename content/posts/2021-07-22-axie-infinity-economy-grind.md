@@ -18,5 +18,3 @@ Apparently, in crypto-games the grinding is so brutal, that the game has real hu
 This looks like a master-servant relationship. And, actually, it is indeed. According to the article 60% of users are from The Philippines, grinding virtual heroes to sell and earning a few bucks more than on their real jobs.
 
 It even feels like we are going backwards in time! Progress is when we hire computers to do unnecessary monotonous work that was previously done by humans. And here it’s vice versa.
-
-_This post was originally published as a [series of tweets](https://twitter.com/accujazz/status/1418097138106568704)_.

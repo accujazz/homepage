@@ -12,6 +12,3 @@ The overall length of the work is no problem if the text is divided in chapters/
 Looks like every medium today figured out that short session base consumption is generally liked by the audience. A series of articles is basically a book. Reaching the chapter to the end  frees the reader to be satisfied with the progress and be done for today.
 
 Thus it would be interesting to make an RSS feed from the book. Split the text by chapters (word count optionally) and daily push a new item to the feed. Like a blog via rss.
-
-_This post was originally published as a [series of tweets](https://twitter.com/accujazz/status/1285962770903687168)_.
-
