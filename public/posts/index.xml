@@ -27,12 +27,30 @@ In GNOME 42 all you need to learn is how to summon the Activities overview mode 
     </item>
     
     <item>
+      <title>The ephemerality of mobile software</title>
+      <link>https://alexeygornostaev.com/posts/2021-11-23-the-ephemerality-of-mobile-software/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexeygornostaev.com/posts/2021-11-23-the-ephemerality-of-mobile-software/</guid>
+      <description>I’ve playedthrough Loom, a classic Lucas Arts adventure game, and it was fantastic to experience a 30 year old work of interactive software, that is easily playable today and has aged so gracefully.</description>
+    </item>
+    
+    <item>
       <title>What web3 and NFT could mean for video games</title>
       <link>https://alexeygornostaev.com/posts/2021-10-24-what-web3-could-mean-for-video-games/</link>
       <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://alexeygornostaev.com/posts/2021-10-24-what-web3-could-mean-for-video-games/</guid>
       <description>I&amp;rsquo;ve been thinking about what could web3 and NFTs mean for video games. And, honestly, I can&amp;rsquo;t make myself to feel excited about the current crop of P2E games.</description>
+    </item>
+    
+    <item>
+      <title>Building a PC</title>
+      <link>https://alexeygornostaev.com/posts/2021-08-12-building-a-pc/</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://alexeygornostaev.com/posts/2021-08-12-building-a-pc/</guid>
+      <description>Custom PC builds have come a long way since that last time I assembled my own PC, which was more than ten years ago.</description>
     </item>
     
     <item>
@@ -78,24 +96,6 @@ In GNOME 42 all you need to learn is how to summon the Activities overview mode 
       
       <guid>https://alexeygornostaev.com/posts/2021-06-08-what-is-gamification/</guid>
       <description>I recently got interested in the topic of using game mechanics in consumer software products and stumbled upon an old, but still useful talk by Gabe Zichermann on gamification.</description>
-    </item>
-    
-    <item>
-      <title>Why there are a lot of shades of grey in Apple&#39;s ATT initiative</title>
-      <link>https://alexeygornostaev.com/posts/2021-04-07-shades-of-grey-in-att-initiative/</link>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexeygornostaev.com/posts/2021-04-07-shades-of-grey-in-att-initiative/</guid>
-      <description>Soon the ATT (App Tracking Transparency) will be rolling out on iPhones. ATT is a system that mandates apps to ask users if they are willing to allow apps to track them across other apps and the web.</description>
-    </item>
-    
-    <item>
-      <title>How much good journalism is worth</title>
-      <link>https://alexeygornostaev.com/posts/2021-03-28-how-much-good-journalism-is-worth/</link>
-      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexeygornostaev.com/posts/2021-03-28-how-much-good-journalism-is-worth/</guid>
-      <description>Surprising how in 2021 we&amp;rsquo;ve learned that the deal between media companies and authors is absolutely not beneficial to the latter: Sovereign Writers and Substack by Ben Thompson.</description>
     </item>
     
   </channel>
