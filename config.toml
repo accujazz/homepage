@@ -8,7 +8,10 @@ rssLimit = 10
 
 [params]
   author = "Alexey Gornostaev"
-  description = "Alexey Gornostaev's personal website."
+  description = "Hi, I’m Alexey, and this is my personal website."
+  image = "/img/preview.jpg"
+  favicon = "/favicon.ico"
+  icon = "/favicon.png"
   mainSections = ['posts']
 
 [permalinks]

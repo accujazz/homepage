@@ -5,11 +5,25 @@
   <title>{{ block "title" . }}{{if .IsHome}}{{ .Title }}{{else}}{{ .Title }} - {{ .Site.Title }}{{end}}{{ end }}</title>
   <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
   
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ .Site.BaseURL }}">
+  <meta property="og:title" content="{{ .Site.Params.author }}">
+  <meta property="og:description" content="{{ .Site.Params.description }}">
+  <meta property="og:image" content="{{ .Site.Params.image }}">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{{ .Site.BaseURL }}">
+  <meta property="twitter:title" content="{{ .Site.Params.author }}">
+  <meta property="twitter:description" content="{{ .Site.Params.description }}">
+  <meta property="twitter:image" content="{{ .Site.Params.image }}">
+
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
 
-  <link rel="icon" href="/favicon.ico" sizes="any">
-  <link rel="apple-touch-icon" href="/favicon.png">
+  <link rel="icon" href="{{ .Site.Params.favicon }}" sizes="any">
+  <link rel="apple-touch-icon" href="{{ .Site.Params.icon }}">
   
   <link rel="stylesheet" href="{{ "css/reset.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/styles.css" | relURL }}">
@@ -17,8 +31,4 @@
   {{ range .AlternativeOutputFormats -}}
       {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
-
-  {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-    {{ template "_internal/google_analytics_async.html" . }}
-  {{ end }}
 </head>
