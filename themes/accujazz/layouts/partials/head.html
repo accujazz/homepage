@@ -4,19 +4,8 @@
   
   <title>{{ block "title" . }}{{if .IsHome}}{{ .Title }}{{else}}{{ .Title }} - {{ .Site.Title }}{{end}}{{ end }}</title>
   <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
-  
-  <!-- Open Graph / Facebook -->
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="{{ .Site.BaseURL }}">
-  <meta property="og:title" content="{{ .Site.Params.author }}">
-  <meta property="og:description" content="{{ .Site.Params.description }}">
-  <meta property="og:image" content="{{ .Site.Params.image }}">
 
-  <!-- Twitter -->
-  <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="{{ .Site.BaseURL }}">
-  <meta property="twitter:title" content="{{ .Site.Params.author }}">
-  <meta property="twitter:description" content="{{ .Site.Params.description }}">
+  <meta property="og:image" content="{{ .Site.Params.image }}">
   <meta property="twitter:image" content="{{ .Site.Params.image }}">
 
   <meta name="HandheldFriendly" content="True">
