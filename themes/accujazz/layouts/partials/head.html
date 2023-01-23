@@ -3,10 +3,10 @@
   <meta name="viewport" content="width=device-width,minimum-scale=1">
   
   <title>{{ block "title" . }}{{if .IsHome}}{{ .Title }}{{else}}{{ .Title }} - {{ .Site.Title }}{{end}}{{ end }}</title>
-  <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{.Description}}{{end}}" />
+  <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{ .Summary }}{{end}}" />
 
-  <meta property="og:image" content="{{ .Site.Params.preview-image }}">
-  <meta property="twitter:image" content="{{ .Site.Params.preview-image }}">
+  <meta property="og:image" content="{{ .Site.Params.previewimage }}">
+  <meta property="twitter:image" content="{{ .Site.Params.previewimage }}">
 
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
