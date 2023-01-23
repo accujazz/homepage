@@ -5,8 +5,8 @@
   <title>{{ block "title" . }}{{if .IsHome}}{{ .Title }}{{else}}{{ .Title }} - {{ .Site.Title }}{{end}}{{ end }}</title>
   <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{ .Summary }}{{end}}" />
 
-  <meta property="og:image" content="{{ .Site.Params.previewimage }}">
-  <meta property="twitter:image" content="{{ .Site.Params.previewimage }}">
+  <meta property="og:image" content="{{ .Permalink }}{{ .Site.Params.previewimage }}">
+  <meta property="twitter:image" content="{{ .Permalink }}{{ .Site.Params.previewimage }}">
 
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
