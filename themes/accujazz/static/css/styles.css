@@ -219,6 +219,11 @@ article img {
 	margin: 0 auto;
 }
 
+div.comments {
+	display: block;
+	text-align: center;
+}
+
 /* Video games list */
 
 /* Style the tab */
