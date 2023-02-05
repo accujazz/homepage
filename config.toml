@@ -5,9 +5,12 @@ theme = "accujazz"
 summaryLength = 21
 paginate = 10
 rssLimit = 10
+newContentEditor = "open -b com.sublimetext.4"
+
 
 [params]
   author = "Alexey Gornostaev"
+  replyemail = "comments@alexeygornostaev.com"
   description = "Hi, I’m Alexey, and this is my personal website."
   previewimage = "img/preview.jpg"
   favicon = "/favicon.ico"
@@ -21,3 +24,14 @@ rssLimit = 10
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[security]
+  enableInlineShortcodes = false
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$', '^open$']
+    osEnv = ['(?i)^((HTTPS?|NO)_PROXY|PATH(EXT)?|APPDATA|TE?MP|TERM|GO\w+)$']
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$']
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']
