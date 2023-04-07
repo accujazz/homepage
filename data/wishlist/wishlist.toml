@@ -1,15 +1,17 @@
 games = [
 "[Storyteller](https://store.steampowered.com/app/1624540/Storyteller/)",
-"[Immortality](https://store.steampowered.com/app/1350200/IMMORTALITY/)",
 "[Songs of Glimmerwick](https://store.steampowered.com/app/1706510/Songs_of_Glimmerwick/)",
-"[Little Orpheus](https://store.steampowered.com/app/1558930/Little_Orpheus/)",
 "[Patrick's Parabox](https://store.steampowered.com/app/1260520/Patricks_Parabox/)",
 "[Return to Monkey Island](https://store.steampowered.com/app/2060130/Return_to_Monkey_Island/)",
 "[Braid, Anniversary Edition](http://braid-game.com/)",
-"[COCOON](https://store.steampowered.com/app/1497440/COCOON/)",
+"[COCOON](https://store.steampowered.com/app/1497440/COCOON/) (From the lead gameplay designer of LIMBO and INSIDE.)",
 "[The Last Case of Benedict Fox](https://store.steampowered.com/app/2023360/The_Last_Case_of_Benedict_Fox/)",
-"[Uncharted: The Lost Legacy](https://en.wikipedia.org/wiki/Uncharted:_The_Lost_Legacy)",
 "[In The Valley of Gods](https://inthevalleyofgods.com) (From Firewatch's Camp Santo. Unfortunately, currently the production is frozen.)",
 "[Pocket Card Jockey](https://www.polygon.com/2016/5/4/11591708/pocket-card-jockey-game-freak-gameplay-video-overview-nintendo-3ds)",
 "[Gestalt: Steam & Cinder](https://fireshinegames.co.uk/games/gestalt-steam-cinder/)",
+"Hades II",
+"[Pacific Drive](https://www.polygon.com/23592903/pacific-drive-ps5-pc-preview-trailer-gameplay)",
+"[Viewfinder](https://store.steampowered.com/app/1382070/Viewfinder/)",
+"[Replaced](https://store.steampowered.com/app/1663850/REPLACED/)",
+"[Grand tour legends](https://www.iorama.studio/gtl)"
 ]
