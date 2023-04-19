@@ -12,9 +12,6 @@ newContentEditor = "open -b com.sublimetext.4"
   author = "Alexey Gornostaev"
   replyemail = "comments@alexeygornostaev.com"
   description = "Hi, I’m Alexey, and this is my personal website."
-  previewimage = "img/preview.jpg"
-  favicon = "/favicon.ico"
-  icon = "/favicon.png"
   mainSections = ['posts']
 
 [permalinks]

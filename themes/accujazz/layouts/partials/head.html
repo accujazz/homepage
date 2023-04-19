@@ -5,14 +5,14 @@
   <title>{{ block "title" . }}{{if .IsHome}}{{ .Title }}{{else}}{{ .Title }} - {{ .Site.Title }}{{end}}{{ end }}</title>
   <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{ .Summary }}{{end}}" />
 
-  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.previewimage }}">
-  <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Site.Params.previewimage }}">
+  <meta property="og:image" content="{{ .Site.BaseURL }}preview.jpg">
+  <meta property="twitter:image" content="{{ .Site.BaseURL }}preview.jpg">
 
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
 
-  <link rel="icon" href="{{ .Site.Params.favicon }}" sizes="any">
-  <link rel="apple-touch-icon" href="{{ .Site.Params.icon }}">
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   
   <link rel="stylesheet" href="{{ "css/reset.css" | relURL }}">
   <link rel="stylesheet" href="{{ "css/styles.css" | relURL }}">
