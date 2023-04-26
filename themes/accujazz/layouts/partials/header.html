@@ -4,7 +4,10 @@
 	<p>
 		<div class="header-pic">
 			<a href="{{ .Site.BaseURL }}" title="Back to homepage">
-				<img src="/img/vilnius-retrospecs-tiny.webp" alt="Alexey Gornostaev photo"/>
+				{{ $image := resources.Get "header-icon.webp" }}
+				{{ with $image }}
+  					<img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}"/>
+  				{{ end }}
 			</a>
 		</div>
 		<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>

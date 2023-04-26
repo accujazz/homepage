@@ -4,11 +4,18 @@
     <div class="about">
         {{.Content}}
     </div>
+    {{ $image := resources.Get "profile-image.jpg" }}
     <div class="profile-pic">
         <picture>
-            <source media="(max-width: 768px)" srcset="/img/vilnius-retrospecs-small.webp">
-            <source media="(min-width: 769px)" srcset="/img/vilnius-retrospecs-large.webp">
-            <img src="/img/vilnius-retrospecs-large.webp" alt="Alexey Gornostaev photo">
+            {{ with $image.Fill "655x360 center webp" }}
+            <source media="(max-width: 768px)" srcset="{{ .RelPermalink }}">
+            {{ end }}
+            {{ with $image.Resize "360x webp" }}
+            <source media="(min-width: 769px)" srcset="{{ .RelPermalink }}">
+            {{ end }}
+            {{ with $image }}
+            <img src="{{ .RelPermalink }}" alt="Profile image">
+            {{ end }}
         </picture>      
     </div>
 </section>
