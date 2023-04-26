@@ -12,7 +12,7 @@ I launched RAWG, a video game discovery service with an open API, that was used 
 
 I spend my free time walking my![Trudi photo](/img/trudi-dog.webp)[corgi](http://trudi.dog) and playing with interactive entertainment.
 
-I’m always looking for interesting projects to collaborate on. For more details contact me and I’ll be glad to chat or send you back my cv. Reach me at: hi@alexeygornostaev.com.
+I’m always looking for interesting projects to collaborate on. For more details contact me and I’ll be glad to chat or send you back my cv. Reach me at: hi-at-alexeygornostaev.com.
 
 Cheers!
 
