@@ -5,14 +5,14 @@ name = "Accujazz"
 license = "MIT"
 licenselink = ""
 description = "Alexey Gornostaev's personal website"
-homepage = "http://alexey.is/"
+homepage = "https://alexeygornostaev.com/"
 tags = []
 features = []
 min_version = "0.41"
 
 [author]
   name = "Alexey Gornostaev"
-  homepage = "http://alexey.is/"
+  homepage = "https://alexeygornostaev.com/"
 
 # If porting an existing theme
 [original]
