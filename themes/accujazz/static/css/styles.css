@@ -148,6 +148,7 @@ section.intro {
 	grid-area: 1 / 1 / 1 / 2;
 }
 .profile-pic img {
+	aspect-ratio: 180 / 211;
 	border-radius: 10px;
 }
 .about h1 {
@@ -269,6 +270,9 @@ section.intro {
 }
 .profile-pic {
 	grid-area: 1 / 1 / 2 / 2;
+}
+.profile-pic img {
+	aspect-ratio: 131 / 72;
 }
 iframe {
 	width: 100%;
