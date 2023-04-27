@@ -1,5 +1,5 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 {{ $image := resources.Get "trudi-dog.webp" }}
 {{ with $image }}
-I spend my free time walking my<img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}"/><a href="https://trudi.dog">corgi</a> and playing with interactive entertainment.
+I spend my free time walking my<img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}" alt="" /><a href="https://trudi.dog">corgi</a> and playing with interactive entertainment.
 {{ end }}

@@ -6,7 +6,7 @@
 			<a href="{{ .Site.BaseURL }}" title="Back to homepage">
 				{{ $image := resources.Get "header-icon.webp" }}
 				{{ with $image }}
-  					<img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}"/>
+  					<img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}" alt="Alexey with his corgi"/>
   				{{ end }}
 			</a>
 		</div>
