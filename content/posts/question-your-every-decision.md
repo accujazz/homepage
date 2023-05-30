@@ -25,6 +25,6 @@ The game is loaded without any action from the user. The user can close the game
 
 ![Changed behaviour on a mobile device](/img/posts/html5-games-flow-mobile-changed.jpg)
 
-This change resulted in DAU growing 300%. The DAU is counted only after the game is fully loaded, which can take from 5 to 45 seconds depending on the game and connection speed, so the users who dropped during the loading process are not counted.
+This change resulted in DAU growing 300%. The DAU is counted only after the game is fully loaded, which can take from 5 to 45 seconds depending on the game and connection speed, so the users who dropped during the loading process are not counted. Of course, not all of those players would become really active, but nonetheless.
 
 Awesome results! And quite a surprise, that we had, what looked like a not that bad standard screen, massively hurt our performance. Again and again, I continue to learn to challenge every decision, even the ones that are accepted as common knowledge and are made on autopilot mode. Hope this post was helpful to you!
