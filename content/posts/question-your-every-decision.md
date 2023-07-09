@@ -1,5 +1,5 @@
 ---
-title: "Question your every decision: industry-standard practices can also hurt performance"
+title: "Case study: fixing DAU conversion"
 date: 2023-05-30T16:31:52+03:00
 ---
 
@@ -25,6 +25,6 @@ The game is loaded without any action from the user. The user can close the game
 
 ![Changed behaviour on a mobile device](/img/posts/html5-games-flow-mobile-changed.jpg)
 
-This change resulted in DAU growing 300%. The DAU is counted only after the game is fully loaded, which can take from 5 to 45 seconds depending on the game and connection speed, so the users who dropped during the loading process are not counted. Of course, not all of those players would become really active, but nonetheless.
+This change resulted in DAU growing 300%. The DAU is counted only after the game is fully loaded, which can take from 5 to 45 seconds depending on the game and connection speed, so the users who dropped during the loading process are not counted. Sure, not all of those players would become really active and complete the game tutorial, but nonetheless, at least the game will have a chance to interest players.
 
-Awesome results! And quite a surprise, that we had, what looked like a not that bad standard screen, massively hurt our performance. Again and again, I continue to learn to challenge every decision, even the ones that are accepted as common knowledge and are made on autopilot mode. Hope this post was helpful to you!
+Quite a surprise, that we had, what looked like a not that bad standard screen, massively hurt our performance. Again and again, I continue to learn to challenge every decision, even the ones that are accepted as common knowledge and are made on autopilot mode. Hope this post was helpful to you!

@@ -1,5 +1,5 @@
 ---
-title: "Making group competition flow x100 more simple and efficient"
+title: "Case study: making group competition flow more simple and efficient"
 date: 2021-01-16T16:57:54+03:00
 ---
 
