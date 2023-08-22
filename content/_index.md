@@ -6,9 +6,9 @@ title: "Alexey Gornostaev (Алексей Горностаев)"
 
 I’m a product manager with over 10 years experience in building software products from the ground up.
 
-I started my career with a personal project that was noticed and got me invited into my first full-time product management job.
+I started my career with a bootstrapped project that got me invited into my first full-time product management job.
 
-I launched RAWG, a video game discovery service with an open API, that was used by Microsoft, Unity, Newzoo, Blur and Yandex. Over the years, I’ve worked on a bunch of video game related projects: media with in-house built editorial and social features, mobile in-game marketing platform, and digital game distribution service.
+I launched RAWG, a video game discovery service with an open API, that was used by Microsoft, Unity, Newzoo, Blur and Yandex. Over the years, I’ve worked on a bunch of projects: media with in-house built editorial and social features, marketing tool for mobile game publisher, and digital game distribution service.
 
 {{% trudi-dog %}}
 
