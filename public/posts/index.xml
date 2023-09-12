@@ -6,7 +6,36 @@
     <description>Recent content in Notes on Alexey Gornostaev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alexeygornostaev.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Jul 2023 17:18:40 +0300</lastBuildDate><atom:link href="https://alexeygornostaev.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Wizard and the Prophet</title>
+      <link>https://alexeygornostaev.com/posts/the-wizard-and-the-prophet/</link>
+      <pubDate>Sat, 08 Jul 2023 17:18:40 +0300</pubDate>
+      
+      <guid>https://alexeygornostaev.com/posts/the-wizard-and-the-prophet/</guid>
+      <description>I remember reading a book about two scientists who, while recognizing and agreeing on problems that our planet and the environment faces, had diametrically opposed views on possible solutions.</description>
+    </item>
+    
+    <item>
+      <title>Case study: fixing DAU conversion</title>
+      <link>https://alexeygornostaev.com/posts/question-your-every-decision/</link>
+      <pubDate>Tue, 30 May 2023 16:31:52 +0300</pubDate>
+      
+      <guid>https://alexeygornostaev.com/posts/question-your-every-decision/</guid>
+      <description>It&amp;rsquo;s quite rare when an update in user flow can lead to a huge change in one of the key metrics. Even more surprising when the changed screen is a standard one, widely used in the industry.</description>
+    </item>
+    
+    <item>
+      <title>Whimsical cars</title>
+      <link>https://alexeygornostaev.com/posts/whimsical-cars/</link>
+      <pubDate>Wed, 12 Apr 2023 09:41:47 +0300</pubDate>
+      
+      <guid>https://alexeygornostaev.com/posts/whimsical-cars/</guid>
+      <description>Every year modern cars look more and more aggressive.
+This is Nissan Qashqai from 2008 to 2023.
+The car is bigger, the headlights are narrower, the front grille more prominent.</description>
+    </item>
+    
     <item>
       <title>Gig workers are contemporary XX century factory workers</title>
       <link>https://alexeygornostaev.com/posts/2022-11-02-gig-workers-are-contemporary-factory-workers/</link>
@@ -69,33 +98,6 @@ In GNOME 42 all you need to learn is how to summon the Activities overview mode 
       
       <guid>https://alexeygornostaev.com/posts/2021-07-22-axie-infinity-economy-grind/</guid>
       <description>This pay-to-earn Axie Infinity thing is curious, making a lot of money and you’ll absolutely hear about it soon from every corner of the internet.</description>
-    </item>
-    
-    <item>
-      <title>Digital stores influence authors creative decisions</title>
-      <link>https://alexeygornostaev.com/posts/2021-07-21-digital-stores-influence-creative-decisions/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexeygornostaev.com/posts/2021-07-21-digital-stores-influence-creative-decisions/</guid>
-      <description>Curious piece by @johnnemann on the disadvantages that short niche games have on Steam. I believe this is true for all current digital stores, not only games.</description>
-    </item>
-    
-    <item>
-      <title>A round-up of the recent articles on where things are headed in video game space</title>
-      <link>https://alexeygornostaev.com/posts/2021-07-03-roundup-articles-video-game-space-future/</link>
-      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexeygornostaev.com/posts/2021-07-03-roundup-articles-video-game-space-future/</guid>
-      <description>If you&amp;rsquo;ll ask me what recent shifts in the video game industry I view as the most interesting and aspiring i&amp;rsquo;ll point you to these insightful observations made by other people:</description>
-    </item>
-    
-    <item>
-      <title>What is gamification</title>
-      <link>https://alexeygornostaev.com/posts/2021-06-08-what-is-gamification/</link>
-      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexeygornostaev.com/posts/2021-06-08-what-is-gamification/</guid>
-      <description>I recently got interested in the topic of using game mechanics in consumer software products and stumbled upon an old, but still useful talk by Gabe Zichermann on gamification.</description>
     </item>
     
   </channel>

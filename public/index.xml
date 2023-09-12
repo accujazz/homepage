@@ -5,10 +5,66 @@
     <description>Recent content from Alexey Gornostaev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2023 17:18:40 +0300</lastBuildDate>
     
         <atom:link href="https://alexeygornostaev.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Wizard and the Prophet</title>
+      <link>https://alexeygornostaev.com/posts/the-wizard-and-the-prophet/</link>
+      <pubDate>Sat, 08 Jul 2023 17:18:40 +0300</pubDate>
+      
+      <guid>https://alexeygornostaev.com/posts/the-wizard-and-the-prophet/</guid>
+      <description>&lt;p&gt;I remember reading a &lt;a href=&#34;https://www.amazon.com/Wizard-Prophet-Remarkable-Scientists-Tomorrows/dp/0307961699&#34;&gt;book&lt;/a&gt; about two scientists who, while recognizing and agreeing on problems that our planet and the environment faces, had diametrically opposed views on possible solutions.&lt;/p&gt;
+&lt;p&gt;The wizard believes in unconfined innovation. Progress will eventually solve all of our problems. Our civilization is extremely good at inventing solutions, if we have the right incentives. So let’s encourage the tech!&lt;/p&gt;
+&lt;p&gt;The prophet, on the other hand, thinks that using more and more resources in the pursuit of an endless prosperity will ruin the planet. It has only so much to give. Let’s cut back and regulate!&lt;/p&gt;
+&lt;p&gt;For me, it feels like the continuous run of tech misfires (surveillance tech, crypto, ad tech, social web, etc.) turned industry enthusiasts from wizards into prophets. While the previous period was all about growth by all means and an endless search for something new, I feel like, people are starting to look for products, that are predictable, stable and give control to the user. Which is understandable given how big of transformations are happening in the world right now. Change is tiresome, and naturally arises a request for the familiar and understandable.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Case study: fixing DAU conversion</title>
+      <link>https://alexeygornostaev.com/posts/question-your-every-decision/</link>
+      <pubDate>Tue, 30 May 2023 16:31:52 +0300</pubDate>
+      
+      <guid>https://alexeygornostaev.com/posts/question-your-every-decision/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s quite rare when an update in user flow can lead to a huge change in one of the key metrics. Even more surprising when the changed screen is a standard one, widely used in the industry.&lt;/p&gt;
+&lt;p&gt;Almost every html5 game website, the games that you can play online without a download, is structured in the same fashion. There is a homepage with a selection of games divided into genres or some other categories, the user finds a game they like and then is presented a game details page with a description, visuals, maybe some user reviews and other info, that in theory should convince the user to click on the &amp;ldquo;Play&amp;rdquo; button and convert into an active player.&lt;/p&gt;
+&lt;p&gt;Operating such a site, we&amp;rsquo;ve noticed something weird: the mobile to desktop device ratio for our users was off: 55/45 for website visitors, but only 20% of users who play the game were doing so from a mobile device. Basically, mobile users played much less, than those who used a desktop PC.&lt;/p&gt;
+&lt;p&gt;While there maybe a number of explanations for such behaviour: games that are not touch friendly or huge loading times, we decided to investigate the site in the first place, &amp;lsquo;cause it&amp;rsquo;s cheaper and quicker, than to tinker with each game individually. Maybe the traffic we direct into the games differs and is predominantly desktop? Nope, quite the contrary, it&amp;rsquo;s mostly mobile. Then what happens when the user lands on the site? Let&amp;rsquo;s see.&lt;/p&gt;
+&lt;p&gt;Mobile device: click on the &amp;ldquo;Play&amp;rdquo; button or hero art launches the game.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://alexeygornostaev.com/img/posts/html5-games-flow-mobile.jpg&#34; alt=&#34;Game screen on a mobile device&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Desktop device: an iframe is automatically started with the page load.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://alexeygornostaev.com/img/posts/html5-games-flow-desktop.jpg&#34; alt=&#34;Game screen on a desktop device&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Thinking that something is wrong with the game details page on mobile we decided to mimic the desktop behaviour, bypass it and lead users straight to the game&amp;rsquo;s iframe, opened in fullscreen on their mobile device.&lt;/p&gt;
+&lt;p&gt;The game is loaded without any action from the user. The user can close the game and go to the game detail page tapping on the menu button.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://alexeygornostaev.com/img/posts/html5-games-flow-mobile-changed.jpg&#34; alt=&#34;Changed behaviour on a mobile device&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This change resulted in DAU growing 300%. The DAU is counted only after the game is fully loaded, which can take from 5 to 45 seconds depending on the game and connection speed, so the users who dropped during the loading process are not counted. Sure, not all of those players would become really active and complete the game tutorial, but nonetheless, at least the game will have a chance to interest players.&lt;/p&gt;
+&lt;p&gt;Quite a surprise, that we had, what looked like a not that bad standard screen, massively hurt our performance. Again and again, I continue to learn to challenge every decision, even the ones that are accepted as common knowledge and are made on autopilot mode. Hope this post was helpful to you!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Whimsical cars</title>
+      <link>https://alexeygornostaev.com/posts/whimsical-cars/</link>
+      <pubDate>Wed, 12 Apr 2023 09:41:47 +0300</pubDate>
+      
+      <guid>https://alexeygornostaev.com/posts/whimsical-cars/</guid>
+      <description>&lt;p&gt;Every year modern cars look more and more aggressive.&lt;/p&gt;
+&lt;p&gt;This is Nissan Qashqai from 2008 to 2023.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://alexeygornostaev.com/img/posts/nissan-qashqai.jpg&#34; alt=&#34;Nissan Qashqai 2008-2023&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The car is bigger, the headlights are narrower, the front grille more prominent. Even in stationary the car looks like it is frozen in a moment of flying 100 km/h. You can pick any other manufacture and get a pretty similar picture. It&amp;rsquo;s dull.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s not the only aesthetic that could look modern. Look at this beauty:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://alexeygornostaev.com/img/posts/honda-e.jpg&#34; alt=&#34;Honda e&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Or Rivian R1T:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://alexeygornostaev.com/img/posts/rivian-r1t.jpg&#34; alt=&#34;Rivian R1T&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Both cars don&amp;rsquo;t scream &amp;ldquo;speed&amp;rdquo;, they don&amp;rsquo;t pretend to be a rocket, that could catapult you in a second from point A to B (while they definitely could, &amp;lsquo;cause electric is generally more responsive and fast). Refreshingly, they look like friendly and useful companions.&lt;/p&gt;
+&lt;p&gt;Akin to a video game AI mate, that is always there to help.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://alexeygornostaev.com/img/posts/destiny-ghost.jpg&#34; alt=&#34;Ghost from Destiny&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Whimsical cars are ❤️.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Gig workers are contemporary XX century factory workers</title>
@@ -147,90 +203,6 @@
 &lt;p&gt;Apparently, in crypto-games the grinding is so brutal, that the game has real humans who don&amp;rsquo;t play, but only grind and afterwards sell their work to humans who wish to start playing.&lt;/p&gt;
 &lt;p&gt;This looks like a master-servant relationship. And, actually, it is indeed. According to the article 60% of users are from The Philippines, grinding virtual heroes to sell and earning a few bucks more than on their real jobs.&lt;/p&gt;
 &lt;p&gt;It even feels like we are going backwards in time! Progress is when we hire computers to do unnecessary monotonous work that was previously done by humans. And here it’s vice versa.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Digital stores influence authors creative decisions</title>
-      <link>https://alexeygornostaev.com/posts/2021-07-21-digital-stores-influence-creative-decisions/</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexeygornostaev.com/posts/2021-07-21-digital-stores-influence-creative-decisions/</guid>
-      <description>&lt;p&gt;Curious piece by &lt;a href=&#34;https://twitter.com/johnnemann&#34;&gt;@johnnemann&lt;/a&gt; on the disadvantages that short niche games have on Steam.
-I believe this is true for all current digital stores, not only games. And in turn it indeed changes creators behaviour.&lt;/p&gt;
-&lt;p&gt;Spotify encourages to release tracks faster and more often. As a result we get more singles and remixes. Apple and Google stores encourage free apps that are monetized by either in-app purchases or subscriptions. Paid apps with single purchase are a fraction of the market. Certain types of apps and games are almost gone from mobile.&lt;/p&gt;
-&lt;p&gt;The dynamics favour continuous delivery of content which is preferably paid by micro-transactions or feels like free (read: is subscription-based). And in the end, that is all about user engagement.&lt;/p&gt;
-&lt;p&gt;Consumers prefer those changes, so the current model is here to stay. And niche/short/not “modern” product will have less exposure at the time when the stores will continue to capture as much of attention as they can.&lt;/p&gt;
-&lt;p&gt;I obviously don’t know the answers, but in general i feel the market in addition to current stores will find a new model that will be better suited for creators of niche content. Because the demand is real.&lt;/p&gt;
-&lt;p&gt;If i had to guess, i would say that it will be a patreon/only fans/kickstarter like model where customers don’t pay for specific games but follow/subscribe to favourite developers with monthly payments and developers are creatively free to make whatever they wish.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A round-up of the recent articles on where things are headed in video game space</title>
-      <link>https://alexeygornostaev.com/posts/2021-07-03-roundup-articles-video-game-space-future/</link>
-      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexeygornostaev.com/posts/2021-07-03-roundup-articles-video-game-space-future/</guid>
-      <description>&lt;p&gt;If you&amp;rsquo;ll ask me what recent shifts in the video game industry I view as the most interesting and aspiring i&amp;rsquo;ll point you to these insightful observations made by other people:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.theguardian.com/technology/2021/may/08/work-can-virtual-meeting-spaces-save-us-all-from-zoom-fatigue&#34;&gt;Can virtual meeting spaces save us all from Zoom fatigue?&lt;/a&gt; Pandemic has changed a lot of our social and work-related perceptions and it isn&amp;rsquo;t likely we&amp;rsquo;ll move back to how things were prior. We are rethinking the work processes: hybrid and remote work are the new normal, video call is the default way of having a meeting, and corporations now onboard many employees virtually rather than on-site. The tools we&amp;rsquo;ve created in the last decade worked for the most part and made the shift to remote work and social life painless, but we are still in the beginning and a lot of startups will focus on rethinking tools for communication and collaboration. Video game like social spaces are starting to emerge and use the advantages of spatial interfaces and game mechanics to bring  virtual closer to real.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.jonlai.co/game-like&#34;&gt;The Best Apps Today are
-Games in Disguise&lt;/a&gt;. The best apps today use video game mechanics in their core product design. Fun is the new powermetric because users naturally gravitate to the most rewarding experience. When people have fun and feel they are achieving their goals, they build long-term habits.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://future.a16z.com/instant-games/&#34;&gt;The Future of Games Is Instant&lt;/a&gt; and &lt;a href=&#34;https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/&#34;&gt;The Future of Games is an Instant Flash to the past&lt;/a&gt;. Could instant games, i.e games that are frictionless, instantly playable no matter the device, accessible through links, and cross-platform be the future and what the embedded social aspect of the web and hyperlynking will change about how we develop and distribute games?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.fortressofdoors.com/so-you-want-to-compete-with-roblox/&#34;&gt;So You Want to Compete with Roblox&lt;/a&gt;. Roblox was numerous times mentioned during Apple/Epic trial and is one the most talked about companies in the industry. You also can&amp;rsquo;t exclude the topic of Roblox when talking about platforms, distribution, platform fees and tools for creators. Each of which is in itself one of the most think about topics in the industry right now.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>What is gamification</title>
-      <link>https://alexeygornostaev.com/posts/2021-06-08-what-is-gamification/</link>
-      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://alexeygornostaev.com/posts/2021-06-08-what-is-gamification/</guid>
-      <description>&lt;p&gt;I recently got interested in the topic of using game mechanics in consumer software products and stumbled upon an old, but still useful talk by Gabe Zichermann on gamification. Today gamification is not a trendy word as it used to be and it got somewhat spoiled by many basic and not well-thought-out implementations of achievements and leaderboards. However, the underlying principles are based on modern game design with the goal of making software more fun and the users more motivated. That task is as relevant as ever. I encourage you to find time and &lt;a href=&#34;https://www.youtube.com/watch?v=6O1gNVeaE4g&amp;amp;t&#34;&gt;watch the whole talk&lt;/a&gt;. Below are my notes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Gamification is the process of using the game thinking and mechanics to engage audiences and solve problems.&lt;/li&gt;
-&lt;li&gt;If Shakespeare lived in the modern world he could say &amp;ldquo;All the world is a game&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;There are games about being a traffic controller, a farmer. Fun and theme are not related. Theme is a lure to bring people in. If a job of a traffic controller can be fun then anything could be.&lt;/li&gt;
-&lt;li&gt;Carmen vs. Sandiego released in the 80-s is still the last successful educational game. Why? Because parents and teachers became involved in designing games and kids smell that shit instantly. In parallel Civilzation and Sim City almost invisibly taught people basic history lessons.&lt;/li&gt;
-&lt;li&gt;One could say that gamification is non-fiction gaming.&lt;/li&gt;
-&lt;li&gt;Quick loyalty programs history:
-&lt;ul&gt;
-&lt;li&gt;1800s: tangible goods (buy 10 items get 1 free)&lt;/li&gt;
-&lt;li&gt;1930s: cash incentives (collect tickets when buying goods. almost like a virtual currency, hard to do the math for a consumer) -&amp;gt; collect X and then redeem them.&lt;/li&gt;
-&lt;li&gt;1980s: loyalty systems (it&amp;rsquo;s about status more than about free stuff)&lt;/li&gt;
-&lt;li&gt;2000s: virtual rewards (no real money as a reward, only a status).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;There is no money out from Farmville or Foursquare.&lt;/li&gt;
-&lt;li&gt;Loyalty choices are now public. Because word of mouth is more predictable (Zynga knows how) than in the old days.&lt;/li&gt;
-&lt;li&gt;Gamification loop: challenges -&amp;gt; win conditions -&amp;gt; leaderboards -&amp;gt; badges -&amp;gt; social networking -&amp;gt; status. A point system at the heart.&lt;/li&gt;
-&lt;li&gt;Users naturally gravitate to the most rewarding experience. By definition games have an advantage. They are designed to be rewarding.&lt;/li&gt;
-&lt;li&gt;Main player types: achiever, explorer, killer and socializer.
-&lt;ul&gt;
-&lt;li&gt;socializer: lightweight, non-confrontation, easy interactions. This is the most common one - around 80% of players.&lt;/li&gt;
-&lt;li&gt;achiever: beat the game, i want to win.&lt;/li&gt;
-&lt;li&gt;explorer: find all the secrets and signal it to the crowd.&lt;/li&gt;
-&lt;li&gt;killer: i win, you loose. beat the opponent and signal it to the crowd.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Fun is the new powermetric. Because, as we&amp;rsquo;ve said earlier, -&amp;gt; users naturally gravitate to the most rewarding experience.&lt;/li&gt;
-&lt;li&gt;Leaderboard in an arcade: top 20 scores. A user sees huge scores and doesn&amp;rsquo;t believe he can reach them.&lt;/li&gt;
-&lt;li&gt;Modern leaderboard: no matter where a user really is in the leaderboard we show them in the middle, two friends below, two friends on top and a message what to do to move up. Exception: when a user is literally in top 20.&lt;/li&gt;
-&lt;li&gt;Onboarding - is level 1. Player is put right away in a game, in a very controlled path with fast gratification, only after completing he is asked to register. Very different from the web landing sign up flow which usually starts with the registration step.&lt;/li&gt;
-&lt;li&gt;Every single touch point is an opportunity to convert a user.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you interested in more of a motivational kind of talk on how video games can change the world for the better i recommend a &lt;a href=&#34;https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world?language=en&#34;&gt;TED Talk by Jane McGonigal&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
