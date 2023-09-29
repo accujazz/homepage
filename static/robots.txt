@@ -9,3 +9,7 @@ Disallow: /
 
 User-agent: Google-Extended
 Disallow: /
+
+User-agent: *
+Disallow: /games
+Disallow: /alexey-gornostaev-cv.pdf
