@@ -11,7 +11,7 @@ newContentEditor = "open -b com.sublimetext.4"
 [params]
   author = "Alexey Gornostaev"
   replyemail = "comments@alexeygornostaev.com"
-  description = "Hi, I’m Alexey, and this is my personal website."
+  description = "Hi, I’m Alexey, and this is my personal website. I’m a product manager with over 10 years experience in building software products from the ground up."
   mainSections = ['posts']
 
 [permalinks]
