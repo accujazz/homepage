@@ -69,13 +69,11 @@ p {
 }
 a {
 	color: #000;
-	text-decoration: underline;
-/*	border-bottom: 2px solid rgba(0,0,0,0.3); */
+	text-decoration: none;
+	border-bottom: 2px solid rgba(0,0,0,0.3);
 }
 a:hover {
-	color: blue;
-	text-decoration: underline;
-/*	border-bottom: 2px solid rgba(0,0,0,1); */
+	border-bottom: 2px solid rgba(0,0,0,1);
 }
 img {
 	max-width: 100%;
