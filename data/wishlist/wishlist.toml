@@ -1,4 +1,5 @@
 games = [
+"[Tape to Tape](https://store.steampowered.com/app/1566200/Tape_to_Tape/)",
 "[Songs of Glimmerwick](https://store.steampowered.com/app/1706510/Songs_of_Glimmerwick/)",
 "[Return to Monkey Island](https://store.steampowered.com/app/2060130/Return_to_Monkey_Island/)",
 "[Braid, Anniversary Edition](http://braid-game.com/)",
@@ -9,5 +10,4 @@ games = [
 "[Replaced](https://store.steampowered.com/app/1663850/REPLACED/)",
 "[Grand tour legends](https://www.iorama.studio/gtl)",
 "[Judas](https://store.steampowered.com/app/388860/Judas/)",
-"[Foretales](https://store.steampowered.com/app/1170080/Foretales/)"
 ]
