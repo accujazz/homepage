@@ -213,31 +213,8 @@ div.comments {
 	text-align: center;
 }
 /*Trudi photo grid */
-.photo-grid {
-	display: grid;
-  grid-template-columns: repeat(3, 1fr);
-	column-gap: 1em;
-	row-gap: 1em;
-}
-.photo-grid p:nth-child(1) {
-	grid-column-start: 1;
-	grid-column-end: 4;
-}
-.photo-grid img:nth-child(2) {
-	grid-column-start: 1;
-	grid-column-end: 4;
-}
-.photo-grid img:nth-child(6) {
-	grid-column-start: 1;
-	grid-column-end: 4;
-}
-.photo-grid img:nth-child(10) {
-	grid-column-start: 1;
-	grid-column-end: 4;
-}
-.photo-grid img:nth-child(17) {
-	grid-column-start: 1;
-	grid-column-end: 4;
+.photo-grid img {
+	margin-bottom: 10px;
 }
 /* Video games list */
 /* Style the tab */
@@ -306,16 +283,5 @@ iframe {
 }
 .content {
 	padding: 0 4% 0 4%;
-}
-/*Trudi photo grid */
-.photo-grid {
-	display: grid;
-  grid-template-columns: 1fr;
-	column-gap: 0;
-	row-gap: 1em;
-}
-.photo-grid img:nth-child(n) {
-	grid-column-start: 1;
-	grid-column-end: 2;
 }
 }
