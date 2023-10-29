@@ -3,19 +3,12 @@
 <h1>{{ .Title }}</h1>
 <div class="tab">
 	<button class="tablinks" onclick="openList(event, 'wishlist')" id="defaultOpen">Wishlist</button>
-	<button class="tablinks" onclick="openList(event, 'completed')">Completed</button>
 	<button class="tablinks" onclick="openList(event, 'memorabilia')">Memorabilia</button>
 	<button class="tablinks" onclick="openList(event, 'favourites')">Favourites</button>
 </div>
 
 <div id="wishlist" class="tabcontent">
 	{{ range $.Site.Data.wishlist }}
-		{{ partial "games.html" . }}
-	{{ end }}
-</div>
-
-<div id="completed" class="tabcontent">
-	{{ range $.Site.Data.completed }}
 		{{ partial "games.html" . }}
 	{{ end }}
 </div>
