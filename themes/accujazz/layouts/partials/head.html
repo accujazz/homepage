@@ -7,13 +7,10 @@
 
   <meta property="og:image" content="{{ .Site.BaseURL }}preview.jpg">
 
+  <link rel="icon" href="{{ .Site.BaseURL }}favicon.png" />
+
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
-
-  {{ $image := resources.Get "favicon.png" }}
-    {{ with $image }}
-      <link rel="shortcut icon" href="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}"/>
-    {{ end }}
 
   <style>{{ readFile "static/css/styles.css" | safeCSS }}</style>
 
