@@ -1,12 +1,14 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-<ul class="posts-list">
-    <!-- orders content according to the "date" field in front matter -->
-    {{ range .Pages.ByDate.Reverse }}
-        <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            <span class="date-list">{{ .Date.Format "Jan 2, 2006" }}</span>
-        </li>
-    {{ end }}
-</ul>
+    <div class="list">
+        <h1>{{ .Title }}</h1>
+        <!-- orders content according to the "date" field in front matter -->
+        <ul>
+            {{ range .Pages.ByDate.Reverse }}
+            <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <span class="date-list">{{ .Date.Format "Jan 2, 2006" }}</span>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
 {{ end }}

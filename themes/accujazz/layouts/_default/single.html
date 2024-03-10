@@ -1,9 +1,8 @@
 {{ define "main" }}
 	<article>
 		<h1>{{ .Title }}</h1>
-		<div class="date-published">{{ dateFormat "January 2, 2006" .Date }}</div>
+		<span class="date-published">{{ dateFormat "January 2, 2006" .Date }}</span>
 		{{ .Content }}
+		<span class="comments">Have a thought on this post? <a href="mailto:{{ .Site.Params.replyemail }}?subject=Re: {{ .Title }}">Reply via email</a>.</span>
 	</article>
-	<div class="comments">Have a thought on this post? <a href="mailto:{{ .Site.Params.replyemail }}?subject=Re: {{ .Title }}">Reply via email</a>.
-	</div>
 {{ end }}
