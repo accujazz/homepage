@@ -4,5 +4,5 @@
         {{ with $image.Resize "720x webp" }}
         <img src="{{ .RelPermalink }}" alt="Scene from The Grand Budapest movie. Guards find a hole in the jail cell floor.">
     {{ end }}
-    <p>Sorry, the page you’re looking for isn’t here anymore. You can go to the <a href="{{ .Site.BaseURL }}">homepage</a>.</p>
+    <p>Sorry, the page you’re looking for isn’t here anymore. You can go to the <a href="{{ "/" | relURL }}">homepage</a>.</p>
 {{ end }}

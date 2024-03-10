@@ -1,54 +1,54 @@
 {{ define "main"}}
-<article>
-	<h1>{{ .Title }}</h1>
-	<div class="tab">
-		<button class="tablinks" onclick="openList(event, 'wishlist')" id="defaultOpen">Wishlist</button>
-		<button class="tablinks" onclick="openList(event, 'memorabilia')">Memorabilia</button>
-		<button class="tablinks" onclick="openList(event, 'favourites')">Favourites</button>
-	</div>
 
-	<div id="wishlist" class="tabcontent">
-		{{ range $.Site.Data.wishlist }}
-			{{ partial "games.html" . }}
-		{{ end }}
-	</div>
+<h1>{{ .Title }}</h1>
+<div class="tab">
+	<button class="tablinks" onclick="openList(event, 'wishlist')" id="defaultOpen">Wishlist</button>
+	<button class="tablinks" onclick="openList(event, 'memorabilia')">Memorabilia</button>
+	<button class="tablinks" onclick="openList(event, 'favourites')">Favourites</button>
+</div>
 
-	<div id="memorabilia" class="tabcontent">
-		{{ range $.Site.Data.memorabilia }}
-			{{ partial "games.html" . }}
-		{{ end }}
-	</div>
+<div id="wishlist" class="tabcontent">
+	{{ range $.Site.Data.wishlist }}
+		{{ partial "games.html" . }}
+	{{ end }}
+</div>
 
-	<div id="favourites" class="tabcontent">
-		{{ range $.Site.Data.favourites }}
-			{{ partial "games.html" . }}
-		{{ end }}
-	</div>
+<div id="memorabilia" class="tabcontent">
+	{{ range $.Site.Data.memorabilia }}
+		{{ partial "games.html" . }}
+	{{ end }}
+</div>
 
-	<script>
-		function openList(evt, listName) {
-		  // Declare all variables
-		  var i, tabcontent, tablinks;
+<div id="favourites" class="tabcontent">
+	{{ range $.Site.Data.favourites }}
+		{{ partial "games.html" . }}
+	{{ end }}
+</div>
 
-		  // Get all elements with class="tabcontent" and hide them
-		  tabcontent = document.getElementsByClassName("tabcontent");
-		  for (i = 0; i < tabcontent.length; i++) {
-		    tabcontent[i].style.display = "none";
-		  }
+<script>
+	function openList(evt, listName) {
+	  // Declare all variables
+	  var i, tabcontent, tablinks;
 
-		  // Get all elements with class="tablinks" and remove the class "active"
-		  tablinks = document.getElementsByClassName("tablinks");
-		  for (i = 0; i < tablinks.length; i++) {
-		    tablinks[i].className = tablinks[i].className.replace(" active", "");
-		  }
+	  // Get all elements with class="tabcontent" and hide them
+	  tabcontent = document.getElementsByClassName("tabcontent");
+	  for (i = 0; i < tabcontent.length; i++) {
+	    tabcontent[i].style.display = "none";
+	  }
 
-		  // Show the current tab, and add an "active" class to the button that opened the tab
-		  document.getElementById(listName).style.display = "block";
-		  evt.currentTarget.className += " active";
-		}
+	  // Get all elements with class="tablinks" and remove the class "active"
+	  tablinks = document.getElementsByClassName("tablinks");
+	  for (i = 0; i < tablinks.length; i++) {
+	    tablinks[i].className = tablinks[i].className.replace(" active", "");
+	  }
 
-		// Get the element with id="defaultOpen" and click on it
-		document.getElementById("defaultOpen").click();
-	</script>
-</article>
+	  // Show the current tab, and add an "active" class to the button that opened the tab
+	  document.getElementById(listName).style.display = "block";
+	  evt.currentTarget.className += " active";
+	}
+
+	// Get the element with id="defaultOpen" and click on it
+	document.getElementById("defaultOpen").click();
+</script>
+
 {{ end }}

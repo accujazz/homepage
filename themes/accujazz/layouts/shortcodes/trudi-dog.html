@@ -1,0 +1,5 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $image := resources.Get "trudi-dog.webp" }}
+{{ with $image }}
+<a href="/trudis-walks/">See pictures</a> of our<img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}" alt="" width="24" height="24" />corgi Trudi. Dogs make you 🙂.
+{{ end }}

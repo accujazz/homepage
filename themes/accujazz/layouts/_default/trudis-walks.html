@@ -1,0 +1,12 @@
+{{ define "main" }}
+	<h1>{{ .Title }}</h1>
+	<article class="photo-grid">
+		<p>Trudi likes snow, meeting new people, playing with pine cones, traveling in a car, sleeping in parents' bed, yogurts.
+Dislikes fireworks, doctors, swimming, when her parents play too much with other dogs, rain, vacuum cleaners.</p>
+		{{ range $.Site.Data.photos }}
+				{{ range .photos }}
+  					{{ . | markdownify }}
+				{{ end }}
+		{{ end }}
+	</article>
+{{ end }}
