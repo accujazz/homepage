@@ -49,9 +49,6 @@ table {
 /* 
 	My css - https://alexeygornostaev.com
 */
-html, body {
-	min-height: 100vh;
-}
 
 body {
 	font-family: system-ui, sans-serif;
