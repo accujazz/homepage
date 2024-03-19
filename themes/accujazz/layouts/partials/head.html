@@ -12,9 +12,10 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
 
-  <style>{{ readFile "static/css/styles.css" | safeCSS }}</style>
+  <!-- <style>{{ readFile "static/css/style.css" | safeCSS }}</style> -->
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 
-  {{ range .AlternativeOutputFormats -}}
-      {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-  {{ end -}}
+  {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+  {{ end }}
 </head>

@@ -1,0 +1,74 @@
+{{ define "main"}}
+
+<h1>{{ .Title }}</h1>
+
+<table>
+  <caption>
+    Wishlist
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">Released</th>
+      <th scope="col">Game</th>
+      <th scope="col">URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range .Site.Data.games.wishlist }}
+    <tr>
+      <td>{{ .released }}</td>
+      <td>{{ .title }}</td>
+      <td><a href="{{ .url }}">Open</a></td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+
+<table>
+  <caption>
+    Favourites
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">Released</th>
+      <th scope="col">Game</th>
+      <th scope="col">URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range .Site.Data.games.favourites }}
+    <tr>
+      <td>{{ .released }}</td>
+      <td>{{ .title }}</td>
+      <td><a href="{{ .url }}">Open</a></td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+
+<table>
+  <caption>
+    Memorabilia
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">Released</th>
+      <th scope="col">Game</th>
+      <th scope="col">Completed</th>
+      <th scope="col">Platform</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range sort .Site.Data.games.memorabilia "released" "desc" }}
+    <tr>
+      <td>{{ .released }}</td>
+      <td>{{ .title }}</td>
+      <td>{{ .completed }}</td>
+      <td>{{ .platform }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+
+
+{{ end }}

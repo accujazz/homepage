@@ -4,9 +4,12 @@ languageCode = "en-us"
 theme = "accujazz"
 summaryLength = 21
 paginate = 10
-rssLimit = 10
 newContentEditor = "open -b com.sublimetext.4"
+disableKinds = ["taxonomy", "term"]
 
+[services]
+  [services.rss]
+    limit = 10
 
 [params]
   author = "Alexey Gornostaev"
