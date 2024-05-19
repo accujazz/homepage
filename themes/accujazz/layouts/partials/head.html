@@ -4,15 +4,11 @@
   
   <title>{{ block "title" . }}{{if .IsHome}}{{ .Title }}{{else}}{{ .Title }} - {{ .Site.Title }}{{end}}{{ end }}</title>
   <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{ .Summary }}{{end}}" />
-
-  <meta property="og:image" content="{{ .Site.BaseURL }}preview.jpg">
-
   <link rel="icon" href="{{ .Site.BaseURL }}favicon.png" />
 
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
 
-  <!-- <style>{{ readFile "static/css/style.css" | safeCSS }}</style> -->
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 
   {{ with .OutputFormats.Get "rss" -}}
