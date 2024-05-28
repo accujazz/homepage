@@ -4,7 +4,7 @@
 
 <table>
   <caption>
-    Wishlist
+    <strong>Wishlist</strong>
   </caption>
   <thead>
     <tr>
@@ -26,29 +26,8 @@
 
 <table>
   <caption>
-    Favourites
-  </caption>
-  <thead>
-    <tr>
-      <th scope="col">Released</th>
-      <th scope="col">Game</th>
-      <th scope="col">URL</th>
-    </tr>
-  </thead>
-  <tbody>
-    {{ range .Site.Data.games.favourites }}
-    <tr>
-      <td>{{ .released }}</td>
-      <td>{{ .title }}</td>
-      <td><a href="{{ .url }}">Open</a></td>
-    </tr>
-    {{ end }}
-  </tbody>
-</table>
-
-<table>
-  <caption>
-    Memorabilia
+    <strong>Memorabilia</strong>
+    <span>★ - favourite</span>
   </caption>
   <thead>
     <tr>
@@ -61,7 +40,7 @@
   <tbody>
     {{ range sort .Site.Data.games.memorabilia "released" "desc" }}
     <tr>
-      <td>{{ .released }}</td>
+      <td>{{ .released }} {{ .favourite }}</td>
       <td>{{ .title }}</td>
       <td>{{ .completed }}</td>
       <td>{{ .platform }}</td>

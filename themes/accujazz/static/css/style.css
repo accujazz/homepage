@@ -206,11 +206,19 @@ table {
 }
 
 caption {
-	font-size: 14px;
 	caption-side: top;
+	font-weight: normal;
 	text-align: left;
-  padding: 10px 0 10px 0;
-  font-weight: bold;
+	padding: 10px 0 10px 0;
+}
+
+caption strong {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+caption span {
+	display: block;
 }
 
 thead {

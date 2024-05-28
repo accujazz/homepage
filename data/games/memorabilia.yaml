@@ -1,3 +1,8 @@
+- title: Animal Well
+  released: 2024 
+  completed: 27.05.2024
+  platform: PC
+  favourite: ★
 - title: The Case of the Golden Idol
   released: 2022 
   completed: 02.03.2024
@@ -9,6 +14,7 @@
   platform: PC
   completed: 08.10.2023
   released: 2023
+  favourite: ★
 - title: Viewfinder
   platform: PC
   completed: 22.07.2023
@@ -47,12 +53,14 @@
   platform: Xbox
   completed: 12.12.2020
   released: 2019
+  favourite: ★
 - title: Telling Lies
   platform: iOS
   released: 2019
 - title: Baba Is You
   platform: macOS X
   released: 2019
+  favourite: ★
 - title: Golf Peaks
   platform: iOS
   completed: 18.12.2018
@@ -61,6 +69,7 @@
   platform: macOS X
   released: 2018
   completed: 25.03.2024
+  favourite: ★
 - title: Into The Breach
   platform: Switch
   released: 2018
@@ -74,9 +83,11 @@
   platform: Xbox
   completed: 27.12.2017
   released: 2017
+  favourite: ★
 - title: Gorogoa
   platform: iOS
   released: 2017
+  favourite: ★
 - title: Forza Motorsport 7
   platform: Xbox
   completed: 21.01.2021
@@ -93,10 +104,12 @@
   platform: PC
   completed: 26.01.2022
   released: 2016
+  favourite: ★
 - title: Firewatch
   platform: PS
   completed: 10.02.2016
   released: 2016
+  favourite: ★
 - title: The Witness
   platform: PS
   released: 2016
@@ -132,9 +145,14 @@
   platform: iOS
   completed: 05.07.2014
   released: 2014
+- title: Threes
+  platform: iOS
+  released: 2014
+  favourite: ★
 - title: Device 6
   platform: iOS
   released: 2013
+  favourite: ★
 - title: Drive on Moscow
   platform: iOS
   released: 2013
@@ -192,6 +210,7 @@
 - title: Portal 2
   platform: macOS X
   released: 2011
+  favourite: ★
 - title: Superbrothers Sword & Sworcery EP
   platform: iOS
   released: 2011
@@ -199,6 +218,7 @@
   platform: PS
   completed: 12.12.2011
   released: 2011
+  favourite: ★
 - title: Limbo
   platform: macOS X
   released: 2010
@@ -213,6 +233,7 @@
 - title: Mass Effect 2
   platform: PC
   released: 2010
+  favourite: ★
 - title: Uncharted 2 Among Thieves
   platform: PS
   released: 2009
@@ -228,6 +249,7 @@
 - title: Braid
   platform: macOS X
   released: 2008
+  favourite: ★
 - title: World of Goo
   platform: macOS X
   released: 2008
@@ -273,6 +295,7 @@
 - title: Thief The Dark Project
   platform: PC
   released: 1998
+  favourite: ★
 - title: Unreal
   platform: PC
   released: 1998
@@ -297,6 +320,7 @@
 - title: Myst
   platform: Classic Mac OS
   released: 1993
+  favourite: ★
 - title: The 7th Guest
   platform: DOS
   released: 1993
@@ -318,6 +342,7 @@
 - title: Indiana Jones and the Fate of Atlantis
   platform: Classic Mac OS
   released: 1992
+  favourite: ★
 - title: Spectre
   platform: Classic Mac OS
   released: 1992
@@ -346,6 +371,7 @@
   completed: 22.11.2021
   platform: DOS
   released: 1990
+  favourite: ★
 - title: Microsoft Flight Simulator 4.0
   platform: Classic Mac OS
   released: 1989
@@ -358,6 +384,7 @@
 - title: Prince of Persia
   platform: Classic Mac OS
   released: 1989
+  favourite: ★
 - title: Glider
   platform: Classic Mac OS
   released: 1988
