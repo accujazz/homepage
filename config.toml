@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   author = "Alexey Gornostaev"
-  replyemail = "comments@alexeygornostaev.com"
+  replyemail = "hi@alexeygornostaev.com"
   description = "Hi, I’m Alexey, and this is my personal website."
   mainSections = ['posts']
 
