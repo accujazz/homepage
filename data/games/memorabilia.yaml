@@ -96,6 +96,7 @@
   platform: PS
   completed: 26.01.2019
   released: 2016
+  favourite: ★
 - title: Quantum Break
   platform: Xbox
   completed: 18.04.2021
@@ -125,6 +126,7 @@
   platform: iOS
   completed: 28.08.2015
   released: 2015
+  favourite: ★
 - title: Broken Age. Act I
   completed: 29.04.2015
   released: 2015
@@ -218,7 +220,6 @@
   platform: PS
   completed: 12.12.2011
   released: 2011
-  favourite: ★
 - title: Limbo
   platform: macOS X
   released: 2010
@@ -253,6 +254,7 @@
 - title: World of Goo
   platform: macOS X
   released: 2008
+  favourite: ★
 - title: Portal
   platform: macOS X
   released: 2007
@@ -262,6 +264,7 @@
 - title: LocoRoco
   platform: PSP
   released: 2006
+  favourite: ★
 - title: Mafia
   platform: PC
   released: 2002
@@ -391,6 +394,7 @@
 - title: Grand Prix Circuit
   platform: DOS
   released: 1988
+  favourite: ★
 - title: PT-109
   platform: Classic Mac OS
   released: 1987
