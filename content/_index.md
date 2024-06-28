@@ -14,4 +14,4 @@ Browse the pages: [Uses](/uses/), [🦊Trudi](/trudis-walks/), [Games](/games/) 
 
 [Notes](/posts/) &#8226; [RSS](/index.xml)
 
-{{< notes "8 most recent posts" >}}
+{{< notes "5 most recent posts" >}}

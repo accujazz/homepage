@@ -1,6 +1,6 @@
 <ul>
     <!-- orders content according to the "date" field in front matter -->
-    {{ range first 8 (where .Site.RegularPages.ByDate.Reverse "Type" "in" site.Params.mainSections) }}
+    {{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Type" "in" site.Params.mainSections) }}
         <li>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
             <span class="date-list">{{ .Date.Format "Jan 2, 2006" }}</span>
