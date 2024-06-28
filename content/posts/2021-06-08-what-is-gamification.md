@@ -30,4 +30,4 @@ I recently got interested in the topic of using game mechanics in consumer softw
 - Onboarding - is level 1. Player is put right away in a game, in a very controlled path with fast gratification, only after completing he is asked to register. Very different from the web landing sign up flow which usually starts with the registration step.
 - Every single touch point is an opportunity to convert a user.
 
-If you interested in more of a motivational kind of talk on how video games can change the world for the better i recommend a [TED Talk by Jane McGonigal](https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world?language=en).
+If you interested in more of a motivational kind of talk on how video games can change the world for the better I recommend a [TED Talk by Jane McGonigal](https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world?language=en).

@@ -1,6 +1,6 @@
 ---
 date: "2022-07-16T00:00:00Z"
-title: Linux is simpler than macOS
+title: Window management in Gnome is simpler than on macOS
 ---
 
 How far we've come that window management on modern Linux is simpler and more straightforward than in macOS.
