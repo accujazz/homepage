@@ -12,7 +12,7 @@ Reach me at: hi [at] alexeygornostaev.com.
 
 Browse the pages: 
 
-- [🦊Trudi](/trudis-walks/). _Trudi is a dog and family member. A selection of photos that'll make you smile._
+- [Trudi](/trudis-walks/). 🦊 _Trudi is a dog and family member. A selection of photos that'll make you smile._
 - [Notes](/posts/). _An ocassionall short post, that graduated from a private Obsidian library to a public html page._
 - [Uses](/uses/). _Hardware and software that I use and like._
 - [Games](/games/). _A database of video games that have left memories after playing._
