@@ -15,4 +15,4 @@ Browse the pages:
 - [Trudi](/trudis-walks/). 🦊 _Trudi is a dog and family member. A selection of photos that'll make you smile._
 - [Notes](/posts/). _An occasional short post, that graduated from a private Obsidian library to a public html page._
 - [Uses](/uses/). _Hardware and software that I use and like._
-- [Games](/games/). _A database of video games that have left memories after playing._
+- [Games](/games/). _A log of video games that have left memories after playing._
