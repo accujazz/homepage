@@ -7,21 +7,26 @@ Dislikes fireworks, doctors, swimming, when her parents play too much with other
 					{{ $imageHi := .Resize "1280x webp" }}
           			{{ $imageSml := .Resize "640x webp" }}
                         <img 
-                        srcset="{{ $imageHi.RelPermalink }} 1280w, {{ $imageSml.RelPermalink }} 640w"
-                        sizes="(max-width: 320px) 640px, 1280px"
-						src="{{ $imageHi.RelPermalink }}"
-                       	alt="{{ .Name }}" />
+                        	srcset="{{ $imageHi.RelPermalink }} 1280w, {{ $imageSml.RelPermalink }} 640w"
+                        	sizes="(max-width: 320px) 640px, 1280px"
+							src="{{ $imageHi.RelPermalink }}"
+                       		alt="{{ .Name }}"
+                       		width="{{ $imageSml.Width }}"
+                       		height="{{ $imageSml.Height }}"
+                       	/>
                 {{ end }}
 
 				{{ range after 3 (sort (.Resources.ByType "image") "Name" "asc") }}
 					{{ $imageHi := .Resize "1280x webp" }}
           			{{ $imageSml := .Resize "640x webp" }}
                         <img 
-                        srcset="{{ $imageHi.RelPermalink }} 1280w, {{ $imageSml.RelPermalink }} 640w"
-                        sizes="(max-width: 320px) 640px, 1280px"
-						src="{{ $imageHi.RelPermalink }}"
-						loading="lazy"
-                       	alt="{{ .Name }}" />
+                        	srcset="{{ $imageHi.RelPermalink }} 1280w, {{ $imageSml.RelPermalink }} 640w"
+                        	sizes="(max-width: 320px) 640px, 1280px"
+							src="{{ $imageHi.RelPermalink }}"
+                       		loading="lazy" alt="{{ .Name }}"
+                       		width="{{ $imageSml.Width }}"
+                       		height="{{ $imageSml.Height }}" 
+                       	/>
                 {{ end }}
 	</article>
 {{ end }}
