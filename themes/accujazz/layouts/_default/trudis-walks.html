@@ -3,10 +3,25 @@
 	<article class="photo-grid">
 		<p>Trudi likes snow, meeting new people, playing with pine cones, traveling in a car, sleeping in parents' bed, yogurts.
 Dislikes fireworks, doctors, swimming, when her parents play too much with other dogs, rain, vacuum cleaners.</p>
-		{{ range $.Site.Data.trudi }}
-				{{ range .photos }}
-  					{{ . | markdownify }}
-				{{ end }}
-		{{ end }}
+				{{ range first 3 (sort (.Resources.ByType "image") "Name" "asc") }}
+					{{ $imageHi := .Resize "1280x webp" }}
+          			{{ $imageSml := .Resize "640x webp" }}
+                        <img 
+                        srcset="{{ $imageHi.RelPermalink }} 1280w, {{ $imageSml.RelPermalink }} 640w"
+                        sizes="(max-width: 320px) 640px, 1280px"
+						src="{{ $imageHi.RelPermalink }}"
+                       	alt="{{ .Name }}" />
+                {{ end }}
+
+				{{ range after 3 (sort (.Resources.ByType "image") "Name" "asc") }}
+					{{ $imageHi := .Resize "1280x webp" }}
+          			{{ $imageSml := .Resize "640x webp" }}
+                        <img 
+                        srcset="{{ $imageHi.RelPermalink }} 1280w, {{ $imageSml.RelPermalink }} 640w"
+                        sizes="(max-width: 320px) 640px, 1280px"
+						src="{{ $imageHi.RelPermalink }}"
+						loading="lazy"
+                       	alt="{{ .Name }}" />
+                {{ end }}
 	</article>
 {{ end }}
