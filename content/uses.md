@@ -8,11 +8,15 @@ Nowadays, I use a MacBook Air M1 (16/256). When on desk, it's connected to a Gig
 
 On the go, I use an iPhone. I tend to dislike current mobile phones: they are overpriced, big, heavy, made of glass and their backs are full of cameras. I'd like to have a more simple utilitarian option - a quality tool, not a shiny fashion object.
 
-I mostly use the defaults and stock software whenever I can. My favourite pieces of software are:
+I mostly use the defaults and stock software whenever I can, other than that:
 
-- Sublime Text
-- NetNewsWire
-- Reeder
-- Instapaper
-- Soulver
-- Apple Mail
+- [Firefox](https://www.mozilla.org/en-US/firefox/): web browser
+- [Sublime Text](https://www.sublimetext.com/): text editor
+- [Obsidian](https://obsidian.md/): notes
+- [NetNewsWire](https://netnewswire.com/): rss reader
+- [Instapaper](https://www.instapaper.com/): read it later
+- [Soulver](https://soulver.app/): notepad calculator
+- [Apple Mail](https://en.wikipedia.org/wiki/Apple_Mail): mail
+- [Fish](https://fishshell.com/): shell
+- [Bitwarden](https://bitwarden.com/): password manager
+- [Syncthing](https://syncthing.net/): file sync
