@@ -4,7 +4,7 @@ type: page
 ---
 
 ### Playing
-[The Rise of the Golden Idol](https://store.steampowered.com/app/2716400/The_Rise_of_the_Golden_Idol/) is a perfect sequel: different (it's super rare to change the style between the games in a series!), but still weird and identifiable graphic style, more refined story and a couple of new mechanics. [Against the Storm](https://store.steampowered.com/app/1336490/Against_the_Storm/) is a surprising blend of roguelike and city builder genres, not often you can see such innovative work. [Wordle](https://www.nytimes.com/games/wordle/index.html) is still a perfect mobile game.
+Enjoying Witchfire. The game is often described as a souls-like first person shooter, but for me it plays like single-player Destiny. Easy to pick up and play a few hours here and there, awesome gunplay, creative lore and a lot of depth if you're willing to put more hours in the game. [Against the Storm](https://store.steampowered.com/app/1336490/Against_the_Storm/) is a surprising blend of roguelike and city builder genres, not often you can see such innovative work. [Wordle](https://www.nytimes.com/games/wordle/index.html) is still a perfect mobile game.
 
 ### Rubik's Cube
 The first solution of Rubik’s Cube I completed in approximately 4 hours. After a couple of days I could solve the cube in 15 minutes. Now in 4 minutes. Waaay harder to improve going forward!
