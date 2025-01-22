@@ -2,9 +2,11 @@
 title: "Alexey Gornostaev"
 ---
 
-👋 Hi, I'm Alexey. I devise, plan and manage web projects.
+👋 Hi, I'm Alexey. I'm a product manager and producer in video game space.
 
-I started my career with a bootstrapped project that got me invited into my first full-time product management job. Nowadays, I have over 10 years of experience leading product development in video game space. I co-founded a video game discovery service with an open API, that was used by Microsoft, Unity, Newzoo, Blur and Yandex.
+I started my career with a bootstrapped project that got me invited into my first full-time product management job. Nowadays, I have over 10 years of experience leading product development. 
+
+I co-founded a video game discovery service with an open API, that was used by Microsoft, Unity, Newzoo, Blur and Yandex. I've worked with indie games, video games media and f2p products on bringing new projects to market.
 
 Reach me at: hey [at] lyosha.net.
 
