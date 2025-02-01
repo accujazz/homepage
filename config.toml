@@ -3,7 +3,7 @@ title = "Alexey Gornostaev"
 languageCode = "en-us"
 theme = "accujazz"
 summaryLength = 21
-paginate = 10
+pagination.pagerSize = 10
 newContentEditor = "open -b com.sublimetext.4"
 disableKinds = ["taxonomy", "term"]
 
