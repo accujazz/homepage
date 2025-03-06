@@ -10,7 +10,6 @@ On the go, I use an iPhone. I tend to dislike current mobile phones: they are ov
 
 I mostly use the defaults and stock software whenever I can, other than that:
 
-- [Firefox](https://www.mozilla.org/en-US/firefox/): web browser
 - [Sublime Text](https://www.sublimetext.com/): text editor
 - [Obsidian](https://obsidian.md/): notes
 - [NetNewsWire](https://netnewswire.com/): rss reader
