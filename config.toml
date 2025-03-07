@@ -1,4 +1,4 @@
-baseURL = "https://alexeygornostaev.com/"
+baseURL = "https://lyosha.net/"
 title = "Alexey Gornostaev"
 languageCode = "en-us"
 theme = "accujazz"
@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   author = "Alexey Gornostaev"
-  replyemail = "hi@alexeygornostaev.com"
+  replyemail = "hey@lyosha.net"
   description = "Hi, I’m Alexey, and this is my personal website."
   mainSections = ['posts']
 
