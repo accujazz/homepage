@@ -4,16 +4,16 @@ type: page
 ---
 
 ### Playing
-Enjoying [Witchfire](https://store.steampowered.com/app/3156770/Witchfire/). The game is often described as a souls-like first person shooter, but for me it plays like single-player Destiny. Easy to pick up and play a few hours here and there, awesome gunplay, creative lore and a lot of depth if you're willing to put more hours in the game. [Against the Storm](https://store.steampowered.com/app/1336490/Against_the_Storm/) is a surprising blend of roguelike and city builder genres, not often you can see such innovative work. [Wordle](https://www.nytimes.com/games/wordle/index.html) is still a perfect mobile game.
+Didn't have time to play all the interesting demos from the latest Steam Next Fest (who has?), but appreciated excellent narrative work in [Wanderstop](https://store.steampowered.com/app/1299460/Wanderstop/) demo, sort of a mini Forza Horizon structure in [Wheel World](https://store.steampowered.com/app/1497460/Wheel_World/) and a mix of Kurosawa film and Japan horror movie vibe in [Labyrinth Of The Demon King](https://store.steampowered.com/app/1804010/Labyrinth_Of_The_Demon_King/). Playing [Wordle](https://www.nytimes.com/games/wordle/index.html) and [Chess](https://deepgreen.app/) on the phone.
 
 ### Rubik's Cube
-The first solution of Rubik’s Cube I completed in approximately 4 hours. After a couple of days I could solve the cube in 15 minutes. Now in 4 minutes. Waaay harder to improve going forward!
+The first solution of Rubik’s Cube I completed in approximately 4 hours. After a couple of days I could solve the cube in 15 minutes. Now in 4 minutes. Way harder to improve going forward!
 
 ### Software
-Trying command line text editors, looks like I prefer [Micro](https://github.com/zyedidia/micro) with its simple and minimalistic approach.
+Mostly noticing how the quality of Mac OS software is degrading. It's very sad. I can't switch to any other OS for full time work yet, though, feel the day is getting closer, and it's almost there.
 
 ### Devices
-Tinkering with Android on a Pixel 8a. Like that a not very expensive phone can do everything I need. Android has gotten better than iOS in  system level UX (control center, notifications, settings). The app selection is still lacking: it's ok if you only need basic most popular apps like WhatsApp, Maps and such (they are mostly the same on every platform), but the choice of independent software like RSS readers and Podcast apps is very limited.
+Thinking of upgrading to MacBook Air M4, given that now it comes with 16Gb of RAM and $100 cheaper for the base config. But what I'm really enthusiastic about is the latest Framework announcements: an affordable and small [Framework 12](https://frame.work/laptop12) laptop and powerful mITX [Framework Desktop](https://frame.work/desktop). These devices are democratic and beautiful!
 
 ### TV
-Something new every week, enjoyed [American Primeval](https://en.wikipedia.org/wiki/American_Primeval) and [The Day of the Jackal](https://en.wikipedia.org/wiki/The_Day_of_the_Jackal_(TV_series)), most other TV lately not so much.
+Walking through the Oscar film list: Anora, Flow, Wicked, The Brutalist in addition to Conclave and The Substance that I've already seen previously. If I had to pick, I'd have chosen Flow as my favourite.
