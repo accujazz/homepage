@@ -4,7 +4,7 @@ date: 2025-03-09T09:00:00+03:00
 draft: false
 ---
 
-Most links were written down in the first half of February, 'cause the second half and first days of March I spent in a hospital. Now I’m at home and fine. After spending so much time in a not very pleasant environment, I am willing to spend less time on depressing technology commentary going forward.
+Most links were written down in the first half of February, 'cause the second half and first days of March I spent in a hospital. Now I’m at home and fine. After spending so much time in a not very pleasant environment, I feel that depressing technology commentary should not occupy so much of my attention going forward, but for now…
 
 **[Che](https://en.wikipedia.org/wiki/Che_(2008_film)) by Steven Soderbergh**  
 I’ve found Che odd, akin to watching a documentary, not a conventional scripted feature film. As it turned out, not by accident, citing Wikipedia:
