@@ -2,11 +2,11 @@
 title: "Alexey Gornostaev"
 ---
 
-👋 Hi, I'm Alexey. I'm a product manager and producer in video game space.
+👋 Hi, I'm Alexey. I'm a product manager and producer in video game space. Apart from work, I'm a long-time F1 fan, find peace in walking with my dog, nostalgic for pre-social media internet, and try to be mindful (no exploitative practices) with my hardware/software choices.
 
-I started my career with a bootstrapped project that got me invited into my first full-time product management job.
+---
 
-I co-founded a video game discovery service with an open API, that was used by Microsoft, Unity, Newzoo, Blur and Yandex. I've worked with indie games, video games media and f2p products on bringing new projects to market.
+Right now, I bring indie PC games to the market @ [Herocraft](https://herocraft.com/). Before, I was leading product development at a video game discovery startup, and  video game media with several million monthly visitors.
 
 Reach me at: hey [at] lyosha.net.
 
