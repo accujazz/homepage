@@ -16,4 +16,4 @@ Mostly noticing how the quality of Mac OS software is degrading. It's very sad. 
 Thinking of upgrading to MacBook Air M4, given that now it comes with 16Gb of RAM and $100 cheaper for the base config. But what I'm really enthusiastic about is the latest Framework announcements: an affordable and small [Framework 12](https://frame.work/laptop12) laptop and powerful mITX [Framework Desktop](https://frame.work/desktop). These devices are democratic and beautiful!
 
 ### TV
-Walking through the Oscar film list: Anora, Flow, Wicked, The Brutalist in addition to Conclave and The Substance that I've already seen previously. If I had to pick, I'd have chosen Flow as my favourite.
+[Adolescence](https://www.imdb.com/title/tt31806037/) is important. In 2025 it's no secret what social media is doing to our brains, nonetheless we just live with it. Adolescence is a reminder that we shouldn't.
