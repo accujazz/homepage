@@ -6,7 +6,7 @@ title: "Alexey Gornostaev"
 
 ---
 
-Right now, I bring indie PC games to the market @ [Herocraft](https://herocraft.com/). Before, I was leading product development at a video games discovery startup, and video games media with several million monthly visitors.
+Right now, I bring indie PC games to market @ [Herocraft](https://herocraft.com/). Before, I was leading product development at a video games discovery startup, and video games media with several million monthly visitors.
 
 You can reach me at: hey [at] lyosha.net.
 
