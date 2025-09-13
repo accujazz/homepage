@@ -5,26 +5,26 @@
     	<div class="content">
             <header>
                 {{if .IsHome}}
-                {{ $image := resources.Get "profile-image.jpg" }}
+                {{ $image := resources.Get "profile-image-c.jpg" }}
                   <div class="photo">
                     <picture>
                         {{ with $image.Fill "200x200 center webp" }}
                         <source srcset="{{ .RelPermalink }}">
                         {{ end }}
                         {{ with $image }}
-                        <img src="{{ .RelPermalink }}" alt="Alexey with his corgi sitting on a bench, Commodore 64 color palette" width=100 height=100>
+                        <img src="{{ .RelPermalink }}" alt="Portrait of Alexey, Camputers Lynx color palette" width=100 height=100>
                         {{ end }}
                     </picture>      
                   </div>
                 {{else}}
-                  {{ $image := resources.Get "profile-image.jpg" }}
+                  {{ $image := resources.Get "profile-image-c.jpg" }}
                   <div class="photo">
                     <picture>
                         {{ with $image.Fill "200x200 center webp" }}
                         <source srcset="{{ .RelPermalink }}">
                         {{ end }}
                         {{ with $image }}
-                        <img src="{{ .RelPermalink }}" alt="Alexey with his corgi sitting on a bench, Commodore 64 color palette" width=100 height=100>
+                        <img src="{{ .RelPermalink }}" alt="Portrait of Alexey, Camputers Lynx color palette" width=100 height=100>
                         {{ end }}
                     </picture>      
                   </div>
