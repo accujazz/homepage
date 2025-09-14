@@ -42,3 +42,8 @@ disableKinds = ["taxonomy", "term"]
   [security.http]
     methods = ['(?i)GET|POST']
     urls = ['.*']
+
+# For GitHub Pages
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
