@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /alexey-gornostaev-cv.pdf
+Disallow: /ag-cv.pdf
