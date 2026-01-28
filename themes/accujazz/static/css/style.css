@@ -47,13 +47,16 @@ table {
 }
 
 /* 
-	My css - https://alexeygornostaev.com
+	My css - https://lyosha.net
 */
+html {
+	font-size: 18px;
+}
 
 body {
 	font-family: system-ui, sans-serif;
-	font-size: 18px;
-	line-height: 1.8em;
+	font-size: 1rem;
+	line-height: 1.8rem;
 	font-weight: normal;
 	font-style: normal;
 	color: #000;
@@ -240,7 +243,7 @@ article img {
 footer {
 	margin-top: 60px;
 /*	padding: 20px 0 20px 0; */
-	font-size: 12px;
+	font-size: 0.666rem;
 /*	border-top: 1px solid rgba(0, 0, 0, 0.2); */
 }
 
@@ -293,7 +296,7 @@ caption {
 }
 
 caption strong {
-	font-size: 14px;
+	font-size: 0.5rem;
 	font-weight: bold;
 }
 
