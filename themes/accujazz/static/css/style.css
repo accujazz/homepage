@@ -106,7 +106,7 @@ h2, h3, h4 {
 }
 
 h1 {
-	font-size: 2.6em;
+	font-size: 2.2em;
 }
 
 h2 {
@@ -243,7 +243,7 @@ article img {
 footer {
 	margin-top: 60px;
 /*	padding: 20px 0 20px 0; */
-	font-size: 0.666rem;
+	font-size: 0.667rem;
 /*	border-top: 1px solid rgba(0, 0, 0, 0.2); */
 }
 
@@ -285,7 +285,7 @@ iframe {
 /* Video games list */
 
 table {
-	font-size: 12px;
+	font-size: 0.667rem;
 }
 
 caption {
@@ -296,7 +296,7 @@ caption {
 }
 
 caption strong {
-	font-size: 0.5rem;
+	font-size: 1rem;
 	font-weight: bold;
 }
 
