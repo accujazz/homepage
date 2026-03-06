@@ -5,11 +5,11 @@ name = "Accujazz"
 license = "MIT"
 licenselink = ""
 description = "Alexey Gornostaev's personal website"
-homepage = "https://alexeygornostaev.com/"
+homepage = "https://lyosha.net/"
 tags = []
 features = []
 min_version = "0.41"
 
 [author]
   name = "Alexey Gornostaev"
-  homepage = "https://alexeygornostaev.com/"
+  homepage = "https://lyosha.net/"
