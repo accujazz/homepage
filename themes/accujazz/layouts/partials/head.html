@@ -3,12 +3,14 @@
   <meta name="viewport" content="width=device-width,minimum-scale=1">
   
   <title>{{ block "title" . }}{{if .IsHome}}{{ .Title }}{{else}}{{ .Title }} - {{ .Site.Title }}{{end}}{{ end }}</title>
-  <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{ .Summary }}{{end}}" />
+  <meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{ with
+   .Summary }}{{ . }}{{ else }}{{ $.Site.Params.description }}{{ end }}{{end}}" />
   <link rel="icon" href="{{ .Site.BaseURL }}favicon.png" />
 
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
 
+  <link rel="canonical" href="{{ .Permalink }}">
   <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
 
   {{ with .OutputFormats.Get "rss" -}}

@@ -1,40 +1,12 @@
 <!DOCTYPE html>
-<html lang="{{ $.Site.LanguageCode }}">
+<html lang="{{ $.Site.Language.Locale }}">
     {{- partial "head.html" . -}}
-    <body>
-    	<div class="content">
-            <header>
-                {{if .IsHome}}
-                {{ $image := resources.Get "profile-image-c.jpg" }}
-                  <div class="photo">
-                    <picture>
-                        {{ with $image.Fill "200x200 center webp" }}
-                        <source srcset="{{ .RelPermalink }}">
-                        {{ end }}
-                        {{ with $image }}
-                        <img src="{{ .RelPermalink }}" alt="Portrait of Alexey, Camputers Lynx color palette" width=100 height=100>
-                        {{ end }}
-                    </picture>      
-                  </div>
-                {{else}}
-                  {{ $image := resources.Get "profile-image-c.jpg" }}
-                  <div class="photo">
-                    <picture>
-                        {{ with $image.Fill "200x200 center webp" }}
-                        <source srcset="{{ .RelPermalink }}">
-                        {{ end }}
-                        {{ with $image }}
-                        <img src="{{ .RelPermalink }}" alt="Portrait of Alexey, Camputers Lynx color palette" width=100 height=100>
-                        {{ end }}
-                    </picture>      
-                  </div>
-                  <nav>
-                    <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
-                  </nav>
-                {{end}}
-            </header>
+    <body{{ with .Layout }} class="{{ . }}"{{ end }}>
+    	<main class="content">
+            <span id="_"></span>
+            {{- partial "header.html" . -}}
 	        {{- block "main" . }}{{- end }}
 	        {{- partial "footer.html" . -}}
-    	</div>
+    	</main>
     </body>
 </html>

@@ -1,6 +1,6 @@
 baseURL = "https://lyosha.net"
 title = "Alexey Gornostaev"
-languageCode = "en-us"
+defaultContentLanguage = "en"
 theme = "accujazz"
 summaryLength = 21
 pagination.pagerSize = 10
@@ -29,8 +29,12 @@ disableKinds = ["taxonomy", "term"]
   anchor = 'Smart'
   bgColor = '#ffffff'
   hint = 'photo'
-  quality = 75
-  resampleFilter = 'Box'
+  quality = 80
+  resampleFilter = 'Lanczos'
+
+[imaging.exif]
+  disableDate = false
+  disableLatLong = true
 
 [security]
   enableInlineShortcodes = false

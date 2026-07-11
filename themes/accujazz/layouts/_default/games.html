@@ -14,7 +14,7 @@
     </tr>
   </thead>
   <tbody>
-    {{ range .Site.Data.games.wishlist }}
+    {{ range hugo.Data.games.wishlist }}
     <tr>
       <td>{{ .released }}</td>
       <td>{{ .title }}</td>
@@ -38,7 +38,7 @@
     </tr>
   </thead>
   <tbody>
-    {{ range sort .Site.Data.games.memorabilia "released" "desc" }}
+    {{ range sort hugo.Data.games.memorabilia "released" "desc" }}
     <tr>
       <td>{{ .released }} {{ .favourite }}</td>
       <td>{{ .title }}</td>

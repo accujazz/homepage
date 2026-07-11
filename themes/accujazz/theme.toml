@@ -8,7 +8,7 @@ description = "Alexey Gornostaev's personal website"
 homepage = "https://lyosha.net/"
 tags = []
 features = []
-min_version = "0.41"
+min_version = "0.164.0"
 
 [author]
   name = "Alexey Gornostaev"

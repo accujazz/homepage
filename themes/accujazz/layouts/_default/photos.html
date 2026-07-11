@@ -1,0 +1,32 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ $images := where .Resources "ResourceType" "image" }}
+{{ $sorted := sort $images "Params.exifDate" "desc" }}
+
+{{/* Hugo doesn't let you sort directly on .Exif.Date, so build a slice with it precomputed */}}
+{{ $withDates := slice }}
+{{ range $images }}
+  {{ $date := time "0001-01-01" }}
+  {{ if .Meta }}{{ with .Meta.Date }}{{ $date = . }}{{ end }}{{ end }}
+  {{ $withDates = $withDates | append (dict "res" . "date" $date) }}
+{{ end }}
+{{ $withDates = sort $withDates "date" "desc" }}
+
+<div class="photo-grid">
+{{ range $i, $item := $withDates }}
+  {{ $img := $item.res }}
+  {{ $thumb := $img.Resize "600x q80" }}
+  {{ $full  := $img.Resize "1800x q90" }}
+  <a href="#p{{ $i }}" class="photo-grid__item">
+    <img src="{{ $thumb.RelPermalink }}"
+         loading="lazy" alt="{{ $img.Name }}">
+  </a>
+  <div class="lightbox" id="p{{ $i }}">
+    <a href="#_" class="lightbox__close" aria-label="Close"></a>
+    <figure>
+      <img src="{{ $full.RelPermalink }}" alt="{{ $img.Name }}">
+    </figure>
+  </div>
+{{ end }}
+</div>
+{{ end }}
