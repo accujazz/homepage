@@ -330,6 +330,11 @@ body.photos .content {
  	border-bottom: 0;
  }
 
+#_ {
+  position: fixed;
+  top: 50vh;
+}
+
 .lightbox {
   display: none;
   position: fixed;
