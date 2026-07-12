@@ -1,78 +1,9 @@
 {{ define "main" }}
-<!-- Note that the content for index.html will pull from content/_index.md -->
-<section class="about">
-<!--    {{.Content}} -->
-<h1>👋 Hi, I'm Lyosha.</h1>
-    <div class="bio">
-        <p>I'm a product manager and producer in video game space with 10+ years across development, publishing, and media.</p>
 
-        <p>Apart from work, I'm a long-time F1 fan, love walking with my dog, nostalgic for pre-social media internet.</p>
+  <!-- Note that the content for index.html will pull from content/_index.md -->
 
-        <p>You can reach me at: hey [at] lyosha.net.</p>
-    </div>
-    
-    <div class="trudi">
-        <h2>Trudi is a dog and family member</h2>
-        <p>Some <a href="{{ relref . "/photos" }}">photos</a> to make you smile.</p>
+  <section class="home">
+    {{.Content}}
+  </section>
 
-<div class="image-grid">
-      <a href="#ig0" class="image-grid__link">
-          <img src="{{ .Site.BaseURL
-  }}img/index/00-trudi-enjoying-flower-petal-on-her-nose.webp" alt="Trudi enjoying a flower
-  petal on her nose">
-      </a>
-      <a href="#ig1" class="image-grid__link">
-          <img src="{{ .Site.BaseURL
-  }}img/index/07-trudi-looking-at-a-mouse-on-a-sidewalk-in-winter.webp" alt="Trudi looking at a
-  mouse on a sidewalk in winter">
-      </a>
-      <a href="#ig2" class="image-grid__link">
-          <img src="{{ .Site.BaseURL }}img/index/09-trudy-peeks-out-from-behind-the-sofa.webp"
-  alt="Trudy peeks out from behind the sofa">
-      </a>
-  </div>
-
-  <div class="lightbox" id="ig0">
-      <a href="#_" class="lightbox__close" aria-label="Close"></a>
-      <figure><img src="{{ .Site.BaseURL
-  }}img/index/00-trudi-enjoying-flower-petal-on-her-nose.webp" alt="Trudi enjoying a flower
-  petal on her nose"></figure>
-  </div>
-  <div class="lightbox" id="ig1">
-      <a href="#_" class="lightbox__close" aria-label="Close"></a>
-      <figure><img src="{{ .Site.BaseURL
-  }}img/index/07-trudi-looking-at-a-mouse-on-a-sidewalk-in-winter.webp" alt="Trudi looking at a
-  mouse on a sidewalk in winter"></figure>
-  </div>
-  <div class="lightbox" id="ig2">
-      <a href="#_" class="lightbox__close" aria-label="Close"></a>
-      <figure><img src="{{ .Site.BaseURL
-  }}img/index/09-trudy-peeks-out-from-behind-the-sofa.webp" alt="Trudy peeks out from behind the
-   sofa"></figure>
-  </div>
-  
-        <p>🦊 Trudi likes snow, meeting new people, playing with pine cones, traveling in a car, sleeping in parents' bed, yogurts. Dislikes fireworks, doctors, swimming, when her parents play too much with other dogs, rain, vacuum cleaners.</p>
-    </div>
-
-    <div class="now">
-        <h2>What I'm up to right now</h2>
-        <p>I self-host super important family entertainment: Plex and Wordle. I also use a Raspberry Pi to run a couple of services using Docker. </p>
-        <p>Recently I enjoyed watching Panic Room (2002), Sorcerer (1977), The Day of the Jackal (1973) and Stealing Beauty (1996). Played <a href="https://store.steampowered.com/app/2721890/oo/">Öoo</a>, Doom (2016) and <a href="https://smestorp.itch.io/cinco-paus">Cinco Paus</a> (the only game I still play on a phone).</p>
-        <p>Occasionally run around with my phone <a href="{{.Site.BaseURL}}img/index/bird-chatting.mp4" target="_blank">identifying birds</a> via songs they make. Solving Rubik’s Cube in approximately 4 minutes 🐌.</p>
-    </div>
-
-    <div class="tools">
-        <h2>Tools I use</h2>
-        <p>I use a MacBook Air M4. Most of the time it's connected to a 4K Dell U2725QE monitor. Plus, a desktop PC, built in a <a href="{{ .Site.BaseURL }}posts/2021-08-12-building-a-pc/">Streacom DA2</a> Mini-ITX (fun) case. Loved building it! It’s running the latest version of <a href="https://www.fedoraproject.org/">Fedora</a>.</p>
-        <p>Software: Sublime Text, Obsidian, Ghostty, NetNewsWire, Instapaper, Syncthing and default Apple apps for calendar, contacts and other basic needs.</p>
-    </div>
-
-    <div class="links">
-        <h2>Browse the pages</h2>
-        <ul>
-            <li><a href="{{ .Site.BaseURL }}posts/">Notes</a>. An occasional short post, that graduated from a private Obsidian library to a public html page.</li>
-            <li><a href="{{ .Site.BaseURL }}games/">Games</a>. A log of video games that have left memories after playing.</li>
-        </ul>
-    </div>
-</section>
 {{ end }}

@@ -61,7 +61,7 @@ html {
 body {
 	font-family: system-ui, sans-serif;
 	font-size: 1rem;
-	line-height: 1.8rem;
+	line-height: 1.8;
 	font-weight: normal;
 	font-style: normal;
 	color: #000;
@@ -80,14 +80,16 @@ p, ul {
 	margin-bottom: 20px;
 }
 
-a, a:hover, a:visited {
-	color: #000;
-}
-
 a {
+	color: #000;
 	text-decoration: none;
 	padding-bottom: 2px;
-	border-bottom: 1px solid rgba(0,0,0);
+	border-bottom: 1px solid #000;
+}
+
+a:visited {
+	color: rgba(0,0,0,0.5);
+	border-bottom-color: rgba(0,0,0,0.5);
 }
 
 a:hover {
@@ -100,23 +102,26 @@ img {
 	height: auto;
 }
 
+h1, h2, h3, h4 {
+  line-height: 1.2;
+  margin-bottom: 0.4em;
+}
+
 h1 {
 	font-size: 2.2em;
 	font-weight: 700;
-	line-height: 1.1;
 }
 
 h2, h3, h4 {
-	font-weight: normal;
-	line-height: 1.1;
+	font-weight: 500;
 }
 
 h2 {
-	font-size: 1.8em;
+	font-size: 1.4em;
 }
 
 h3 {
-	font-size: 1.6em;
+	font-size: 1.3em;
 }
 
 blockquote  {
@@ -153,20 +158,24 @@ span.date-list {
 .content {
 	display: flex;
 	flex-direction: column;
-	gap: 20px;
+	gap: 40px;
 	max-width: 640px;
-	margin: 20px auto;
+	margin: 40px auto;
+}
+
+.home .block {
+	margin-bottom: 60px;
+}
+
+.block p:last-child {
+	margin-bottom: 0;
+}
+
+.block:last-child {
+	margin-bottom: 0;
 }
 
 /* Index */
-
-.about h1, .about h2 {
-	margin-bottom: 20px;
-}
-
-.bio, .trudi, .now, .tools {
-	margin-bottom: 60px;
-}
 
 .image-grid {
 	display: grid;
@@ -210,7 +219,7 @@ span.date-list {
 header {
 	display: flex;
 	flex-direction: column;
-	line-height: 1.4em;
+	line-height: 1.4;
 }
 
 .photo img {
@@ -222,6 +231,10 @@ header {
 .posts-list li {
 	margin: 0 0 10px 0;
 	list-style-type: none;
+}
+
+.posts-list li:last-child {
+	margin-bottom: 0;
 }
 
 .date-published {
@@ -237,48 +250,15 @@ article img {
 
 /* Footer */
 footer {
-	margin-top: 60px;
-/*	padding: 20px 0 20px 0; */
-	font-size: 0.667rem;
-/*	border-top: 1px solid rgba(0, 0, 0, 0.2); */
-}
-
-/* Mobile */
-@media all and (max-width: 640px) {
-
-iframe {
-	width: 100%;
-}
-
-.content {
-	padding-left: 1rem; 
-	padding-right: 1rem;
-}
-
-.image-grid a:nth-of-type(1) {
-	transform: rotate(1deg);
-}
-
-.image-grid a:nth-of-type(2) {
-	transform: rotate(-2deg);
-}
-
-.image-grid a:nth-of-type(3) {
-	transform: rotate(-1deg);
-}
-
-.image-grid a:hover {
-	transform: rotate(0deg);
-	transition: 0.2s ease;
-	z-index: 9999;
-}
-
+	font-size: 0.8rem;
 }
 
 /* Video games list */
 
 table {
-	font-size: 0.667rem;
+	width: 100%;
+	font-size: 0.8rem;
+	margin: 0 0 40px 0;
 }
 
 caption {
@@ -307,7 +287,7 @@ thead th:last-child {
 }
 
 td {
-	padding: 5px 0 5px 0;
+	padding: 5px 0;
 }
 
 td:first-child {
@@ -382,4 +362,36 @@ body.photos .content {
   text-align: center;
   margin-top: 0.5rem;
   font-size: 0.9rem;
+}
+
+/* Mobile */
+@media all and (max-width: 640px) {
+
+iframe {
+	width: 100%;
+}
+
+.content {
+	padding-left: 1rem; 
+	padding-right: 1rem;
+}
+
+.image-grid a:nth-of-type(1) {
+	transform: rotate(1deg);
+}
+
+.image-grid a:nth-of-type(2) {
+	transform: rotate(-2deg);
+}
+
+.image-grid a:nth-of-type(3) {
+	transform: rotate(-1deg);
+}
+
+.image-grid a:hover {
+	transform: rotate(0deg);
+	transition: 0.2s ease;
+	z-index: 9999;
+}
+
 }

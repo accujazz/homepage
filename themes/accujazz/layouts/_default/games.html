@@ -1,53 +1,52 @@
 {{ define "main"}}
+<div class="block">
+  <h1>{{ .Title }}</h1>
+  <p>A log of video games that have left memories after playing.</p>
+  <table>
+    <caption>
+      <strong>Wishlist</strong>
+    </caption>
+    <thead>
+      <tr>
+        <th scope="col">Released</th>
+        <th scope="col">Game</th>
+        <th scope="col">URL</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range hugo.Data.games.wishlist }}
+      <tr>
+        <td>{{ .released }}</td>
+        <td>{{ .title }}</td>
+        <td><a href="{{ .url }}">Open</a></td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
 
-<h1>{{ .Title }}</h1>
-<p>A log of video games that have left memories after playing</p>
-<table>
-  <caption>
-    <strong>Wishlist</strong>
-  </caption>
-  <thead>
-    <tr>
-      <th scope="col">Released</th>
-      <th scope="col">Game</th>
-      <th scope="col">URL</th>
-    </tr>
-  </thead>
-  <tbody>
-    {{ range hugo.Data.games.wishlist }}
-    <tr>
-      <td>{{ .released }}</td>
-      <td>{{ .title }}</td>
-      <td><a href="{{ .url }}">Open</a></td>
-    </tr>
-    {{ end }}
-  </tbody>
-</table>
-
-<table>
-  <caption>
-    <strong>Memorabilia</strong>
-    <span>★ - favourite</span>
-  </caption>
-  <thead>
-    <tr>
-      <th scope="col">Released</th>
-      <th scope="col">Game</th>
-      <th scope="col">Completed</th>
-      <th scope="col">Platform</th>
-    </tr>
-  </thead>
-  <tbody>
-    {{ range sort hugo.Data.games.memorabilia "released" "desc" }}
-    <tr>
-      <td>{{ .released }} {{ .favourite }}</td>
-      <td>{{ .title }}</td>
-      <td>{{ .completed }}</td>
-      <td>{{ .platform }}</td>
-    </tr>
-    {{ end }}
-  </tbody>
-</table>
-
-
+  <table>
+    <caption>
+      <strong>Memorabilia</strong>
+      <span>★ - favourite</span>
+    </caption>
+    <thead>
+      <tr>
+        <th scope="col">Released</th>
+        <th scope="col">Game</th>
+        <th scope="col">Completed</th>
+        <th scope="col">Platform</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range sort hugo.Data.games.memorabilia "released" "desc" }}
+      <tr>
+        <td>{{ .released }} {{ .favourite }}</td>
+        <td>{{ .title }}</td>
+        <td>{{ .completed }}</td>
+        <td>{{ .platform }}</td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
 {{ end }}
