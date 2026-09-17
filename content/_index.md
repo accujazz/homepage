@@ -4,7 +4,7 @@ title: "Alexey Gornostaev"
 <h1>👋 Hi, I'm Lyosha.</h1>
 
 <div class="block">
-	<p>I'm a product manager and producer in video game space with 10+ years across development, publishing, and media.</p>
+	<p>I'm a product manager and producer in video game space with 15+ years across development, publishing, and media. I shipped games and services for the web, mobile and desktop.</p>
 	<p>Apart from work, I'm a long-time F1 fan, love walking with my dog, nostalgic for pre-social media internet.</p>
 	<p>You can reach me at: hey [at] lyosha.net.</p>
 </div>
