@@ -5,7 +5,7 @@ title: "Alexey Gornostaev"
 
 <div class="block">
 	<p>I'm a product manager and producer in video game space with 15+ years across development, publishing, and media.</p>
-	<p>Pretty sure that my career was determined when in the mid 90s I first got on the web, typed something into AltaVista and landed on some video game fan site.</p>
+	<p>Pretty sure that my career was determined when in the mid-90s I first got on the web, typed something into AltaVista and landed on some video game fan site.</p>
 	<p>You can reach me at: hey [at] lyosha.net.</p>
 </div>
     
