@@ -41,7 +41,7 @@ title: "Alexey Gornostaev"
 <div class="block">
     <h2>What I’m up to right now</h2>
     <p>I self-host super important family entertainment: Plex and Wordle. I also use a Raspberry Pi to run a couple of services using Docker. </p>
-    <p>Recently I enjoyed watching Panic Room (2002), Sorcerer (1977), The Day of the Jackal (1973) and Stealing Beauty (1996). Played <a href="https://store.steampowered.com/app/2721890/oo/">Öoo</a>, Doom (2016) and <a href="https://smestorp.itch.io/cinco-paus">Cinco Paus</a> (the only game I still play on a phone).</p>
+    <p>Recently I enjoyed watching Panic Room (2002), Sorcerer (1977), The Day of the Jackal (1973) and Stealing Beauty (1996). Played <a href="https://store.steampowered.com/app/3641000/The_Incident_at_Galley_House/">The Incident at Galley House</a>, <a href="https://store.steampowered.com/app/2868840/Slay_the_Spire_2/">Slay the Spire 2</a> and <a href="https://smestorp.itch.io/cinco-paus">Cinco Paus</a> (the only game I still play on a phone).</p>
     <p>Occasionally run around with my phone <a href="/img/index/bird-chatting.mp4" target="_blank">identifying birds</a> via songs they make. Solving Rubik’s Cube in approximately 4 minutes 🐌.</p>
 </div>
 
