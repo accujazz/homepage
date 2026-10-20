@@ -40,15 +40,15 @@ title: "Alexey Gornostaev"
 
 <div class="block">
     <h2>What I’m up to right now</h2>
-    <p>I self-host super important family entertainment: Plex and Wordle. I also use a Raspberry Pi to run a couple of services using Docker. </p>
-    <p>Recently I enjoyed watching Panic Room (2002), Sorcerer (1977), The Day of the Jackal (1973) and Stealing Beauty (1996). Played <a href="https://store.steampowered.com/app/3641000/The_Incident_at_Galley_House/">The Incident at Galley House</a>, <a href="https://store.steampowered.com/app/2868840/Slay_the_Spire_2/">Slay the Spire 2</a> and <a href="https://smestorp.itch.io/cinco-paus">Cinco Paus</a> (the only game I still play on a phone).</p>
+    <p>I self-host super important family entertainment: Jellyfin and Wordle. I also use a Raspberry Pi to run a couple of services using Docker. </p>
+    <p>Recently I enjoyed watching The Invite (2026), Widow's Bay (2026) and East of Eden (2026). Played <a href="https://store.steampowered.com/app/3641000/The_Incident_at_Galley_House/">The Incident at Galley House</a>, <a href="https://store.steampowered.com/app/2868840/Slay_the_Spire_2/">Slay the Spire 2</a> and <a href="https://store.steampowered.com/app/2754380/The_Roottrees_are_Dead/">The Roottrees are Dead</a>. The only game I still play on a phone is <a href="https://smestorp.itch.io/cinco-paus">Cinco Paus</a> - an absolutely magical experience.</p>
     <p>Occasionally run around with my phone <a href="/img/index/bird-chatting.mp4" target="_blank">identifying birds</a> via songs they make. Solving Rubik’s Cube in approximately 4 minutes 🐌.</p>
 </div>
 
 <div class="block">
     <h2>Tools I use</h2>
-    <p>I use a MacBook Air M4. Most of the time it’s connected to a 4K Dell U2725QE monitor. Plus, a desktop PC, built in a <a href="/posts/2021-08-12-building-a-pc/">Streacom DA2</a> Mini-ITX (fun) case. Loved building it! It’s running the latest version of <a href="https://www.fedoraproject.org/">Fedora</a>.</p>
-    <p>Software: Sublime Text, Obsidian, Ghostty, NetNewsWire, Instapaper, Syncthing and default Apple apps for calendar, contacts and other basic needs.</p>
+    <p>I use a MacBook Air M4. Most of the time it’s connected to a 4K Dell U2725QE monitor. Plus, a desktop PC, built in a <a href="/posts/2021-08-12-building-a-pc/">Streacom DA2</a> Mini-ITX case. Loved building it! It’s running the latest version of <a href="https://www.fedoraproject.org/">Fedora</a>.</p>
+    <p>Software: Brew, Sublime Text, Obsidian, Ghostty, NetNewsWire, Instapaper, Syncthing and default Apple apps for calendar, contacts and other basic needs. The latest addition is Handy for speech to text.</p>
 </div>
 
 <div class="block">
